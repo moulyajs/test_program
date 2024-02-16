@@ -117,3 +117,159 @@ int main()
     return 0;
 }
 */
+/*
+#include <stdio.h>
+int main()
+{
+    int a = 22;
+    if (a < 10)
+    {
+        printf("good morning\n");
+    }
+    else if (a < 15)
+    {
+        printf("good afternoon\n");
+    }
+    else
+    {
+        printf("good evening\n");
+    }
+
+    printf("end of program");
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    int a,b,c;
+    int count = 0;
+    printf("enter side a:\n");
+    scanf("%d",&a);
+    printf("enter side b:\n");
+    scanf("%d",&b);
+    printf("enter side c:\n");
+    scanf("%d",&c);
+    if (a==b)
+        ++ count;
+    if (b==c)
+        ++ count;
+    if (a==c)
+        ++ count;
+    if (count == 0 )
+
+
+
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    char a;
+    printf("enter a character");
+    scanf("%c", &a);
+    if (a == 'a' | 'A' | 'e' | 'E' | 'i' | 'I' | 'o' | 'O' | 'u' | 'U')
+        printf("the entered word is vowel");
+    else
+        printf("the entered word is not  vowel");
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    int a;
+    printf("enter a number");
+    scanf("%d", &a);
+    if (a % 13 == 0)
+        printf("the entered number is divisible by 13");
+    else
+        printf("the entered number is not divisible by 13");
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    int i;
+    printf("enter a number");
+    scanf("%d", &i);
+    if (i > 0)
+    {
+        printf("the entered number is positive\n");
+        if (i % 2 == 0)
+            printf("even number");
+        else
+            printf("odd number");
+    }
+    else
+        printf("the number is negative");
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    int a;
+    printf("enter a");
+    scanf("%d", &a);
+    switch (a)
+    {
+    case 1:
+        printf("sunday");
+        break;
+    case 2:
+        printf("monday");
+        break;
+    case 3:
+        printf("tuesday");
+        break;
+    case 4:
+        printf("wednesday");
+        break;
+    default:
+        printf("invalid");
+        break;
+    }
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    int a, b;
+    char c;
+    printf("enter an expression ");
+    scanf("%d %c %d", &a, &c, &b);
+
+    switch (c)
+    {
+    case '+':
+        printf("the sum is %d", a + b);
+        break;
+    case '-':
+        printf("subtraction : %d", a - b);
+        break;
+    case '*':
+        printf("the product is %d", a * b);
+        break;
+    case '/':
+        if (b == 0)
+            printf("division by zero");
+        else
+            printf("the quotient is %d", a / b);
+
+        break;
+    default:
+        printf("invalid operation");
+        break;
+    }
+    return 0;
+}
+*/
