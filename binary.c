@@ -273,3 +273,123 @@ int main()
     return 0;
 }
 */
+/*
+#include <stdio.h>
+int main()
+{
+    int i;
+
+    for (i = 0; i < 10; i++)
+    {
+        if (i == 4)
+        {
+            continue;
+        }
+        printf("%d\n", i);
+    }
+    return 0;
+}
+*/
+// check whether the number is prime or not
+/*
+#include <stdio.h>
+int main()
+{
+    int i, j, flag = 0;
+    printf("enter j:\n");
+    scanf("%d", &j);
+    if (j == 0 || j == 1)
+    {
+        flag = 1;
+    }
+
+    for (i = 2; i <= j / 2; i++)
+    {
+        if (j % i == 0)
+        {
+            flag = 1;
+            break;
+        }
+    }
+    if (flag == 1)
+    {
+        printf("%d is not a prime number", j);
+    }
+    else
+        printf("%d is a prime number", j);
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    int i, j;
+    for (i = 1; i <= 5; i++)//rows
+    {
+        for (j = 1; j <= i; j++)//columns
+        {
+            printf("*");
+        }
+        printf("\n");
+    }
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    int i, j;
+    for (i = 1; i <= 5; i++) // rows
+    {
+        for (j = 1; j <= i; j++) // columns
+        {
+            printf("%d ", j);
+                }
+        printf("\n");
+    }
+}
+*/
+/*
+int main()
+{
+    int i, j;
+    for (i = 1; i <= 5; i++)//rows
+    {
+        for (j = 1; j <= i; j++)//columns
+        {
+            printf("*");
+        }
+        printf("\n");
+    }
+}
+*/
+/*
+#include <stdio.h>
+int func1()
+{
+    printf("hello");
+    return 0;
+}
+int func2()
+{
+    printf(" world");
+    return 1;
+}
+int main()
+{
+    int var = func1() + func2();
+    getchar();
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    int a = 11;
+    printf("%d\n", a++ == 12 || a == 12);
+    printf("\n%d", a);
+    return 0;
+}
+*/
