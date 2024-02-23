@@ -393,3 +393,62 @@ int main()
     return 0;
 }
 */
+/*
+#include <stdio.h>
+int main()
+{
+    printf("%d %d", sizeof(int), sizeof(char));
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+#include <limits.h>
+int main()
+{
+    printf("max int  of int %d ", INT_MAX);
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    char n, char_to_search;
+    int count = 0;
+    printf("enter the character to be searched");
+    char_to_search = getchar();
+    printf("enter the string from which character is searched:");
+    while ((n = getchar()) != EOF)
+    {
+        if (n == char_to_search)
+            count++;
+    }
+    printf("%c is present %d in the string", char_to_search, count);
+
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    int nl = 0, nw = 0, nc = 0, inword = 0;
+    char ch;
+    while ((ch == getchar()) != EOF)
+    {
+        nc++;
+        if (ch == '\n')
+            nl++;
+        if (inword && (ch == ' ' || ch == '\n' || ch == '\t'))
+        {
+            nw++;
+            inword = 0;
+        }
+        else if (!(ch == ' ' || ch == '\n' || ch == '\t'))
+            inword = 1;
+    }
+    printf("words = %d\nlines = %d\ncharacters = %d", nw, nl, nc);
+    return 0;
+}
+*/
