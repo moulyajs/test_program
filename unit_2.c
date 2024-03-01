@@ -201,3 +201,126 @@ int product(int a, int b) // defining the function
     // printf("the product is %d\n", c);
 }
 */
+/*
+#include <stdio.h>
+int main()
+{
+    int a[] = {34, 56, 223, 12};
+    int *p = a;
+    int *p1 = &a[2];
+    printf("%d", p1 - p);
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int product(int *ptr1, int *ptr2);
+int main()
+{
+
+    int main()
+    {
+        int a = 3;
+        int b = 2;
+        printf("the product is %d", product(&a, &b)); // calling the function
+        return 0;
+    }
+    int product(int *ptr1, int *ptr2) // defining the function
+    {
+        // int a = 14;
+        // int b = 23;
+        int c;
+        c = (*ptr1) * (*ptr2);
+        return (c);
+        // printf("the product is %d\n", c);
+    }
+}
+*/
+/*
+#include <stdio.h>
+int sum(int a, int b);
+int main()
+{
+    int a = 4;
+    int b = 5;
+    int result;
+    result = sum(a, b);
+    printf("%d", result);
+    return 0;
+}
+int sum(int a, int b)
+{
+    int add;
+    add = a + b;
+    return add;
+}
+*/
+
+// five numbers from user and store it in array and display
+/*
+#include <stdio.h>
+int main()
+{
+    int a[5] = {};
+    int i, j;
+    printf("enter 5 numbers\n");
+    for (i = 1; i <= 5; i++)
+        scanf("%d", &a[i]);
+    for (j = 1; j <= 5; j++)
+        printf("%d\t", a[j]);
+    return 0;
+}
+*/
+// find the average of elements in an array
+/*
+#include <stdio.h>
+int main()
+{
+    int a[3] = {1, 2, 3};
+    int i;
+    int sum = 0;
+    float average = 0.0;
+    for (i = 0; i < 3; i++)
+        sum += a[i];
+    average = (float)sum / 3;
+    printf("%.2f", average);
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+int square(int a);
+int main()
+
+{
+    int n;
+    printf("enter the number:\n");
+    scanf("%d", &n);
+    int result = square(n);
+    printf("%d", result);
+    return 0;
+}
+int square(int a)
+{
+    int c;
+    c = a * a;
+    return c;
+}
+*/
+#include <stdio.h>
+#include <math.h>
+int main()
+{
+    float sum = 0;
+    int n, i;
+    printf("enter the number of elements");
+    scanf("%d", &n);
+    int square;
+    for (i = 0; i <= n; ++i)
+    {
+        square = i * i;
+        sum += 1 / square;
+    }
+    printf("%d", sum);
+    return 0;
+}
