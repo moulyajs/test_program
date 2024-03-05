@@ -307,20 +307,162 @@ int square(int a)
     return c;
 }
 */
+/*
 #include <stdio.h>
 #include <math.h>
 int main()
 {
     float sum = 0;
-    int n, i;
+    int n, i, j;
     printf("enter the number of elements");
     scanf("%d", &n);
-    int square;
-    for (i = 0; i <= n; ++i)
-    {
+    int square = 0;
+    for (i = 0; i <= n; i++)
+
         square = i * i;
+    for (j = 0; j <= n; j++)
         sum += 1 / square;
-    }
+
     printf("%d", sum);
     return 0;
 }
+*/
+// MULTI DIMENSIONAL ARRAYS
+/*
+#include <stdio.h>
+int main()
+{
+    int a[100][100], b[100][100], sum[100][100];
+    int r, c, i, j;
+    printf("enter the number of rows\n ");
+    scanf("%d", &r);
+    printf("rnter the number of columns\n");
+    scanf("%d", &c);
+    printf("enter the elements in the matrix1\n");
+
+    for (int i = 0; i < r; i++)
+    {
+        for (int j = 0; j < c; j++)
+        {
+            scanf("%d", &a[i][j]);
+        }
+    }
+    printf("enter the elements in the matrix2\n");
+
+    for (int i = 0; i < r; i++)
+    {
+        for (int j = 0; j < c; j++)
+        {
+            scanf("%d", &a[i][j]);
+        }
+    }
+    for (int i = 0; i < r; i++)
+    {
+        for (int j = 0; j < c; j++)
+        {
+            sum[i][j] = a[i][j] + b[i][j];
+
+
+        }
+    }
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+#include <stdlib.h>
+int main()
+{
+    int m1[10][10],m2[10][10],product[10][10];
+}
+*/
+/*
+#include <stdio.h>
+int main()
+{
+    int row, col;
+    int i, j;
+
+    scanf("%d%d", &row, &col);
+
+    int matrix[row][col];
+    int(*p)[col];
+    p = matrix;
+
+    for (i = 0; i < row; i++)
+        for (j = 0; j < col; j++)
+            scanf("%d", (*(p + i) + j));
+
+    for (i = 0; i < row; i++)
+    {
+        for (j = 0; j < col; j++)
+        {
+            printf("%d ", *(*(p + i) + j));
+        }
+        printf("\n");
+    }
+    return 0;
+}
+*/
+/*
+#include <stdio.h>
+void input(int[], int);
+void output(int[], int);
+int main()
+{
+    int a[100], n;
+    printf("enter the number of elements:\n");
+    scanf("%d", &n);
+    input(a, n);
+    output(a, n);
+    return 0;
+}
+void input(int a[], int n)
+{
+    for (int i = 0; i < n; i++)
+    {
+        printf("enter the elements\n");
+        scanf("%d", &a[i]);
+    }
+}
+void output(int b[], int m)
+{
+    for (int i = 0; i < m; i++)
+    {
+        printf("\n entered elements are:");
+        printf("%d", b[i]);
+    }
+}
+*/
+/*
+#include <stdio.h>
+void input(int[], int);
+void output(int[], int);
+int main()
+{
+    int a[100], n;
+    printf("enter the number of elements:\n");
+    scanf("%d", &n);
+    printf("the size of array in main %lu:\n", sizeof(a));
+    input(a, n);
+    output(a, n);
+    return 0;
+}
+void input(int a[], int n)
+{
+    printf("the size of array in main %lu:\n", sizeof(a));
+    for (int i = 0; i < n; i++)
+    {
+        printf("enter the elements\n");
+        scanf("%d", &a[i]);
+    }
+}
+void output(int b[], int m)
+{
+    for (int i = 0; i < m; i++)
+    {
+        printf("\n entered elements are:");
+        printf("%d", b[i]);
+    }
+}
+*/
