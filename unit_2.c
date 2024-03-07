@@ -419,21 +419,24 @@ int main()
 }
 void input(int a[], int n)
 {
+    printf("enter the elements\n");
     for (int i = 0; i < n; i++)
     {
-        printf("enter the elements\n");
+
         scanf("%d", &a[i]);
     }
 }
 void output(int b[], int m)
 {
+    printf("\n entered elements are:");
     for (int i = 0; i < m; i++)
     {
-        printf("\n entered elements are:");
-        printf("%d", b[i]);
+
+        printf("\n%d\n", b[i]);
     }
 }
 */
+
 /*
 #include <stdio.h>
 void input(int[], int);
@@ -465,4 +468,44 @@ void output(int b[], int m)
         printf("%d", b[i]);
     }
 }
+*/
+
+/*
+#include <stdio.h>
+void input(int[], int);
+void output(int[], int);
+void sum(int, int);
+int main()
+{
+    int a[100], n;
+    printf("enter the number of elements:\n");
+    scanf("%d", &n);
+
+    input(a, n);
+    output(a, n);
+    sum(a[0], a[n - 1]);
+    return 0;
+}
+void input(int a[], int n)
+{
+
+    for (int i = 0; i < n; i++)
+    {
+        printf("enter the elements\n");
+        scanf("%d", &a[i]);
+    }
+}
+void output(int b[], int m)
+{
+    for (int i = 0; i < m; i++)
+    {
+        printf("\n entered elements are:");
+        printf("%d", b[i]);
+    }
+}
+void sum(int a, int b)
+{
+    printf("\nthe sum is : %d", a + b);
+}
+
 */
