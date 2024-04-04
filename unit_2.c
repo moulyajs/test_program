@@ -212,7 +212,7 @@ int main()
     return 0;
 }
 */
-/*
+
 #include <stdio.h>
 int product(int *ptr1, int *ptr2);
 int main()
@@ -235,7 +235,7 @@ int main()
         // printf("the product is %d\n", c);
     }
 }
-*/
+
 /*
 #include <stdio.h>
 int sum(int a, int b);
@@ -469,7 +469,6 @@ void output(int b[], int m)
     }
 }
 */
-
 /*
 #include <stdio.h>
 void input(int[], int);
@@ -507,5 +506,4 @@ void sum(int a, int b)
 {
     printf("\nthe sum is : %d", a + b);
 }
-
 */
