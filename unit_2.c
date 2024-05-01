@@ -212,11 +212,11 @@ int main()
     return 0;
 }
 */
-
+/*
 #include <stdio.h>
 int product(int *ptr1, int *ptr2);
-int main()
-{
+
+
 
     int main()
     {
@@ -234,8 +234,8 @@ int main()
         return (c);
         // printf("the product is %d\n", c);
     }
-}
 
+*/
 /*
 #include <stdio.h>
 int sum(int a, int b);
