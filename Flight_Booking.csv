@@ -1,0 +1,4051 @@
+num_passengers,trip_type,flight_hour,flight_day,booking_origin,wants_extra_baggage,wants_preferred_seat,flight_duration,booking_complete
+2,RoundTrip,7,Sat,New Zealand,1,0,5.52,0
+1,RoundTrip,3,Sat,New Zealand,0,0,5.52,0
+2,RoundTrip,17,Wed,India,1,1,5.52,0
+1,RoundTrip,4,Sat,New Zealand,0,0,5.52,0
+2,RoundTrip,15,Wed,India,1,0,5.52,0
+1,RoundTrip,20,Thu,New Zealand,1,0,5.52,0
+3,RoundTrip,6,Thu,New Zealand,1,0,5.52,0
+2,RoundTrip,14,Mon,India,1,0,5.52,0
+1,RoundTrip,4,Mon,New Zealand,0,0,5.52,0
+1,RoundTrip,12,Sun,India,0,0,5.52,0
+2,RoundTrip,14,Tue,United Kingdom,1,1,5.52,0
+1,RoundTrip,2,Sat,New Zealand,1,1,5.52,0
+4,RoundTrip,19,Mon,New Zealand,1,0,5.52,0
+1,RoundTrip,14,Fri,India,0,0,5.52,0
+1,RoundTrip,4,Tue,New Zealand,1,1,5.52,0
+1,RoundTrip,14,Thu,India,1,0,5.52,0
+1,RoundTrip,6,Sun,India,0,0,5.52,0
+1,RoundTrip,10,Sat,New Zealand,0,0,5.52,0
+1,RoundTrip,8,Sun,New Zealand,1,0,5.52,0
+1,RoundTrip,3,Sun,China,0,0,5.07,0
+2,CircleTrip,23,Wed,New Zealand,1,0,7.57,0
+1,RoundTrip,9,Wed,South Korea,1,0,6.62,0
+2,RoundTrip,8,Mon,New Zealand,1,0,6.62,0
+2,RoundTrip,13,Fri,South Korea,1,0,6.62,0
+1,RoundTrip,6,Thu,New Zealand,1,0,6.62,0
+1,RoundTrip,7,Thu,South Korea,1,0,6.62,0
+1,RoundTrip,6,Fri,South Korea,0,0,6.62,0
+2,RoundTrip,7,Mon,New Zealand,1,0,6.62,0
+1,RoundTrip,11,Tue,South Korea,1,0,6.62,0
+1,RoundTrip,2,Tue,New Zealand,1,0,6.62,0
+1,RoundTrip,23,Wed,New Zealand,1,1,6.62,0
+2,RoundTrip,4,Thu,South Korea,1,0,6.62,0
+1,RoundTrip,0,Fri,New Zealand,0,0,6.62,0
+1,RoundTrip,4,Mon,New Zealand,1,0,6.62,0
+1,RoundTrip,7,Fri,New Zealand,1,1,6.62,0
+1,RoundTrip,4,Wed,New Zealand,0,0,6.62,0
+1,RoundTrip,14,Sat,South Korea,1,0,6.62,0
+6,RoundTrip,3,Fri,South Korea,1,1,6.62,0
+2,RoundTrip,7,Thu,New Zealand,1,0,6.62,0
+1,RoundTrip,1,Mon,South Korea,1,0,6.62,0
+1,RoundTrip,7,Mon,South Korea,1,0,6.62,0
+1,RoundTrip,7,Thu,South Korea,1,1,6.62,0
+2,RoundTrip,8,Mon,South Korea,1,0,6.62,0
+1,RoundTrip,7,Wed,New Zealand,1,0,6.62,0
+1,RoundTrip,14,Thu,South Korea,1,0,6.62,0
+1,RoundTrip,2,Sun,New Zealand,0,0,6.62,0
+1,RoundTrip,14,Wed,South Korea,0,0,6.62,0
+2,RoundTrip,7,Wed,South Korea,1,0,6.62,0
+1,RoundTrip,14,Fri,South Korea,0,1,6.62,0
+1,RoundTrip,10,Wed,New Zealand,0,0,6.62,0
+1,RoundTrip,9,Tue,New Zealand,1,0,6.62,0
+1,RoundTrip,9,Wed,New Zealand,1,0,6.62,0
+1,RoundTrip,8,Thu,South Korea,1,0,6.62,0
+1,RoundTrip,2,Wed,South Korea,1,1,6.62,0
+1,RoundTrip,14,Tue,South Korea,1,0,6.62,0
+2,RoundTrip,4,Thu,South Korea,1,0,6.62,0
+1,RoundTrip,6,Tue,South Korea,0,0,6.62,0
+1,RoundTrip,14,Tue,New Zealand,1,0,6.62,0
+1,RoundTrip,10,Mon,New Zealand,0,0,6.62,0
+1,RoundTrip,9,Sun,South Korea,1,0,6.62,0
+1,RoundTrip,2,Sat,South Korea,1,0,6.62,0
+4,RoundTrip,9,Mon,New Zealand,1,1,6.62,0
+1,RoundTrip,14,Sun,South Korea,1,0,6.62,0
+4,RoundTrip,6,Sat,New Zealand,0,1,6.62,0
+1,RoundTrip,7,Fri,South Korea,1,0,6.62,0
+2,RoundTrip,10,Sun,New Zealand,0,0,6.62,0
+1,RoundTrip,11,Wed,South Korea,1,0,6.62,0
+1,RoundTrip,6,Tue,South Korea,1,0,6.62,0
+1,RoundTrip,8,Mon,South Korea,1,0,6.62,0
+1,RoundTrip,3,Mon,Japan,1,0,7,0
+1,RoundTrip,13,Mon,Japan,1,0,7,0
+1,RoundTrip,23,Sun,New Zealand,0,0,7,0
+2,RoundTrip,5,Sun,New Zealand,1,0,7,0
+1,RoundTrip,10,Sun,Japan,1,0,7,0
+1,RoundTrip,11,Sat,Japan,0,0,7,0
+1,RoundTrip,6,Fri,New Zealand,1,0,4.75,0
+2,RoundTrip,3,Mon,New Zealand,1,0,4.75,0
+2,RoundTrip,4,Thu,New Zealand,1,0,4.75,0
+1,CircleTrip,3,Wed,New Zealand,1,0,4.75,0
+1,CircleTrip,19,Tue,New Zealand,1,0,4.75,0
+1,RoundTrip,3,Wed,New Zealand,1,0,4.75,0
+1,OneWay,10,Tue,New Zealand,1,0,4.75,0
+1,RoundTrip,17,Mon,Malaysia,0,0,8.83,1
+1,RoundTrip,10,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,16,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,3,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,14,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,23,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,4,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,19,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,2,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,2,Tue,Singapore,1,0,8.83,1
+1,RoundTrip,3,Tue,New Zealand,0,0,8.83,0
+2,RoundTrip,19,Fri,Switzerland,1,0,8.83,0
+1,RoundTrip,20,Wed,New Zealand,0,1,8.83,0
+2,RoundTrip,18,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Sun,Malaysia,1,1,8.83,0
+2,RoundTrip,0,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,23,Sun,New Zealand,0,0,8.83,0
+1,OneWay,13,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,8,Tue,Germany,1,0,8.83,0
+1,RoundTrip,8,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,8,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,7,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,23,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,16,Tue,Malaysia,1,0,8.83,1
+2,RoundTrip,6,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,10,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,9,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,2,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,5,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,2,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Thu,New Zealand,1,1,8.83,0
+1,RoundTrip,4,Sun,Malaysia,0,1,8.83,0
+6,RoundTrip,0,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,2,Thu,New Zealand,1,1,8.83,0
+4,RoundTrip,17,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,0,Mon,Indonesia,0,0,8.83,0
+1,RoundTrip,14,Tue,Malaysia,0,0,8.83,1
+1,RoundTrip,10,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,4,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,7,Sun,China,1,0,8.83,0
+1,RoundTrip,14,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,2,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,12,Wed,Czech Republic,1,1,8.83,0
+2,RoundTrip,11,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,10,Sat,New Zealand,1,0,8.83,0
+2,RoundTrip,3,Thu,New Zealand,1,0,8.83,0
+4,RoundTrip,1,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Wed,New Zealand,0,1,8.83,0
+4,RoundTrip,16,Sun,Malaysia,1,0,8.83,0
+3,RoundTrip,13,Mon,Malaysia,1,1,8.83,1
+2,RoundTrip,11,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,18,Fri,Czech Republic,1,0,8.83,0
+1,RoundTrip,6,Mon,Malaysia,0,0,8.83,0
+2,RoundTrip,10,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,6,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,23,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,22,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,1,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,22,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,1,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,4,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,13,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,23,Tue,Singapore,1,0,8.83,1
+1,RoundTrip,20,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Sun,Malaysia,1,0,8.83,0
+5,RoundTrip,12,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Sat,New Zealand,1,1,8.83,0
+1,RoundTrip,10,Sun,Vietnam,0,0,8.83,0
+1,RoundTrip,13,Sun,Singapore,0,0,8.83,1
+1,RoundTrip,9,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,12,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,5,Thu,Malaysia,0,0,8.83,0
+2,RoundTrip,23,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,20,Sun,Germany,1,0,8.83,0
+1,RoundTrip,8,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,11,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,9,Sat,Thailand,1,0,8.83,0
+5,RoundTrip,8,Fri,New Zealand,1,1,8.83,0
+2,RoundTrip,0,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,20,Sat,New Zealand,1,0,8.83,0
+2,RoundTrip,20,Sun,Spain,1,1,8.83,0
+1,RoundTrip,8,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,12,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Tue,New Zealand,1,0,8.83,0
+5,RoundTrip,13,Sun,Malaysia,1,0,8.83,0
+4,RoundTrip,5,Thu,New Zealand,1,1,8.83,0
+5,RoundTrip,10,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,13,Tue,Malaysia,1,0,8.83,1
+2,RoundTrip,17,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,1,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,15,Mon,Romania,1,0,8.83,0
+2,RoundTrip,4,Wed,Malaysia,1,1,8.83,0
+4,RoundTrip,9,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Fri,Ireland,0,0,8.83,0
+1,RoundTrip,7,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,8,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Sun,Malaysia,0,1,8.83,1
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,23,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,21,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,17,Sat,Italy,1,0,8.83,0
+1,RoundTrip,21,Thu,New Zealand,1,1,8.83,0
+5,RoundTrip,13,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,1,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Mon,Slovakia,1,0,8.83,0
+4,RoundTrip,6,Sun,Malaysia,1,1,8.83,0
+4,RoundTrip,14,Thu,Malaysia,1,0,8.83,1
+5,RoundTrip,2,Tue,Malaysia,1,1,8.83,1
+1,RoundTrip,16,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,2,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,12,Wed,United Arab Emirates,1,0,8.83,0
+2,RoundTrip,6,Wed,Tonga,0,0,8.83,0
+1,RoundTrip,6,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Tue,Germany,1,1,8.83,1
+1,RoundTrip,15,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,11,Sun,Germany,1,0,8.83,0
+1,RoundTrip,7,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,4,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,7,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,1,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,4,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,13,Mon,R‚union,1,0,8.83,0
+1,RoundTrip,4,Thu,Japan,1,0,8.83,0
+3,RoundTrip,16,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,11,Mon,New Zealand,0,0,8.83,1
+3,RoundTrip,8,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,1,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,11,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,16,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,6,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,3,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Tue,New Zealand,1,0,8.83,0
+3,RoundTrip,0,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,16,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,3,Wed,New Zealand,0,0,8.83,0
+2,RoundTrip,22,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,11,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,6,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,4,Thu,Malaysia,1,0,8.83,1
+2,RoundTrip,15,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,2,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,6,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,13,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Thu,New Zealand,1,0,8.83,0
+4,RoundTrip,16,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,15,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,21,Sun,New Zealand,0,0,8.83,0
+3,RoundTrip,7,Wed,Vietnam,1,1,8.83,0
+1,RoundTrip,9,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,14,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,10,Sat,(not set),1,0,8.83,1
+2,RoundTrip,14,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,7,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,7,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,10,Fri,Malaysia,1,1,8.83,1
+1,RoundTrip,4,Wed,Malaysia,1,0,8.83,0
+1,OneWay,23,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,10,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,2,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,8,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,15,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,8,Tue,New Zealand,0,1,8.83,0
+4,RoundTrip,6,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,13,Thu,India,1,0,8.83,0
+2,RoundTrip,8,Wed,Malaysia,1,0,8.83,0
+4,RoundTrip,10,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,9,Sun,Malaysia,1,0,8.83,1
+5,RoundTrip,12,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,21,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,4,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Sun,Saudi Arabia,0,0,8.83,1
+4,RoundTrip,4,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,5,Fri,New Zealand,1,1,8.83,0
+1,RoundTrip,8,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,3,Wed,Singapore,1,0,8.83,1
+2,RoundTrip,13,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,14,Sat,Malaysia,0,0,8.83,0
+3,RoundTrip,3,Sun,Malaysia,1,0,8.83,0
+4,RoundTrip,23,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,15,Wed,Malaysia,1,1,8.83,0
+2,RoundTrip,21,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,3,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,15,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,16,Sun,Malaysia,0,0,8.83,1
+1,RoundTrip,2,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,17,Tue,Netherlands,1,0,8.83,0
+2,RoundTrip,11,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Fri,New Zealand,1,1,8.83,0
+1,RoundTrip,6,Wed,New Zealand,0,0,8.83,1
+1,RoundTrip,4,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,13,Fri,Germany,1,0,8.83,0
+1,RoundTrip,9,Sat,Malaysia,0,0,8.83,1
+2,RoundTrip,12,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,8,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,8,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Fri,New Zealand,0,0,8.83,0
+3,RoundTrip,9,Sat,New Zealand,0,0,8.83,0
+1,OneWay,0,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Sun,Malaysia,0,1,8.83,0
+3,RoundTrip,6,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,12,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,9,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Sun,New Zealand,1,0,8.83,0
+3,RoundTrip,20,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,9,Fri,Malaysia,1,0,8.83,1
+2,RoundTrip,1,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,14,Thu,Malaysia,1,1,8.83,0
+5,RoundTrip,13,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,3,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,4,Mon,Indonesia,1,0,8.83,0
+1,RoundTrip,3,Mon,New Zealand,0,0,8.83,1
+2,RoundTrip,2,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,6,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,11,Fri,Qatar,1,1,8.83,1
+1,RoundTrip,22,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,7,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,2,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,9,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,13,Sat,Germany,1,1,8.83,1
+3,RoundTrip,8,Tue,New Zealand,1,1,8.83,1
+1,RoundTrip,5,Thu,Hong Kong,0,0,8.83,0
+2,RoundTrip,9,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,23,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Mon,Japan,1,0,8.83,1
+1,RoundTrip,7,Sat,Malaysia,1,0,8.83,0
+3,RoundTrip,3,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,4,Thu,Malaysia,0,0,8.83,1
+2,OneWay,8,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,15,Thu,New Zealand,0,0,8.83,0
+2,RoundTrip,7,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,15,Sun,Malaysia,1,0,8.83,0
+6,RoundTrip,5,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,17,Sun,Malaysia,1,1,8.83,1
+1,RoundTrip,5,Tue,Malaysia,0,0,8.83,0
+4,RoundTrip,0,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,8,Wed,New Zealand,0,0,8.83,0
+4,RoundTrip,6,Sun,Malaysia,1,0,8.83,1
+4,RoundTrip,4,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,12,Sun,Malaysia,0,0,8.83,1
+2,RoundTrip,10,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,14,Wed,Malaysia,0,1,8.83,0
+1,RoundTrip,7,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Sun,Indonesia,0,0,8.83,0
+5,OneWay,14,Mon,Hong Kong,1,1,8.83,0
+1,RoundTrip,10,Tue,Thailand,1,0,8.83,0
+1,RoundTrip,8,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,17,Thu,Switzerland,1,0,8.83,0
+2,RoundTrip,16,Tue,Japan,1,0,8.83,0
+1,RoundTrip,0,Wed,New Zealand,1,0,8.83,0
+3,RoundTrip,15,Wed,Malaysia,1,0,8.83,1
+2,RoundTrip,22,Wed,New Zealand,1,0,8.83,0
+3,RoundTrip,2,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,9,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,11,Tue,Malaysia,1,0,8.83,1
+5,RoundTrip,10,Wed,Malaysia,1,1,8.83,1
+2,RoundTrip,6,Mon,New Zealand,1,1,8.83,1
+2,RoundTrip,15,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,12,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,3,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,5,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Wed,New Zealand,0,1,8.83,0
+2,RoundTrip,9,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Wed,New Zealand,0,0,8.83,0
+2,RoundTrip,6,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,15,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,12,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Wed,New Zealand,1,1,8.83,0
+4,RoundTrip,13,Tue,Philippines,1,0,8.83,0
+2,RoundTrip,8,Fri,New Zealand,1,0,8.83,0
+5,RoundTrip,13,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,21,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,8,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,9,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,17,Sat,United Kingdom,1,0,8.83,0
+1,RoundTrip,15,Sun,Malaysia,0,1,8.83,0
+1,RoundTrip,0,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,16,Tue,Malaysia,1,0,8.83,0
+3,RoundTrip,1,Fri,Malaysia,1,1,8.83,0
+2,RoundTrip,4,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,7,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,2,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,5,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,15,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,7,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,16,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,12,Mon,Sri Lanka,0,0,8.83,0
+2,RoundTrip,17,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,3,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,7,Wed,Malaysia,0,0,8.83,1
+1,RoundTrip,17,Fri,Malaysia,0,0,8.83,0
+1,RoundTrip,11,Tue,New Zealand,1,1,8.83,0
+2,RoundTrip,8,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Mon,New Zealand,0,1,8.83,0
+1,RoundTrip,15,Sun,Malaysia,0,0,8.83,1
+2,RoundTrip,6,Sat,New Zealand,1,0,8.83,0
+2,RoundTrip,7,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,7,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,11,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,12,Wed,Singapore,1,1,8.83,1
+2,RoundTrip,8,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,15,Fri,Germany,1,0,8.83,0
+2,RoundTrip,12,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Tue,Japan,1,0,8.83,0
+1,RoundTrip,14,Wed,Malaysia,1,1,8.83,1
+5,RoundTrip,4,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Mon,Malaysia,0,0,8.83,0
+2,RoundTrip,4,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,16,Sun,Malaysia,1,0,8.83,0
+4,RoundTrip,9,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,16,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,8,Tue,New Zealand,0,1,8.83,0
+1,RoundTrip,1,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,7,Mon,Malaysia,0,0,8.83,0
+2,RoundTrip,10,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,17,Wed,France,0,0,8.83,1
+1,RoundTrip,8,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,21,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,5,Mon,Malaysia,0,0,8.83,0
+6,RoundTrip,12,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,19,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,20,Tue,Germany,1,0,8.83,0
+1,RoundTrip,5,Wed,United Kingdom,0,0,8.83,1
+1,RoundTrip,14,Wed,Croatia,0,0,8.83,0
+1,RoundTrip,9,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,3,Wed,Malaysia,1,0,8.83,1
+2,RoundTrip,15,Sun,Germany,0,0,8.83,0
+3,RoundTrip,4,Tue,Singapore,1,0,8.83,0
+2,RoundTrip,10,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Sat,Malaysia,0,0,8.83,1
+1,RoundTrip,22,Sun,Malaysia,0,1,8.83,0
+1,RoundTrip,10,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,22,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,15,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,13,Wed,Philippines,0,0,8.83,0
+2,RoundTrip,13,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,13,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,5,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,2,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,15,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,2,Sun,Malaysia,1,1,8.83,1
+2,RoundTrip,11,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,3,Fri,Malaysia,0,0,8.83,0
+1,RoundTrip,9,Tue,Malaysia,0,0,8.83,1
+1,RoundTrip,20,Fri,United Kingdom,1,0,8.83,0
+5,RoundTrip,14,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,6,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,20,Tue,United Kingdom,0,0,8.83,0
+1,RoundTrip,9,Mon,Malaysia,1,0,8.83,1
+2,RoundTrip,6,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Mon,Malaysia,1,0,8.83,0
+3,RoundTrip,11,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,7,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Sat,New Zealand,0,0,8.83,0
+5,RoundTrip,10,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,10,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,6,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Sat,Malaysia,1,1,8.83,0
+4,RoundTrip,5,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,1,Wed,New Zealand,1,0,8.83,1
+2,RoundTrip,7,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,23,Wed,South Korea,0,0,8.83,0
+2,RoundTrip,15,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,15,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,0,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,13,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,15,Mon,Malaysia,1,1,8.83,0
+2,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,1
+2,RoundTrip,11,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,1,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,11,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,23,Fri,United Kingdom,1,0,8.83,0
+1,RoundTrip,2,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,0,Tue,New Zealand,0,0,8.83,0
+3,RoundTrip,13,Mon,Malaysia,1,1,8.83,0
+2,RoundTrip,11,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,2,Thu,New Zealand,1,0,8.83,0
+3,RoundTrip,9,Sat,New Zealand,1,0,8.83,0
+7,RoundTrip,1,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,10,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Thu,United States,0,0,8.83,0
+2,RoundTrip,17,Sat,Malaysia,1,1,8.83,1
+3,RoundTrip,4,Tue,Singapore,1,0,8.83,0
+1,RoundTrip,17,Sun,United Kingdom,0,0,8.83,0
+2,RoundTrip,17,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,17,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Sun,Malaysia,1,0,8.83,1
+4,RoundTrip,23,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,9,Tue,New Zealand,1,0,8.83,1
+1,RoundTrip,5,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,13,Mon,Malaysia,1,1,8.83,1
+1,RoundTrip,5,Mon,Malaysia,1,0,8.83,1
+3,RoundTrip,2,Wed,Malaysia,1,1,8.83,0
+2,RoundTrip,7,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Mon,France,0,0,8.83,0
+2,RoundTrip,13,Wed,Vietnam,0,0,8.83,0
+1,RoundTrip,7,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Fri,Malaysia,1,1,8.83,0
+2,RoundTrip,14,Wed,Malaysia,1,1,8.83,0
+2,RoundTrip,15,Sat,United States,1,1,8.83,1
+2,RoundTrip,17,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Thu,New Zealand,1,0,8.83,1
+1,RoundTrip,9,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,14,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,13,Mon,Malaysia,1,1,8.83,1
+3,RoundTrip,8,Tue,New Zealand,1,0,8.83,1
+1,RoundTrip,6,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,4,Tue,Malaysia,0,0,8.83,1
+1,RoundTrip,8,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,9,Sun,Laos,0,0,8.83,0
+5,RoundTrip,11,Wed,Malaysia,1,0,8.83,0
+1,OneWay,7,Tue,New Zealand,1,0,8.83,0
+9,RoundTrip,7,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,0,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Sat,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Sat,Malaysia,0,0,8.83,0
+4,RoundTrip,9,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,2,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,23,Mon,Hungary,0,0,8.83,0
+1,RoundTrip,2,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Tue,Malaysia,0,1,8.83,0
+1,RoundTrip,3,Fri,Hong Kong,0,0,8.83,0
+1,RoundTrip,9,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,17,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,10,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,16,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,6,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,3,Sat,Malaysia,0,0,8.83,0
+2,RoundTrip,4,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,17,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,2,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,13,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,14,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,14,Tue,Malaysia,1,0,8.83,1
+2,RoundTrip,3,Tue,New Zealand,1,1,8.83,0
+2,RoundTrip,13,Wed,Malaysia,1,0,8.83,0
+1,OneWay,19,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,11,Wed,United Kingdom,0,0,8.83,0
+1,RoundTrip,7,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,2,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,13,Mon,Malaysia,1,1,8.83,0
+3,RoundTrip,15,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,15,Fri,Portugal,0,0,8.83,0
+2,RoundTrip,10,Fri,Czech Republic,1,0,8.83,0
+2,RoundTrip,22,Fri,New Zealand,0,1,8.83,0
+1,RoundTrip,20,Sat,South Korea,0,0,8.83,0
+1,RoundTrip,14,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,4,Tue,New Zealand,1,0,8.83,0
+6,RoundTrip,17,Thu,Malaysia,1,1,8.83,1
+2,RoundTrip,2,Sun,Netherlands,1,0,8.83,0
+1,RoundTrip,9,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,5,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,17,Thu,Singapore,1,0,8.83,0
+1,RoundTrip,0,Sat,New Zealand,1,0,8.83,0
+3,RoundTrip,1,Tue,Malaysia,1,0,8.83,1
+2,RoundTrip,1,Fri,New Zealand,0,0,8.83,0
+3,RoundTrip,0,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,5,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Tue,New Zealand,1,0,8.83,0
+4,RoundTrip,7,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,1,Tue,Philippines,1,1,8.83,0
+1,RoundTrip,6,Sun,New Zealand,1,0,8.83,1
+1,RoundTrip,8,Tue,Malaysia,1,1,8.83,1
+1,RoundTrip,7,Tue,Malaysia,1,0,8.83,1
+3,RoundTrip,7,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,13,Fri,Malaysia,0,0,8.83,0
+1,RoundTrip,11,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,14,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Wed,New Zealand,0,0,8.83,0
+4,RoundTrip,8,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,11,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,17,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,12,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,19,Fri,Ireland,1,0,8.83,0
+2,RoundTrip,7,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,11,Sat,New Zealand,1,1,8.83,0
+2,RoundTrip,11,Sun,Malaysia,1,0,8.83,0
+1,OneWay,2,Sun,New Zealand,1,0,8.83,0
+4,RoundTrip,9,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,21,Tue,New Zealand,1,1,8.83,0
+3,RoundTrip,9,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,4,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Thu,Malaysia,1,1,8.83,0
+2,RoundTrip,12,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,8,Mon,Malaysia,1,1,8.83,1
+1,RoundTrip,2,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,0,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,4,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,4,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,10,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Thu,India,0,0,8.83,0
+1,RoundTrip,8,Mon,Malaysia,0,0,8.83,0
+6,RoundTrip,8,Tue,Malaysia,1,0,8.83,1
+3,RoundTrip,4,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,14,Thu,Netherlands,0,0,8.83,0
+1,RoundTrip,9,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,16,Sat,United States,0,0,8.83,0
+1,RoundTrip,4,Tue,United Kingdom,1,0,8.83,0
+1,RoundTrip,9,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Fri,Singapore,0,0,8.83,0
+3,RoundTrip,15,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,9,Thu,Malaysia,1,1,8.83,1
+1,RoundTrip,1,Tue,New Zealand,1,0,8.83,0
+6,RoundTrip,4,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Wed,Malaysia,1,0,8.83,1
+2,RoundTrip,8,Thu,Malaysia,1,1,8.83,1
+3,RoundTrip,3,Sat,New Zealand,0,0,8.83,0
+2,RoundTrip,8,Fri,Thailand,1,0,8.83,0
+1,RoundTrip,2,Sat,New Zealand,1,0,8.83,0
+2,RoundTrip,16,Wed,Malaysia,1,0,8.83,0
+3,RoundTrip,15,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,9,Wed,Cyprus,1,0,8.83,0
+2,RoundTrip,5,Wed,New Zealand,1,1,8.83,0
+2,RoundTrip,7,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,15,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,15,Wed,Malaysia,1,0,8.83,1
+2,RoundTrip,14,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,0,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,0,Tue,New Zealand,1,0,8.83,0
+3,RoundTrip,16,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,9,Sun,New Zealand,1,1,8.83,1
+1,RoundTrip,10,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Sun,Laos,1,0,8.83,0
+1,RoundTrip,10,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,6,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Sat,New Zealand,0,1,8.83,0
+1,RoundTrip,8,Mon,Malaysia,1,0,8.83,1
+2,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+3,RoundTrip,8,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,17,Tue,Malaysia,0,0,8.83,1
+1,RoundTrip,8,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Sat,Malaysia,0,0,8.83,0
+2,RoundTrip,0,Wed,Malaysia,1,1,8.83,1
+2,RoundTrip,3,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,14,Fri,Saudi Arabia,1,1,8.83,0
+1,RoundTrip,7,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,0,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,14,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,0,Sun,New Zealand,0,0,8.83,1
+2,RoundTrip,20,Fri,New Zealand,0,0,8.83,0
+2,RoundTrip,9,Wed,India,1,0,8.83,0
+1,RoundTrip,14,Wed,Singapore,0,0,8.83,0
+1,RoundTrip,17,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,13,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,4,Sun,New Zealand,0,0,8.83,0
+5,RoundTrip,2,Thu,New Zealand,1,0,8.83,0
+3,RoundTrip,21,Thu,New Zealand,1,1,8.83,0
+1,RoundTrip,1,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,4,Sun,Malaysia,0,1,8.83,0
+1,RoundTrip,15,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,3,Mon,Malaysia,1,1,8.83,1
+1,RoundTrip,8,Sun,New Zealand,1,0,8.83,0
+4,RoundTrip,5,Mon,United Kingdom,1,1,8.83,0
+1,RoundTrip,5,Sun,Malaysia,1,1,8.83,1
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+3,RoundTrip,15,Thu,Malaysia,1,1,8.83,0
+2,RoundTrip,19,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Tue,Thailand,1,0,8.83,0
+1,RoundTrip,8,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Wed,Malaysia,1,1,8.83,1
+2,RoundTrip,1,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,15,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,13,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,9,Sat,Malaysia,1,1,8.83,1
+1,RoundTrip,8,Thu,New Zealand,1,1,8.83,0
+2,RoundTrip,7,Sat,New Zealand,1,0,8.83,0
+4,RoundTrip,4,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,6,Mon,Malaysia,1,0,8.83,0
+4,RoundTrip,5,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,4,Sat,Malaysia,1,1,8.83,0
+2,RoundTrip,4,Fri,Malaysia,0,0,8.83,1
+2,RoundTrip,17,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,1,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,7,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,7,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Sun,New Zealand,1,1,8.83,0
+2,RoundTrip,4,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,9,Mon,Japan,1,1,8.83,0
+2,RoundTrip,2,Fri,New Zealand,1,1,8.83,0
+2,RoundTrip,15,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,1,Sat,New Zealand,1,0,8.83,0
+2,RoundTrip,5,Wed,New Zealand,1,0,8.83,0
+3,RoundTrip,13,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Thu,Singapore,1,0,8.83,0
+4,RoundTrip,8,Thu,Malaysia,1,1,8.83,1
+2,RoundTrip,9,Mon,Malaysia,0,0,8.83,1
+1,RoundTrip,5,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,12,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,8,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,10,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,8,Sat,New Zealand,1,0,8.83,0
+2,RoundTrip,5,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,6,Fri,Malaysia,0,0,8.83,1
+1,RoundTrip,10,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,0,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Tue,New Zealand,0,0,8.83,0
+2,RoundTrip,9,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,7,Sun,Malaysia,1,0,8.83,1
+3,RoundTrip,10,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Mon,New Zealand,1,1,8.83,0
+4,RoundTrip,2,Thu,Malaysia,1,0,8.83,1
+2,RoundTrip,17,Mon,Spain,1,0,8.83,0
+2,RoundTrip,5,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,8,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,15,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,2,Thu,New Zealand,1,1,8.83,0
+5,RoundTrip,1,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,6,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Sun,Australia,1,0,8.83,1
+1,RoundTrip,4,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,9,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,6,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,11,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,2,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,10,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,19,Tue,United Kingdom,1,0,8.83,0
+1,RoundTrip,16,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,8,Fri,New Zealand,1,1,8.83,0
+5,RoundTrip,23,Mon,New Zealand,1,1,8.83,0
+2,RoundTrip,5,Fri,New Zealand,1,0,8.83,0
+4,RoundTrip,4,Wed,Malaysia,1,1,8.83,1
+2,RoundTrip,18,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,12,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,11,Wed,New Zealand,0,0,8.83,0
+2,RoundTrip,3,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,15,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,13,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,19,Wed,United Kingdom,1,1,8.83,0
+3,RoundTrip,3,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,11,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Fri,Malaysia,0,0,8.83,0
+2,RoundTrip,5,Fri,Malaysia,0,0,8.83,0
+1,RoundTrip,8,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,4,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,4,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,6,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,6,Sun,Malaysia,0,1,8.83,1
+1,RoundTrip,8,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,14,Mon,Malaysia,1,1,8.83,1
+1,RoundTrip,3,Sat,Malaysia,1,0,8.83,1
+2,RoundTrip,22,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,23,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Sat,Malaysia,0,0,8.83,0
+2,RoundTrip,1,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,7,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,3,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,12,Mon,Germany,1,1,8.83,0
+1,RoundTrip,11,Mon,New Zealand,1,1,8.83,0
+4,RoundTrip,23,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,0,Thu,New Zealand,0,0,8.83,0
+2,RoundTrip,2,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Tue,Malaysia,1,0,8.83,0
+4,RoundTrip,0,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,8,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,7,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,1,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,14,Sun,Malaysia,0,0,8.83,1
+1,RoundTrip,2,Sun,Malaysia,1,1,8.83,1
+1,RoundTrip,6,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,15,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Fri,Italy,0,0,8.83,0
+5,RoundTrip,15,Tue,Malaysia,0,1,8.83,0
+2,RoundTrip,6,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,4,Sat,New Zealand,0,0,8.83,0
+2,RoundTrip,13,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,8,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Fri,Vietnam,1,1,8.83,0
+1,RoundTrip,2,Thu,New Zealand,0,0,8.83,1
+1,RoundTrip,17,Sat,Malaysia,0,0,8.83,0
+2,RoundTrip,5,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,23,Tue,New Zealand,1,0,8.83,0
+3,RoundTrip,6,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,14,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,6,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,4,Fri,Malaysia,1,0,8.83,0
+3,RoundTrip,14,Tue,Malaysia,0,0,8.83,1
+1,RoundTrip,6,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,4,Wed,Saudi Arabia,0,0,8.83,0
+1,RoundTrip,4,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,0,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,11,Sat,New Zealand,1,1,8.83,0
+1,RoundTrip,1,Fri,India,1,0,8.83,0
+1,RoundTrip,8,Fri,Malaysia,1,0,8.83,0
+3,RoundTrip,12,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,20,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,15,Mon,Malaysia,0,0,8.83,1
+1,RoundTrip,8,Mon,Malaysia,1,1,8.83,0
+2,RoundTrip,16,Sat,United Kingdom,1,0,8.83,0
+1,RoundTrip,3,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,15,Tue,United Kingdom,0,0,8.83,0
+1,RoundTrip,7,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Thu,Malaysia,1,1,8.83,1
+1,RoundTrip,4,Sat,Malaysia,0,1,8.83,0
+2,RoundTrip,0,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,3,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,11,Wed,New Zealand,1,0,8.83,0
+4,RoundTrip,8,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,13,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,8,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,22,Fri,New Zealand,1,0,8.83,0
+4,RoundTrip,13,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,10,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,6,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,1,Thu,Malaysia,1,0,8.83,0
+8,RoundTrip,3,Sun,Malaysia,1,1,8.83,1
+1,RoundTrip,21,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,12,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,0,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,14,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,2,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,16,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,9,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,4,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,4,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Tue,Singapore,1,0,8.83,0
+3,RoundTrip,11,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,14,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,20,Tue,Singapore,1,0,8.83,0
+1,RoundTrip,1,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,12,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,2,Mon,Malaysia,0,0,8.83,0
+5,RoundTrip,16,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,5,Fri,New Zealand,1,1,8.83,0
+4,RoundTrip,3,Wed,New Zealand,0,0,8.83,0
+2,RoundTrip,15,Sat,Malaysia,0,0,8.83,0
+2,RoundTrip,9,Mon,Malaysia,1,1,8.83,1
+2,RoundTrip,14,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Mon,Malaysia,1,0,8.83,1
+2,RoundTrip,22,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,2,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,7,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,3,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,19,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,11,Tue,New Zealand,1,0,8.83,1
+2,RoundTrip,8,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,7,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,8,Wed,Malaysia,1,0,8.83,1
+2,RoundTrip,10,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,1,Thu,Malaysia,1,1,8.83,0
+2,RoundTrip,5,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,19,Sat,United Kingdom,0,0,8.83,0
+2,RoundTrip,15,Fri,China,1,1,8.83,0
+1,RoundTrip,10,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,4,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,12,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,15,Sun,Malaysia,1,0,8.83,1
+4,RoundTrip,9,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,10,Sat,New Zealand,1,0,8.83,0
+3,RoundTrip,2,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Fri,New Zealand,0,0,8.83,0
+3,RoundTrip,8,Sat,New Zealand,1,1,8.83,0
+1,RoundTrip,13,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,5,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,14,Sun,Cambodia,1,0,8.83,0
+1,RoundTrip,6,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,15,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,4,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,9,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,22,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,20,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,22,Tue,New Zealand,1,1,8.83,0
+2,RoundTrip,15,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,0,Sun,New Zealand,0,0,8.83,1
+2,RoundTrip,14,Mon,Malaysia,0,1,8.83,0
+1,RoundTrip,12,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,7,Sun,Malaysia,0,1,8.83,0
+2,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,22,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,10,Mon,Malaysia,1,1,8.83,0
+2,RoundTrip,1,Fri,Malaysia,0,0,8.83,1
+2,RoundTrip,16,Mon,Malaysia,1,1,8.83,1
+2,RoundTrip,21,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Wed,New Zealand,1,0,8.83,0
+5,RoundTrip,7,Mon,Ireland,1,1,8.83,0
+2,RoundTrip,7,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,7,Fri,Malaysia,1,1,8.83,0
+2,RoundTrip,23,Sun,Netherlands,0,0,8.83,0
+2,RoundTrip,13,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,13,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,3,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,7,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,18,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,7,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Wed,Malaysia,1,0,8.83,1
+2,RoundTrip,20,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,21,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,15,Wed,Singapore,1,0,8.83,1
+1,RoundTrip,23,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Sat,Malaysia,1,0,8.83,0
+3,RoundTrip,15,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,3,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,16,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,13,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,10,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,18,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,0,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,7,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Sat,Poland,1,0,8.83,0
+1,RoundTrip,4,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Sun,New Zealand,1,1,8.83,0
+2,RoundTrip,2,Wed,Malaysia,1,1,8.83,1
+3,RoundTrip,2,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,8,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,11,Mon,Malaysia,0,0,8.83,0
+2,RoundTrip,18,Wed,Germany,0,0,8.83,0
+1,RoundTrip,22,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,15,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,16,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,13,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,10,Sat,Malaysia,1,1,8.83,0
+4,RoundTrip,7,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,9,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,10,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Thu,New Zealand,0,0,8.83,0
+2,RoundTrip,0,Tue,Malaysia,1,0,8.83,0
+3,RoundTrip,21,Fri,Belgium,1,0,8.83,0
+2,RoundTrip,19,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Wed,Malaysia,1,1,8.83,1
+2,RoundTrip,11,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,0,Fri,New Zealand,1,1,8.83,0
+1,RoundTrip,17,Sun,Malaysia,0,0,8.83,1
+2,RoundTrip,17,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Mon,India,1,0,8.83,0
+1,RoundTrip,3,Sat,New Zealand,1,1,8.83,0
+5,RoundTrip,4,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,2,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Sun,Malaysia,0,0,8.83,1
+1,RoundTrip,3,Fri,Malaysia,1,1,8.83,1
+1,RoundTrip,5,Sat,Malaysia,0,0,8.83,1
+5,RoundTrip,7,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,10,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,0,Wed,Malaysia,1,1,8.83,0
+2,RoundTrip,13,Tue,Malaysia,1,1,8.83,1
+4,RoundTrip,16,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,13,Tue,Malaysia,1,1,8.83,0
+4,RoundTrip,3,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,2,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,7,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,16,Sun,Malaysia,0,0,8.83,1
+2,RoundTrip,3,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,14,Sun,United Kingdom,0,0,8.83,0
+1,RoundTrip,7,Tue,Malaysia,1,0,8.83,1
+5,RoundTrip,23,Tue,New Zealand,1,0,8.83,0
+7,RoundTrip,16,Fri,United Kingdom,1,1,8.83,1
+1,RoundTrip,0,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,5,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,1,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Mon,Malaysia,1,0,8.83,0
+3,RoundTrip,5,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,6,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,7,Mon,New Zealand,1,1,8.83,1
+2,RoundTrip,12,Sun,Germany,1,1,8.83,0
+1,RoundTrip,9,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,17,Sun,Malaysia,1,0,8.83,1
+2,RoundTrip,9,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,12,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,11,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,13,Fri,France,0,0,8.83,0
+2,RoundTrip,12,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,10,Fri,New Zealand,1,1,8.83,1
+1,RoundTrip,2,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,2,Wed,Malaysia,1,1,8.83,1
+3,RoundTrip,2,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,4,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,9,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,17,Sun,Oman,1,0,8.83,0
+1,RoundTrip,9,Thu,New Zealand,0,0,8.83,1
+1,RoundTrip,8,Fri,Malaysia,1,0,8.83,1
+4,RoundTrip,14,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,16,Tue,Malaysia,1,0,8.83,1
+2,RoundTrip,6,Sun,Malaysia,1,1,8.83,1
+3,RoundTrip,14,Tue,United Kingdom,0,0,8.83,0
+1,RoundTrip,9,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,12,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,1,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,0,Sat,New Zealand,1,1,8.83,0
+1,RoundTrip,12,Wed,Malaysia,1,0,8.83,0
+4,RoundTrip,13,Wed,Malaysia,1,0,8.83,0
+3,RoundTrip,6,Tue,New Zealand,0,0,8.83,0
+2,RoundTrip,7,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,8,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Sun,Philippines,1,0,8.83,0
+1,RoundTrip,6,Fri,Malaysia,1,1,8.83,1
+2,RoundTrip,4,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,9,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Fri,Malaysia,1,0,8.83,1
+2,RoundTrip,8,Sat,United Kingdom,1,1,8.83,0
+1,RoundTrip,7,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,6,Tue,United States,0,0,8.83,1
+1,RoundTrip,12,Fri,France,0,0,8.83,1
+1,RoundTrip,15,Fri,Indonesia,1,0,8.83,0
+1,RoundTrip,2,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Fri,Thailand,1,0,8.83,0
+1,RoundTrip,9,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,16,Thu,New Zealand,1,0,8.83,1
+2,RoundTrip,21,Sun,Spain,1,0,8.83,0
+3,RoundTrip,12,Sun,Germany,1,1,8.83,0
+1,RoundTrip,1,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,2,Sat,Saudi Arabia,1,0,8.83,0
+1,RoundTrip,14,Fri,Malaysia,1,1,8.83,1
+1,RoundTrip,23,Sat,Malaysia,1,0,8.83,1
+2,RoundTrip,10,Sat,Malaysia,1,1,8.83,1
+2,RoundTrip,12,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,11,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,2,Thu,Malaysia,0,0,8.83,0
+2,RoundTrip,5,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,8,Sun,Malaysia,0,0,8.83,1
+2,RoundTrip,13,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,10,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,22,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,5,Fri,New Zealand,0,0,8.83,0
+2,RoundTrip,15,Mon,Malaysia,0,0,8.83,0
+3,RoundTrip,9,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,2,Sun,Malaysia,1,1,8.83,1
+2,RoundTrip,10,Sat,New Zealand,0,0,8.83,0
+2,RoundTrip,7,Thu,New Zealand,0,0,8.83,0
+2,RoundTrip,16,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,7,Fri,Malaysia,0,0,8.83,1
+2,RoundTrip,12,Sun,Malaysia,0,1,8.83,0
+1,RoundTrip,8,Wed,New Zealand,1,1,8.83,0
+3,RoundTrip,11,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,2,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Wed,Qatar,1,1,8.83,1
+1,RoundTrip,4,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,9,Mon,Malaysia,1,1,8.83,1
+4,RoundTrip,7,Thu,Indonesia,1,0,8.83,0
+1,RoundTrip,11,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,8,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,12,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Fri,Australia,0,0,8.83,0
+1,RoundTrip,6,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,13,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,11,Tue,Malaysia,1,0,8.83,1
+2,RoundTrip,10,Sun,Netherlands,0,0,8.83,0
+1,RoundTrip,19,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,11,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Mon,New Zealand,1,0,8.83,1
+4,RoundTrip,7,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Sat,Bangladesh,1,0,8.83,1
+3,RoundTrip,2,Tue,Malaysia,1,1,8.83,1
+1,RoundTrip,6,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,10,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,0,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Sat,Malaysia,0,0,8.83,0
+2,RoundTrip,6,Fri,Philippines,1,1,8.83,1
+1,RoundTrip,3,Mon,Malaysia,0,0,8.83,1
+6,RoundTrip,15,Wed,Malaysia,1,0,8.83,0
+3,RoundTrip,14,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,17,Sat,Malaysia,0,0,8.83,1
+3,RoundTrip,0,Fri,(not set),0,0,8.83,0
+2,RoundTrip,10,Tue,New Zealand,0,0,8.83,0
+4,RoundTrip,23,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,3,Wed,Malaysia,0,0,8.83,1
+1,RoundTrip,8,Fri,Malaysia,1,0,8.83,0
+3,RoundTrip,6,Sat,New Zealand,1,1,8.83,0
+2,RoundTrip,4,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Sun,New Zealand,0,0,8.83,0
+3,RoundTrip,10,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,4,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,22,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,3,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,2,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,11,Sun,Malaysia,1,0,8.83,0
+3,RoundTrip,3,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,18,Sun,New Zealand,1,1,8.83,0
+4,RoundTrip,6,Fri,Malaysia,1,0,8.83,1
+2,RoundTrip,13,Sun,Kazakhstan,1,1,8.83,0
+2,RoundTrip,9,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,2,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,6,Sun,Romania,1,0,8.83,0
+1,RoundTrip,6,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,11,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Tue,Malaysia,1,1,8.83,1
+1,RoundTrip,4,Fri,New Zealand,0,0,8.83,0
+2,RoundTrip,14,Fri,United Kingdom,0,0,8.83,0
+1,RoundTrip,17,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,1,Sat,Malaysia,0,0,8.83,1
+1,RoundTrip,12,Fri,New Zealand,1,0,8.83,0
+5,RoundTrip,10,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Sat,New Zealand,1,0,8.83,0
+3,RoundTrip,11,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,10,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,6,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,3,Fri,Malaysia,1,0,8.83,0
+6,RoundTrip,6,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,8,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,6,Sat,Singapore,1,0,8.83,0
+2,RoundTrip,7,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,17,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,13,Sun,R‚union,0,0,8.83,0
+1,RoundTrip,1,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,5,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,14,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,4,Wed,Malaysia,1,0,8.83,0
+1,OneWay,6,Thu,Vietnam,0,0,8.83,0
+1,RoundTrip,5,Wed,Malaysia,1,1,8.83,0
+2,RoundTrip,6,Fri,Malaysia,1,1,8.83,0
+3,RoundTrip,6,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Fri,Malaysia,0,0,8.83,1
+1,RoundTrip,13,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,13,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,3,Mon,Malaysia,0,1,8.83,0
+2,RoundTrip,14,Thu,Malaysia,1,1,8.83,0
+2,RoundTrip,0,Thu,Malaysia,1,0,8.83,0
+3,RoundTrip,8,Fri,Malaysia,0,0,8.83,0
+1,OneWay,14,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,13,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,15,Thu,R‚union,1,0,8.83,1
+1,RoundTrip,2,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,22,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,1,Sun,Thailand,0,1,8.83,0
+1,RoundTrip,17,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,12,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,0,Sun,New Zealand,1,0,8.83,0
+1,OneWay,5,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,12,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,8,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,4,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Fri,New Zealand,0,0,8.83,0
+3,RoundTrip,6,Sun,New Zealand,1,0,8.83,1
+3,RoundTrip,11,Sun,Malaysia,0,0,8.83,0
+1,OneWay,10,Tue,New Zealand,0,1,8.83,0
+1,RoundTrip,19,Mon,Brazil,1,0,8.83,0
+1,RoundTrip,11,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,19,Fri,Belgium,1,0,8.83,0
+2,RoundTrip,10,Mon,Netherlands,1,0,8.83,0
+1,RoundTrip,2,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,12,Sun,Thailand,1,0,8.83,1
+1,RoundTrip,19,Tue,New Zealand,1,0,8.83,1
+1,RoundTrip,1,Tue,New Zealand,0,0,8.83,0
+2,RoundTrip,5,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,5,Sun,Malaysia,0,0,8.83,1
+8,RoundTrip,14,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,2,Wed,New Zealand,1,1,8.83,0
+3,RoundTrip,16,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Mon,Malaysia,1,1,8.83,1
+1,RoundTrip,14,Sun,Malaysia,1,1,8.83,0
+2,RoundTrip,5,Mon,Malaysia,0,0,8.83,1
+3,RoundTrip,11,Thu,Malaysia,1,1,8.83,0
+2,RoundTrip,12,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,9,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,0,Tue,New Zealand,0,0,8.83,0
+2,RoundTrip,2,Thu,Malaysia,1,1,8.83,0
+3,RoundTrip,7,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,12,Tue,Malaysia,0,0,8.83,0
+4,RoundTrip,13,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,10,Sat,Switzerland,0,0,8.83,0
+1,RoundTrip,16,Fri,Malaysia,0,0,8.83,1
+2,RoundTrip,11,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,3,Mon,Malaysia,0,0,8.83,0
+2,RoundTrip,11,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Thu,New Zealand,1,1,8.83,1
+1,RoundTrip,3,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,7,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,0,Tue,New Zealand,1,0,8.83,0
+3,RoundTrip,20,Sun,New Zealand,0,1,8.83,0
+2,RoundTrip,4,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,10,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,19,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,21,Thu,Malaysia,0,0,8.83,1
+2,RoundTrip,9,Fri,Malaysia,1,1,8.83,1
+1,RoundTrip,9,Thu,Malaysia,1,1,8.83,0
+4,RoundTrip,10,Tue,Malaysia,1,0,8.83,0
+3,RoundTrip,11,Tue,China,0,0,8.83,0
+2,RoundTrip,4,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,15,Sun,Malaysia,0,1,8.83,0
+2,RoundTrip,12,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,13,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,5,Wed,New Zealand,0,0,8.83,0
+2,RoundTrip,10,Sat,United Kingdom,1,1,8.83,0
+2,RoundTrip,6,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,14,Wed,Netherlands,1,1,8.83,0
+1,RoundTrip,11,Sat,New Zealand,1,1,8.83,0
+2,RoundTrip,1,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,18,Thu,New Zealand,1,0,8.83,0
+3,RoundTrip,14,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,13,Sat,R‚union,0,0,8.83,0
+2,RoundTrip,8,Wed,Turkey,0,0,8.83,0
+1,RoundTrip,2,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,5,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,20,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,14,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,3,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,20,Wed,New Zealand,1,1,8.83,0
+3,RoundTrip,16,Sun,Malaysia,1,1,8.83,1
+1,RoundTrip,15,Mon,Thailand,1,0,8.83,0
+2,RoundTrip,8,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,2,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Fri,Kenya,1,0,8.83,0
+1,RoundTrip,23,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,10,Tue,Saudi Arabia,1,0,8.83,0
+2,RoundTrip,22,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,7,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Thu,United Kingdom,0,0,8.83,0
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,17,Sat,United Kingdom,0,0,8.83,1
+2,RoundTrip,9,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Mon,Malaysia,0,0,8.83,0
+2,RoundTrip,9,Mon,Italy,0,0,8.83,0
+1,RoundTrip,4,Fri,Malaysia,0,0,8.83,1
+2,RoundTrip,19,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,1,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,2,Thu,India,1,0,8.83,1
+1,RoundTrip,3,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,11,Sun,Malaysia,1,1,8.83,0
+2,RoundTrip,17,Sat,Malaysia,1,1,8.83,1
+2,RoundTrip,8,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,16,Tue,New Zealand,1,0,8.83,0
+4,RoundTrip,14,Wed,Malaysia,1,0,8.83,1
+2,RoundTrip,13,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,0,Sun,New Zealand,0,0,8.83,1
+1,RoundTrip,13,Sun,Malaysia,0,0,8.83,1
+2,RoundTrip,15,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,16,Tue,Malaysia,0,0,8.83,1
+1,RoundTrip,10,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,19,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,8,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,11,Mon,Italy,0,0,8.83,0
+3,RoundTrip,2,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Fri,China,0,0,8.83,1
+1,RoundTrip,18,Tue,Malaysia,1,1,8.83,1
+2,RoundTrip,3,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,15,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,9,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,4,Sun,Indonesia,1,0,8.83,1
+1,RoundTrip,11,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,12,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,23,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,18,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,11,Tue,Malaysia,1,1,8.83,1
+1,RoundTrip,2,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,7,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,16,Fri,Malaysia,1,0,8.83,1
+3,RoundTrip,10,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,8,Tue,Malaysia,0,1,8.83,1
+2,RoundTrip,12,Wed,Switzerland,1,0,8.83,1
+1,RoundTrip,23,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,17,Tue,Netherlands,1,0,8.83,0
+1,RoundTrip,10,Fri,New Zealand,1,1,8.83,0
+1,RoundTrip,17,Fri,Malaysia,0,0,8.83,0
+1,RoundTrip,3,Sat,Malaysia,1,1,8.83,0
+2,RoundTrip,8,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,3,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,11,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,20,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,15,Thu,Taiwan,1,1,8.83,0
+3,RoundTrip,10,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,21,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,15,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,1,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,10,Thu,New Zealand,1,0,8.83,0
+4,RoundTrip,12,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Sat,Malaysia,1,0,8.83,0
+5,RoundTrip,8,Mon,Malaysia,1,1,8.83,0
+2,RoundTrip,15,Wed,Malaysia,1,1,8.83,1
+2,RoundTrip,0,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,10,Sun,United Arab Emirates,1,0,8.83,0
+1,RoundTrip,11,Wed,Thailand,1,1,8.83,0
+2,RoundTrip,11,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,3,Mon,Germany,1,0,8.83,0
+2,RoundTrip,23,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,0,Sun,Malaysia,1,0,8.83,0
+6,RoundTrip,2,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,16,Sun,United Kingdom,0,0,8.83,0
+1,RoundTrip,20,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,19,Thu,New Zealand,0,0,8.83,0
+2,RoundTrip,10,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Mon,Vietnam,0,0,8.83,0
+1,RoundTrip,12,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Fri,New Zealand,0,0,8.83,0
+4,RoundTrip,5,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,6,Wed,New Zealand,1,0,8.83,1
+2,RoundTrip,5,Wed,Malaysia,0,0,8.83,1
+1,RoundTrip,7,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,1,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Tue,New Zealand,0,0,8.83,0
+2,RoundTrip,16,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,8,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,6,Mon,New Zealand,1,0,8.83,0
+3,RoundTrip,8,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,12,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,1,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,5,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,14,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,6,Thu,New Zealand,1,1,8.83,0
+2,RoundTrip,6,Sat,New Zealand,0,0,8.83,0
+2,RoundTrip,4,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Thu,New Zealand,1,1,8.83,0
+1,RoundTrip,2,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Sat,New Zealand,0,0,8.83,0
+4,RoundTrip,13,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Wed,Singapore,1,1,8.83,1
+2,RoundTrip,3,Sun,Brunei,1,0,8.83,0
+2,RoundTrip,10,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,5,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Mon,Malaysia,0,0,8.83,1
+1,RoundTrip,13,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Thu,Saudi Arabia,1,0,8.83,1
+1,RoundTrip,1,Sat,New Zealand,1,1,8.83,0
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+4,RoundTrip,6,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Mon,Thailand,1,0,8.83,0
+4,RoundTrip,3,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Tue,New Zealand,1,0,8.83,0
+3,RoundTrip,2,Thu,Malaysia,1,0,8.83,0
+3,RoundTrip,14,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,9,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,12,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,21,Mon,Italy,1,1,8.83,0
+1,RoundTrip,6,Thu,Malaysia,1,0,8.83,1
+2,RoundTrip,14,Wed,Singapore,1,0,8.83,0
+1,RoundTrip,2,Wed,Malaysia,1,0,8.83,0
+2,OneWay,6,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,12,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,5,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,13,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Mon,Malaysia,1,0,8.83,0
+3,RoundTrip,18,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Sat,Malaysia,0,0,8.83,0
+5,RoundTrip,8,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,13,Sat,Belgium,0,0,8.83,0
+1,RoundTrip,9,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Wed,Malaysia,1,0,8.83,1
+5,RoundTrip,17,Sat,New Zealand,0,0,8.83,0
+2,RoundTrip,15,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,4,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,6,Sun,Malaysia,0,0,8.83,1
+1,RoundTrip,22,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,10,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,15,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,14,Fri,China,1,0,8.83,0
+1,RoundTrip,10,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,5,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,7,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Fri,Singapore,1,0,8.83,0
+4,RoundTrip,8,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,15,Tue,Malaysia,1,0,8.83,0
+5,RoundTrip,22,Wed,New Zealand,1,1,8.83,0
+3,RoundTrip,8,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Mon,Indonesia,1,1,8.83,0
+1,RoundTrip,8,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,3,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,18,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,12,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,10,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Tue,Malaysia,1,0,8.83,0
+3,RoundTrip,2,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,6,Fri,New Zealand,0,0,8.83,0
+3,RoundTrip,9,Tue,New Zealand,0,0,8.83,0
+2,RoundTrip,1,Mon,Malaysia,1,1,8.83,1
+4,RoundTrip,5,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,12,Sun,Malaysia,1,0,8.83,0
+5,RoundTrip,5,Wed,Hong Kong,1,0,8.83,0
+3,RoundTrip,9,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,0,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,11,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,6,Tue,New Zealand,1,0,8.83,1
+1,RoundTrip,15,Wed,Indonesia,1,0,8.83,0
+1,RoundTrip,7,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,3,Sat,Malaysia,0,0,8.83,0
+2,RoundTrip,0,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Sun,Malaysia,1,1,8.83,1
+2,RoundTrip,19,Tue,New Zealand,1,1,8.83,0
+2,RoundTrip,2,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,7,Wed,Malaysia,0,0,8.83,0
+4,RoundTrip,23,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,21,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Sat,New Zealand,1,0,8.83,0
+2,RoundTrip,7,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Sat,Thailand,0,0,8.83,0
+3,RoundTrip,13,Thu,Malaysia,0,0,8.83,0
+2,RoundTrip,5,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,14,Mon,Malaysia,0,0,8.83,1
+2,RoundTrip,13,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,3,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,19,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Thu,New Zealand,0,0,8.83,0
+3,RoundTrip,10,Sun,Malaysia,1,0,8.83,1
+3,RoundTrip,5,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,16,Sun,Malaysia,1,1,8.83,1
+1,RoundTrip,3,Sat,New Zealand,0,0,8.83,0
+2,RoundTrip,6,Sun,Malaysia,0,0,8.83,1
+1,RoundTrip,5,Mon,New Zealand,0,1,8.83,1
+1,RoundTrip,12,Mon,Malaysia,0,1,8.83,0
+1,RoundTrip,10,Wed,Malaysia,1,0,8.83,0
+3,RoundTrip,1,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,9,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,8,Mon,New Zealand,1,1,8.83,0
+2,RoundTrip,17,Sun,Italy,1,0,8.83,0
+2,RoundTrip,9,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,14,Mon,Malaysia,0,0,8.83,1
+1,RoundTrip,12,Mon,Malaysia,1,0,8.83,1
+2,RoundTrip,6,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,7,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,23,Thu,Chile,1,0,8.83,0
+1,RoundTrip,2,Sat,Malaysia,1,0,8.83,1
+2,RoundTrip,21,Mon,France,1,1,8.83,0
+2,RoundTrip,2,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,14,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Sun,Hong Kong,1,1,8.83,0
+2,RoundTrip,9,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,6,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,3,Mon,New Zealand,0,1,8.83,0
+1,RoundTrip,11,Tue,New Zealand,1,0,8.83,0
+2,OneWay,5,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,19,Wed,United States,1,0,8.83,0
+2,RoundTrip,23,Tue,Malaysia,1,1,8.83,1
+2,RoundTrip,6,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,10,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,18,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,8,Fri,Malaysia,1,0,8.83,1
+2,RoundTrip,11,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,5,Fri,New Zealand,1,0,8.83,1
+3,RoundTrip,2,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,3,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,4,Fri,Malaysia,0,0,8.83,0
+1,RoundTrip,2,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Tue,Malaysia,1,1,8.83,1
+1,RoundTrip,7,Sat,Malaysia,1,1,8.83,1
+1,RoundTrip,7,Fri,New Zealand,1,1,8.83,0
+1,RoundTrip,8,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,9,Fri,New Zealand,1,1,8.83,0
+2,RoundTrip,5,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,22,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Thu,Malaysia,1,1,8.83,1
+1,RoundTrip,5,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,16,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,8,Sun,Malaysia,0,0,8.83,1
+2,RoundTrip,5,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Thu,New Zealand,0,0,8.83,0
+4,RoundTrip,7,Sun,New Zealand,0,1,8.83,0
+2,RoundTrip,4,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,15,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,11,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,7,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,8,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,2,Mon,Malaysia,1,1,8.83,0
+2,RoundTrip,5,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,15,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,10,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,4,Fri,Malaysia,0,1,8.83,0
+1,RoundTrip,12,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,0,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,9,Mon,Malaysia,0,0,8.83,0
+2,RoundTrip,14,Thu,Malaysia,1,1,8.83,0
+3,RoundTrip,11,Wed,New Zealand,1,1,8.83,0
+2,RoundTrip,11,Mon,New Zealand,1,0,8.83,0
+4,RoundTrip,0,Sat,New Zealand,0,0,8.83,0
+2,RoundTrip,14,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,13,Sun,Malaysia,0,1,8.83,1
+3,RoundTrip,9,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,7,Mon,Malaysia,1,0,8.83,1
+2,RoundTrip,22,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,15,Sat,Singapore,0,0,8.83,0
+1,RoundTrip,4,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,11,Sat,New Zealand,0,0,8.83,0
+1,OneWay,7,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,0,Thu,New Zealand,1,1,8.83,0
+3,RoundTrip,11,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,9,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,0,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,13,Tue,Malaysia,1,0,8.83,1
+2,RoundTrip,4,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,1,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,16,Sun,Malaysia,0,1,8.83,0
+3,RoundTrip,20,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,4,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Tue,Malaysia,1,0,8.83,0
+3,RoundTrip,10,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,2,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,15,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,8,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,2,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Fri,Malaysia,1,1,8.83,1
+2,RoundTrip,5,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,20,Thu,France,1,0,8.83,0
+3,RoundTrip,15,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,12,Thu,Saudi Arabia,1,1,8.83,0
+1,RoundTrip,12,Fri,Australia,0,0,8.83,0
+1,RoundTrip,13,Thu,Malaysia,1,1,8.83,0
+2,RoundTrip,1,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,9,Sat,New Zealand,1,0,8.83,1
+1,RoundTrip,8,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,5,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,9,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,5,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Mon,New Zealand,1,0,8.83,0
+4,RoundTrip,14,Mon,Malaysia,1,0,8.83,1
+2,RoundTrip,0,Thu,France,1,0,8.83,0
+1,RoundTrip,4,Sat,Malaysia,0,0,8.83,0
+3,RoundTrip,8,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,6,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,2,Fri,New Zealand,0,0,8.83,0
+2,RoundTrip,17,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,2,Sat,Malaysia,1,0,8.83,0
+5,RoundTrip,7,Mon,Ireland,1,1,8.83,0
+2,RoundTrip,8,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,10,Thu,Singapore,1,0,8.83,1
+1,RoundTrip,15,Tue,Malaysia,0,0,8.83,1
+2,RoundTrip,12,Fri,New Zealand,0,0,8.83,0
+2,RoundTrip,1,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Mon,United Kingdom,0,0,8.83,0
+3,RoundTrip,9,Fri,Malaysia,1,1,8.83,0
+5,RoundTrip,9,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,13,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,17,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,11,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,9,Thu,Malaysia,1,0,8.83,1
+3,RoundTrip,18,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,7,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,12,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,11,Fri,Singapore,1,0,8.83,0
+1,RoundTrip,17,Fri,Germany,1,1,8.83,1
+1,RoundTrip,1,Tue,Philippines,1,1,8.83,0
+2,RoundTrip,7,Sun,Malaysia,1,1,8.83,1
+1,RoundTrip,20,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,10,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,3,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,9,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,16,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,23,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,2,Sat,New Zealand,1,1,8.83,0
+2,RoundTrip,8,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Mon,New Zealand,0,1,8.83,0
+1,RoundTrip,10,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,1,Mon,New Zealand,1,1,8.83,0
+3,RoundTrip,4,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,0,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Fri,Malaysia,1,1,8.83,1
+1,RoundTrip,11,Sun,New Zealand,1,1,8.83,0
+4,RoundTrip,15,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,0,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,5,Sun,Malaysia,0,0,8.83,1
+1,RoundTrip,8,Thu,Singapore,1,0,8.83,0
+1,RoundTrip,13,Mon,Malaysia,1,0,8.83,0
+4,RoundTrip,7,Sun,Saudi Arabia,0,0,8.83,1
+3,RoundTrip,23,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,23,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,8,Thu,New Zealand,1,0,8.83,1
+2,RoundTrip,4,Fri,Malaysia,1,0,8.83,0
+4,RoundTrip,16,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,15,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,8,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,0,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Sun,New Zealand,0,1,8.83,0
+1,RoundTrip,18,Tue,Bulgaria,1,0,8.83,0
+2,RoundTrip,8,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,9,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,2,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Sun,Malaysia,1,0,8.83,0
+4,RoundTrip,12,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,2,Wed,Malaysia,1,1,8.83,0
+2,RoundTrip,5,Fri,Malaysia,1,1,8.83,0
+3,RoundTrip,23,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,8,Sun,Malaysia,0,1,8.83,0
+2,RoundTrip,8,Fri,New Zealand,0,1,8.83,0
+4,RoundTrip,19,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,0,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Sat,New Zealand,0,1,8.83,0
+4,RoundTrip,4,Sun,Malaysia,0,0,8.83,1
+4,RoundTrip,8,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,15,Sat,Malaysia,1,1,8.83,1
+2,RoundTrip,21,Tue,New Zealand,0,0,8.83,0
+4,RoundTrip,8,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,21,Thu,New Zealand,1,1,8.83,0
+2,RoundTrip,10,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,0,Tue,Malaysia,1,0,8.83,1
+4,RoundTrip,13,Thu,Malaysia,1,1,8.83,1
+5,RoundTrip,18,Sun,Malaysia,1,0,8.83,1
+2,RoundTrip,21,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Wed,New Zealand,1,1,8.83,0
+2,RoundTrip,22,Sun,New Zealand,1,0,8.83,0
+4,RoundTrip,18,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,22,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,4,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Sun,New Zealand,1,0,8.83,1
+3,RoundTrip,10,Mon,Malaysia,1,1,8.83,0
+4,RoundTrip,3,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,0,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,1,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Sat,New Zealand,1,0,8.83,0
+3,RoundTrip,7,Sun,Malaysia,1,1,8.83,1
+3,RoundTrip,6,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Tue,Singapore,0,0,8.83,1
+2,RoundTrip,16,Tue,United States,1,0,8.83,0
+3,RoundTrip,5,Fri,Brunei,1,0,8.83,1
+1,RoundTrip,6,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,8,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,15,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,14,Fri,Malaysia,1,0,8.83,1
+2,RoundTrip,14,Mon,Malaysia,1,1,8.83,1
+1,RoundTrip,8,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,8,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,21,Sun,Malaysia,1,1,8.83,1
+1,RoundTrip,21,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,19,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,4,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,1,Wed,Malaysia,1,1,8.83,0
+3,RoundTrip,4,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,4,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,3,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Wed,Malaysia,0,0,8.83,0
+1,RoundTrip,2,Sun,Malaysia,0,0,8.83,1
+5,RoundTrip,13,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,3,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,4,Thu,Singapore,0,0,8.83,0
+1,RoundTrip,4,Thu,Malaysia,1,1,8.83,1
+1,RoundTrip,14,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,17,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,20,Thu,United Kingdom,1,0,8.83,0
+1,RoundTrip,5,Sun,New Zealand,1,1,8.83,0
+2,RoundTrip,14,Wed,Malaysia,1,0,8.83,1
+2,RoundTrip,8,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,19,Wed,Germany,0,0,8.83,1
+2,RoundTrip,7,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,6,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,15,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,3,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,3,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,10,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,14,Fri,Malaysia,1,0,8.83,1
+2,RoundTrip,12,Tue,Australia,1,0,8.83,0
+1,RoundTrip,4,Wed,Malaysia,1,0,8.83,0
+5,RoundTrip,0,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,0,Fri,New Zealand,1,0,8.83,1
+1,RoundTrip,7,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,19,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,19,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,11,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,17,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Sun,New Zealand,1,1,8.83,0
+6,RoundTrip,1,Thu,Malaysia,1,1,8.83,1
+1,RoundTrip,8,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,5,Fri,Qatar,1,1,8.83,1
+4,RoundTrip,2,Thu,Malaysia,1,0,8.83,1
+3,RoundTrip,9,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,9,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,14,Fri,United States,1,0,8.83,0
+1,RoundTrip,12,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,18,Thu,New Zealand,0,0,8.83,0
+2,RoundTrip,5,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,18,Fri,Malaysia,0,0,8.83,0
+2,RoundTrip,5,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,0,Thu,New Zealand,0,1,8.83,0
+1,RoundTrip,5,Mon,New Zealand,1,1,8.83,1
+1,RoundTrip,2,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,14,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,11,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,21,Mon,Australia,0,1,8.83,0
+1,RoundTrip,13,Sun,Malaysia,1,0,8.83,1
+2,RoundTrip,5,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,9,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,9,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,16,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,7,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,20,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,0,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,1,Thu,New Zealand,1,1,8.83,0
+1,RoundTrip,8,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,13,Fri,Malaysia,1,0,8.83,1
+5,RoundTrip,10,Wed,Malaysia,1,0,8.83,0
+3,RoundTrip,23,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,20,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,20,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,14,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,3,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,11,Sat,Singapore,1,1,8.83,0
+1,RoundTrip,10,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,18,Sat,China,0,0,8.83,0
+1,RoundTrip,8,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,15,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,22,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,7,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,6,Sun,New Zealand,0,0,8.83,1
+1,RoundTrip,10,Wed,United States,1,1,8.83,0
+1,RoundTrip,13,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,16,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,20,Mon,United Kingdom,0,0,8.83,0
+1,RoundTrip,10,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,12,Thu,Italy,1,1,8.83,0
+1,RoundTrip,2,Sat,New Zealand,0,0,8.83,1
+1,RoundTrip,17,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,22,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,0,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,17,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,8,Tue,New Zealand,1,1,8.83,0
+1,RoundTrip,5,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,2,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,9,Thu,Brunei,1,1,8.83,0
+1,RoundTrip,1,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,12,Fri,Malaysia,1,0,8.83,1
+2,RoundTrip,2,Tue,United States,1,0,8.83,0
+2,RoundTrip,4,Fri,Malaysia,1,1,8.83,0
+2,RoundTrip,13,Wed,Malaysia,1,1,8.83,1
+2,RoundTrip,3,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,5,Wed,New Zealand,1,0,8.83,0
+4,RoundTrip,8,Sat,New Zealand,1,0,8.83,0
+2,RoundTrip,13,Sun,Malaysia,0,0,8.83,1
+2,RoundTrip,13,Wed,Malaysia,0,0,8.83,1
+1,RoundTrip,3,Mon,Oman,1,0,8.83,0
+2,RoundTrip,6,Sun,Malaysia,1,0,8.83,0
+4,RoundTrip,16,Tue,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Sat,New Zealand,1,0,8.83,0
+5,RoundTrip,0,Sat,New Zealand,1,0,8.83,0
+2,RoundTrip,14,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,4,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,16,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,9,Tue,Malaysia,0,0,8.83,1
+2,RoundTrip,0,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,11,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,8,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,6,Mon,New Zealand,0,0,8.83,0
+4,RoundTrip,20,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,14,Fri,Malaysia,1,1,8.83,1
+1,RoundTrip,4,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,20,Sat,New Zealand,0,0,8.83,0
+1,RoundTrip,10,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,5,Wed,New Zealand,1,0,8.83,0
+3,RoundTrip,3,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,6,Fri,Singapore,1,1,8.83,0
+1,RoundTrip,20,Fri,New Zealand,0,0,8.83,0
+2,RoundTrip,6,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,6,Thu,Malaysia,1,0,8.83,0
+3,RoundTrip,9,Tue,Brunei,0,0,8.83,0
+1,RoundTrip,9,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,4,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,11,Sun,Malaysia,1,0,8.83,1
+3,RoundTrip,2,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Sun,France,0,0,8.83,0
+2,RoundTrip,11,Thu,New Zealand,0,0,8.83,0
+2,RoundTrip,14,Fri,India,1,0,8.83,0
+1,RoundTrip,2,Fri,Malaysia,0,0,8.83,0
+1,RoundTrip,2,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Mon,Malaysia,0,0,8.83,0
+2,RoundTrip,7,Thu,Malaysia,1,0,8.83,1
+2,RoundTrip,0,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,7,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,23,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Fri,Malaysia,0,0,8.83,0
+3,RoundTrip,19,Sat,Ukraine,0,0,8.83,0
+1,RoundTrip,7,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Sun,Malaysia,1,0,8.83,0
+4,RoundTrip,9,Wed,New Zealand,1,1,8.83,0
+1,RoundTrip,6,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,2,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Wed,Malaysia,0,0,8.83,1
+1,RoundTrip,12,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,19,Thu,New Zealand,0,0,8.83,0
+2,RoundTrip,11,Sat,Malaysia,1,1,8.83,0
+3,RoundTrip,8,Mon,Malaysia,1,0,8.83,0
+2,RoundTrip,2,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,6,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,1,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Tue,Malaysia,0,0,8.83,1
+1,RoundTrip,6,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,9,Sun,Malaysia,1,1,8.83,0
+2,RoundTrip,20,Mon,Netherlands,0,0,8.83,0
+1,RoundTrip,21,Sun,New Zealand,0,1,8.83,0
+1,RoundTrip,4,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,9,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,8,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Mon,Malaysia,1,1,8.83,0
+3,RoundTrip,8,Fri,Denmark,1,0,8.83,0
+2,RoundTrip,15,Sun,Malaysia,0,1,8.83,1
+2,RoundTrip,7,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Sun,New Zealand,0,0,8.83,0
+2,RoundTrip,23,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,11,Sun,Saudi Arabia,0,0,8.83,0
+3,RoundTrip,18,Tue,Malaysia,1,1,8.83,1
+1,RoundTrip,7,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,7,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,2,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,13,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,11,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,1,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,9,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,23,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Thu,New Zealand,0,0,8.83,0
+1,RoundTrip,14,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,6,Mon,Singapore,1,0,8.83,1
+2,RoundTrip,0,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,4,Thu,Malaysia,0,0,8.83,1
+1,RoundTrip,13,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,4,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,13,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,12,Thu,Saudi Arabia,1,1,8.83,0
+2,RoundTrip,6,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,9,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,23,Wed,United Kingdom,1,0,8.83,1
+2,RoundTrip,6,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,13,Thu,Saudi Arabia,1,0,8.83,0
+1,RoundTrip,7,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,1,Sun,Malaysia,1,1,8.83,0
+2,RoundTrip,8,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,0,Wed,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,16,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,13,Sun,Malaysia,0,0,8.83,0
+1,RoundTrip,5,Sun,New Zealand,1,1,8.83,0
+4,RoundTrip,10,Tue,Indonesia,0,1,8.83,0
+1,RoundTrip,19,Mon,Qatar,1,0,8.83,0
+1,RoundTrip,6,Wed,Singapore,1,0,8.83,0
+1,RoundTrip,14,Wed,New Zealand,1,0,8.83,0
+4,RoundTrip,7,Fri,New Zealand,1,0,8.83,0
+2,RoundTrip,9,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,10,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,3,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,0,Thu,New Zealand,1,1,8.83,0
+1,RoundTrip,7,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,7,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,10,Sun,Australia,0,0,8.83,0
+1,RoundTrip,16,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,2,Thu,Vietnam,1,0,8.83,0
+1,RoundTrip,8,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,2,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,7,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Mon,New Zealand,1,0,8.83,0
+1,RoundTrip,23,Thu,New Zealand,0,0,8.83,0
+4,RoundTrip,20,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,12,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,17,Sun,Malaysia,0,0,8.83,1
+2,RoundTrip,11,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,13,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,15,Mon,Malaysia,1,1,8.83,0
+4,RoundTrip,15,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,22,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,18,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,12,Sat,New Zealand,1,0,8.83,0
+4,RoundTrip,6,Sun,New Zealand,1,1,8.83,0
+5,RoundTrip,14,Thu,Malaysia,0,0,8.83,0
+2,RoundTrip,23,Fri,New Zealand,0,0,8.83,0
+2,RoundTrip,14,Fri,United Arab Emirates,1,0,8.83,0
+1,RoundTrip,16,Sun,United States,1,0,8.83,0
+1,RoundTrip,9,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Tue,Malaysia,0,0,8.83,0
+2,RoundTrip,2,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Fri,India,0,0,8.83,1
+2,RoundTrip,21,Wed,New Zealand,1,1,8.83,0
+2,RoundTrip,23,Thu,Colombia,0,0,8.83,0
+2,RoundTrip,11,Fri,Malaysia,0,0,8.83,0
+2,RoundTrip,5,Sun,Malaysia,1,0,8.83,1
+2,RoundTrip,15,Sun,Malaysia,0,0,8.83,1
+1,RoundTrip,4,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Mon,Malaysia,1,0,8.83,1
+1,RoundTrip,4,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,8,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Thu,Malaysia,0,0,8.83,1
+2,RoundTrip,8,Wed,New Zealand,0,0,8.83,0
+2,RoundTrip,15,Sat,Thailand,1,0,8.83,0
+2,RoundTrip,12,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,4,Sat,New Zealand,0,0,8.83,0
+2,RoundTrip,17,Sun,Malaysia,1,1,8.83,1
+1,RoundTrip,21,Tue,Germany,0,0,8.83,0
+2,RoundTrip,20,Thu,Malaysia,0,0,8.83,0
+3,RoundTrip,22,Mon,New Zealand,0,0,8.83,0
+4,RoundTrip,10,Sat,New Zealand,1,1,8.83,0
+2,RoundTrip,23,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,3,Sun,New Zealand,1,1,8.83,0
+1,RoundTrip,21,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,17,Sun,Sri Lanka,0,1,8.83,0
+1,RoundTrip,7,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,7,Fri,Malaysia,1,0,8.83,0
+3,RoundTrip,9,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,13,Fri,Malaysia,1,0,8.83,1
+2,RoundTrip,7,Wed,New Zealand,1,1,8.83,0
+4,RoundTrip,9,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,22,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,5,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Sun,New Zealand,0,0,8.83,0
+1,RoundTrip,10,Wed,New Zealand,0,0,8.83,0
+4,RoundTrip,8,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,4,Sun,Malaysia,0,1,8.83,0
+2,RoundTrip,9,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,8,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,1,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,11,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,22,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,22,Tue,Australia,1,0,8.83,0
+1,OneWay,2,Mon,Singapore,0,0,8.83,0
+2,RoundTrip,9,Fri,New Zealand,1,0,8.83,1
+1,RoundTrip,3,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,6,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,5,Sun,Malaysia,1,0,8.83,1
+1,RoundTrip,7,Mon,New Zealand,1,1,8.83,0
+1,RoundTrip,4,Sun,Malaysia,0,1,8.83,0
+2,RoundTrip,3,Sun,United States,1,0,8.83,0
+2,RoundTrip,8,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,4,Mon,New Zealand,0,0,8.83,0
+2,RoundTrip,7,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,4,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,23,Tue,New Zealand,0,0,8.83,0
+1,RoundTrip,21,Sun,New Zealand,1,1,8.83,0
+2,RoundTrip,11,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,8,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,4,Sat,Malaysia,1,1,8.83,0
+2,RoundTrip,16,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,12,Mon,Iran,1,1,8.83,0
+2,RoundTrip,23,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,14,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,2,Wed,Malaysia,1,0,8.83,0
+3,RoundTrip,4,Sat,Malaysia,0,0,8.83,1
+2,RoundTrip,7,Mon,Australia,1,1,8.83,0
+1,RoundTrip,16,Mon,United Kingdom,0,0,8.83,0
+1,RoundTrip,16,Mon,Thailand,1,0,8.83,0
+1,RoundTrip,15,Wed,Malaysia,0,0,8.83,0
+2,RoundTrip,2,Fri,New Zealand,1,0,8.83,0
+1,RoundTrip,14,Sat,Bahrain,1,0,8.83,0
+1,RoundTrip,14,Thu,Malaysia,0,0,8.83,1
+1,RoundTrip,22,Wed,New Zealand,1,0,8.83,0
+1,RoundTrip,8,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,21,Sat,New Zealand,1,0,8.83,0
+1,RoundTrip,0,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,2,Wed,Malaysia,1,0,8.83,1
+2,RoundTrip,2,Sun,New Zealand,1,0,8.83,0
+2,RoundTrip,11,Sun,Malaysia,1,0,8.83,0
+2,RoundTrip,9,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,5,Wed,New Zealand,0,0,8.83,0
+1,RoundTrip,1,Tue,United States,0,0,8.83,0
+2,RoundTrip,15,Tue,Solomon Islands,0,0,8.83,0
+1,RoundTrip,9,Mon,New Zealand,0,0,8.83,0
+3,RoundTrip,3,Wed,New Zealand,1,1,8.83,0
+2,RoundTrip,11,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,16,Thu,Slovenia,1,0,8.83,0
+1,RoundTrip,6,Sun,Malaysia,0,0,8.83,0
+6,RoundTrip,4,Fri,New Zealand,1,1,8.83,0
+2,RoundTrip,0,Mon,Malaysia,1,1,8.83,1
+3,RoundTrip,9,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,2,Mon,New Zealand,1,0,8.83,0
+2,RoundTrip,14,Thu,Malaysia,0,0,8.83,1
+2,RoundTrip,3,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,15,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,0,Mon,New Zealand,1,0,8.83,0
+3,RoundTrip,1,Sat,New Zealand,1,1,8.83,0
+1,RoundTrip,13,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,20,Tue,Malaysia,1,1,8.83,0
+2,RoundTrip,14,Tue,Malaysia,1,1,8.83,1
+4,RoundTrip,9,Thu,New Zealand,1,1,8.83,0
+1,RoundTrip,6,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,8,Sat,Malaysia,1,1,8.83,0
+1,RoundTrip,16,Fri,Indonesia,1,0,8.83,0
+2,RoundTrip,14,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,12,Sun,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Fri,New Zealand,1,1,8.83,1
+2,RoundTrip,14,Fri,Germany,1,0,8.83,0
+2,RoundTrip,5,Tue,New Zealand,1,0,8.83,0
+4,RoundTrip,7,Mon,New Zealand,0,0,8.83,0
+4,RoundTrip,11,Mon,New Zealand,0,0,8.83,0
+1,RoundTrip,13,Thu,New Zealand,1,0,8.83,0
+1,RoundTrip,0,Thu,New Zealand,1,0,8.83,0
+2,RoundTrip,1,Fri,New Zealand,0,0,8.83,0
+1,RoundTrip,3,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,14,Sat,Malaysia,1,0,8.83,0
+2,RoundTrip,6,Tue,New Zealand,0,0,8.83,0
+2,RoundTrip,17,Sun,New Zealand,1,0,8.83,0
+1,RoundTrip,9,Wed,Philippines,1,0,8.83,0
+4,RoundTrip,10,Tue,Indonesia,0,1,8.83,0
+4,RoundTrip,8,Fri,Mauritius,1,1,7.42,0
+1,RoundTrip,12,Fri,New Zealand,1,1,7.42,0
+1,RoundTrip,9,Sat,New Zealand,1,1,7.42,0
+1,RoundTrip,11,Fri,New Zealand,1,0,7.42,0
+1,RoundTrip,4,Sun,New Zealand,1,1,7.42,0
+1,RoundTrip,4,Sat,New Zealand,1,1,7.42,0
+3,RoundTrip,12,Tue,China,1,0,6.42,1
+2,RoundTrip,2,Mon,China,1,1,6.42,1
+2,RoundTrip,17,Sat,China,0,1,6.42,1
+1,RoundTrip,6,Sat,China,1,1,6.42,1
+3,RoundTrip,11,Tue,China,1,0,5.33,0
+2,RoundTrip,12,Mon,China,1,0,5.33,0
+2,RoundTrip,7,Sun,United States,1,0,5.33,1
+1,RoundTrip,3,Wed,Taiwan,1,0,4.67,0
+1,RoundTrip,9,Sat,New Zealand,1,0,4.67,0
+1,RoundTrip,9,Thu,Taiwan,1,0,4.67,0
+2,RoundTrip,12,Wed,Taiwan,1,0,4.67,0
+2,RoundTrip,15,Tue,Taiwan,0,0,4.67,0
+1,RoundTrip,8,Thu,Taiwan,1,0,4.67,0
+1,RoundTrip,7,Tue,Taiwan,1,0,4.67,0
+1,RoundTrip,16,Thu,Taiwan,0,0,4.67,0
+1,RoundTrip,8,Thu,Taiwan,1,0,4.67,0
+2,RoundTrip,15,Mon,Taiwan,1,0,4.67,0
+1,RoundTrip,8,Tue,Taiwan,1,0,4.67,0
+2,RoundTrip,11,Tue,Taiwan,1,1,4.67,0
+1,RoundTrip,13,Fri,Taiwan,0,0,4.67,0
+3,RoundTrip,14,Tue,Taiwan,1,0,4.67,0
+4,RoundTrip,5,Tue,Taiwan,0,0,4.67,0
+1,RoundTrip,3,Mon,Taiwan,1,0,4.67,0
+1,RoundTrip,7,Thu,Taiwan,1,0,4.67,0
+1,RoundTrip,5,Wed,Singapore,1,0,4.67,0
+2,RoundTrip,6,Thu,Taiwan,1,1,4.67,0
+1,RoundTrip,17,Wed,Taiwan,0,0,4.67,0
+1,RoundTrip,15,Wed,Taiwan,0,0,4.67,0
+2,RoundTrip,7,Tue,Taiwan,1,0,4.67,0
+1,RoundTrip,4,Fri,Taiwan,0,0,4.67,0
+1,RoundTrip,8,Mon,New Zealand,0,0,4.67,0
+1,RoundTrip,22,Mon,Taiwan,0,0,4.67,0
+1,RoundTrip,12,Thu,Taiwan,0,1,4.67,0
+1,RoundTrip,8,Mon,Taiwan,1,0,4.67,0
+2,RoundTrip,15,Fri,Taiwan,1,0,4.67,0
+1,RoundTrip,6,Thu,New Zealand,1,0,4.67,0
+2,RoundTrip,4,Thu,Taiwan,0,0,4.67,0
+1,RoundTrip,7,Sun,New Zealand,1,0,4.67,0
+1,RoundTrip,7,Tue,Taiwan,1,0,4.67,0
+1,RoundTrip,5,Sat,Taiwan,1,1,4.67,0
+1,RoundTrip,15,Wed,Taiwan,1,0,4.67,0
+1,RoundTrip,16,Thu,Taiwan,1,0,4.67,0
+1,RoundTrip,11,Mon,New Zealand,0,0,4.67,0
+1,RoundTrip,17,Sun,Taiwan,1,0,4.67,0
+2,RoundTrip,8,Sat,Taiwan,1,0,4.67,0
+1,RoundTrip,5,Fri,Taiwan,1,0,4.67,0
+2,RoundTrip,15,Wed,Taiwan,0,0,4.67,0
+4,RoundTrip,8,Thu,Taiwan,1,0,4.67,0
+1,OneWay,10,Thu,Taiwan,1,0,4.67,0
+1,RoundTrip,11,Sat,South Korea,1,0,6.62,0
+1,RoundTrip,11,Sat,South Korea,1,0,6.62,0
+1,RoundTrip,2,Tue,South Korea,1,0,6.62,0
+1,RoundTrip,7,Sat,Italy,1,0,6.62,0
+1,RoundTrip,14,Mon,South Korea,1,0,6.62,0
+1,RoundTrip,13,Mon,Malaysia,1,0,6.62,0
+2,RoundTrip,3,Tue,Malaysia,1,1,6.62,1
+1,RoundTrip,13,Sun,South Korea,1,1,6.62,1
+2,RoundTrip,7,Tue,Malaysia,1,1,6.62,1
+1,RoundTrip,11,Sat,South Korea,1,0,6.62,0
+1,RoundTrip,2,Sat,Malaysia,1,1,7,0
+2,RoundTrip,9,Sat,Malaysia,1,1,7,1
+1,RoundTrip,4,Mon,Japan,0,0,7,1
+1,RoundTrip,6,Thu,Japan,0,1,7,0
+1,RoundTrip,7,Thu,Japan,1,0,7,0
+1,RoundTrip,20,Mon,Japan,1,0,7,0
+1,RoundTrip,15,Tue,Japan,1,0,7,0
+2,RoundTrip,6,Thu,Italy,1,0,4.75,0
+1,RoundTrip,5,Sat,Italy,0,0,4.75,0
+1,RoundTrip,4,Thu,Malaysia,1,0,4.75,0
+1,RoundTrip,8,Wed,Malaysia,1,0,4.75,0
+1,RoundTrip,9,Mon,Malaysia,1,0,4.75,0
+1,RoundTrip,5,Mon,Malaysia,1,0,4.75,0
+1,RoundTrip,7,Sat,Italy,1,0,4.75,1
+2,RoundTrip,9,Mon,Italy,1,0,4.75,0
+1,RoundTrip,6,Wed,Malaysia,1,0,4.75,0
+1,RoundTrip,1,Thu,Italy,1,0,4.75,0
+3,RoundTrip,0,Wed,Malaysia,1,0,4.75,0
+1,RoundTrip,6,Thu,Italy,1,0,4.75,0
+1,RoundTrip,7,Fri,Malaysia,0,0,4.75,0
+1,RoundTrip,4,Wed,Italy,1,1,4.75,0
+1,RoundTrip,8,Wed,Malaysia,1,0,4.75,1
+1,RoundTrip,8,Tue,Malaysia,1,0,4.75,0
+1,RoundTrip,13,Mon,Italy,1,0,4.75,0
+1,RoundTrip,19,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,21,Mon,Australia,1,1,8.83,0
+1,RoundTrip,9,Mon,Australia,1,0,8.83,1
+1,RoundTrip,0,Wed,Australia,1,1,8.83,0
+1,RoundTrip,4,Mon,Malaysia,1,1,8.83,1
+1,RoundTrip,9,Sun,Australia,1,0,8.83,0
+1,RoundTrip,14,Sat,Australia,1,0,8.83,0
+1,RoundTrip,9,Tue,Malaysia,1,0,8.83,0
+3,RoundTrip,22,Thu,Australia,1,1,8.83,0
+2,RoundTrip,11,Tue,Australia,1,0,8.83,1
+1,RoundTrip,13,Thu,Australia,1,1,8.83,0
+1,RoundTrip,1,Fri,Australia,1,0,8.83,0
+2,RoundTrip,1,Sat,Australia,1,1,8.83,0
+1,RoundTrip,9,Fri,Singapore,1,1,5.62,0
+1,RoundTrip,17,Wed,Australia,1,1,8.58,1
+2,RoundTrip,13,Mon,Australia,1,0,8.58,0
+1,RoundTrip,10,Mon,Australia,1,1,8.58,0
+2,RoundTrip,13,Mon,Australia,1,0,8.58,0
+1,RoundTrip,8,Mon,Australia,1,0,8.58,0
+1,RoundTrip,2,Sat,Australia,0,1,8.58,0
+1,RoundTrip,9,Tue,Australia,1,1,8.58,0
+2,RoundTrip,3,Fri,Vietnam,0,0,8.58,0
+1,RoundTrip,0,Tue,Australia,0,0,8.58,0
+2,RoundTrip,6,Tue,Australia,1,0,8.58,0
+1,RoundTrip,4,Mon,Australia,1,1,8.58,1
+1,RoundTrip,12,Sun,Japan,1,1,8.67,0
+1,RoundTrip,5,Tue,Indonesia,1,0,4.72,0
+1,RoundTrip,10,Fri,Indonesia,1,0,4.72,0
+1,RoundTrip,13,Thu,China,1,0,5.07,0
+1,RoundTrip,15,Fri,China,1,0,5.07,0
+2,RoundTrip,14,Sat,China,1,0,5.07,0
+2,RoundTrip,6,Wed,China,1,0,5.07,0
+4,RoundTrip,2,Thu,China,0,0,5.07,0
+1,RoundTrip,10,Fri,China,1,0,5.07,0
+1,RoundTrip,15,Fri,China,1,0,5.07,0
+1,RoundTrip,3,Mon,China,1,1,5.07,1
+4,RoundTrip,6,Tue,China,1,0,5.07,0
+4,RoundTrip,12,Sat,China,1,0,5.07,0
+1,RoundTrip,8,Tue,China,1,0,5.07,0
+2,RoundTrip,7,Sat,China,1,0,5.07,0
+4,RoundTrip,13,Tue,China,1,0,5.07,0
+5,RoundTrip,1,Thu,China,1,0,5.07,0
+1,RoundTrip,1,Sat,China,1,0,5.07,0
+7,RoundTrip,2,Thu,China,1,0,5.07,0
+1,RoundTrip,11,Fri,China,1,0,5.07,0
+4,RoundTrip,12,Mon,China,1,0,5.07,0
+5,RoundTrip,6,Tue,China,1,0,5.07,0
+1,RoundTrip,2,Wed,China,1,0,5.07,0
+1,RoundTrip,12,Thu,China,1,0,5.07,1
+1,RoundTrip,3,Sun,South Korea,1,1,6.62,0
+1,RoundTrip,9,Fri,South Korea,1,1,6.62,0
+2,RoundTrip,14,Thu,South Korea,1,0,6.62,1
+1,RoundTrip,8,Fri,Indonesia,1,1,6.62,0
+1,RoundTrip,9,Tue,Indonesia,1,1,6.62,0
+1,RoundTrip,15,Sat,South Korea,1,0,6.62,1
+1,RoundTrip,10,Wed,Indonesia,1,1,6.62,1
+3,RoundTrip,8,Fri,Indonesia,1,1,6.62,0
+1,RoundTrip,13,Wed,South Korea,1,0,6.62,0
+2,RoundTrip,9,Fri,Indonesia,1,0,6.62,0
+1,RoundTrip,7,Wed,Indonesia,1,1,6.62,0
+1,RoundTrip,6,Fri,South Korea,1,0,6.62,0
+1,RoundTrip,6,Sat,Indonesia,0,0,8.15,0
+1,RoundTrip,0,Tue,Indonesia,1,1,8.15,0
+1,RoundTrip,7,Sat,Indonesia,0,0,8.15,0
+1,RoundTrip,1,Wed,Indonesia,1,1,8.15,0
+1,RoundTrip,7,Fri,Indonesia,0,0,8.15,0
+1,RoundTrip,0,Wed,Indonesia,1,1,8.15,0
+1,RoundTrip,2,Thu,Indonesia,0,0,8.15,0
+2,RoundTrip,12,Fri,Indonesia,0,0,8.15,0
+2,RoundTrip,5,Fri,Indonesia,0,0,8.15,0
+1,RoundTrip,3,Sat,Indonesia,0,0,8.15,0
+3,RoundTrip,15,Mon,Japan,1,0,7,0
+1,RoundTrip,5,Wed,Japan,1,0,7,0
+1,RoundTrip,11,Wed,Japan,0,0,7,0
+1,RoundTrip,4,Fri,Japan,0,1,7,0
+1,RoundTrip,12,Fri,Japan,0,1,7,0
+1,RoundTrip,8,Wed,Japan,1,0,7,0
+1,RoundTrip,4,Wed,Japan,1,1,7,0
+1,RoundTrip,4,Fri,Indonesia,1,1,7,0
+1,RoundTrip,9,Thu,Japan,1,0,7,0
+3,RoundTrip,15,Mon,Japan,1,0,7,0
+1,RoundTrip,6,Fri,Japan,1,1,7,0
+1,RoundTrip,14,Mon,Japan,1,1,7,1
+1,RoundTrip,11,Sat,Japan,1,0,7,0
+1,RoundTrip,9,Thu,Japan,1,0,7,0
+1,RoundTrip,4,Mon,Indonesia,0,0,7,0
+1,RoundTrip,14,Thu,Japan,1,0,7,0
+1,RoundTrip,11,Fri,Japan,1,0,7,0
+1,RoundTrip,11,Sat,Japan,1,0,7,0
+3,RoundTrip,15,Mon,Japan,1,0,7,0
+1,RoundTrip,13,Tue,Japan,1,1,7,0
+1,RoundTrip,13,Mon,Indonesia,1,0,7,0
+1,RoundTrip,12,Sat,Japan,1,0,7,0
+1,RoundTrip,12,Sat,Japan,1,0,7,0
+2,RoundTrip,14,Thu,Indonesia,1,1,7,0
+1,RoundTrip,23,Sun,Australia,1,1,8.83,0
+1,RoundTrip,1,Thu,Australia,1,0,8.83,1
+1,RoundTrip,22,Thu,Australia,1,0,8.83,0
+2,RoundTrip,6,Tue,Australia,1,1,8.83,0
+1,RoundTrip,5,Fri,Indonesia,1,0,8.83,1
+1,RoundTrip,3,Sat,Indonesia,1,1,8.83,0
+1,RoundTrip,5,Sat,Australia,1,0,8.83,0
+2,RoundTrip,0,Wed,Indonesia,0,0,8.83,1
+3,RoundTrip,1,Fri,Indonesia,1,1,8.83,1
+1,RoundTrip,6,Wed,Singapore,1,0,8.83,0
+2,RoundTrip,7,Sun,Australia,1,0,8.83,0
+3,RoundTrip,6,Fri,Indonesia,1,1,8.83,0
+1,RoundTrip,17,Sun,Indonesia,1,0,8.83,0
+1,RoundTrip,6,Thu,Indonesia,1,0,8.83,0
+2,RoundTrip,7,Mon,Indonesia,0,1,8.83,0
+5,RoundTrip,23,Fri,Indonesia,0,0,8.83,0
+6,RoundTrip,23,Tue,Indonesia,0,0,8.83,1
+1,RoundTrip,10,Tue,Australia,1,0,8.83,0
+1,RoundTrip,5,Thu,Indonesia,1,0,8.83,1
+1,RoundTrip,7,Sat,South Korea,0,0,8.83,0
+2,RoundTrip,13,Sat,Australia,1,1,8.83,0
+1,RoundTrip,10,Thu,Australia,1,1,8.83,0
+3,RoundTrip,9,Tue,Australia,0,0,8.83,0
+1,RoundTrip,6,Sun,Australia,1,0,8.83,0
+1,RoundTrip,0,Sun,Australia,1,0,8.83,1
+1,RoundTrip,1,Tue,Australia,0,0,8.83,0
+2,RoundTrip,16,Sat,Indonesia,1,1,8.83,1
+1,RoundTrip,5,Fri,Australia,1,0,8.83,0
+3,RoundTrip,13,Thu,Australia,1,1,8.83,0
+1,RoundTrip,1,Wed,Australia,1,0,8.83,0
+1,RoundTrip,9,Thu,China,0,0,6.42,0
+1,RoundTrip,0,Sat,Indonesia,1,1,6.42,0
+1,RoundTrip,0,Wed,Australia,1,1,5.62,0
+2,RoundTrip,14,Fri,Hong Kong,1,0,5.62,0
+1,RoundTrip,11,Sun,Australia,1,1,5.62,0
+1,RoundTrip,10,Tue,Australia,1,0,5.62,0
+1,RoundTrip,6,Sat,Australia,1,0,5.62,1
+1,RoundTrip,11,Mon,Australia,1,0,5.62,0
+1,RoundTrip,6,Fri,South Korea,1,0,6.33,0
+1,RoundTrip,2,Mon,South Korea,1,0,6.33,0
+2,RoundTrip,8,Tue,South Korea,1,0,6.33,0
+1,RoundTrip,9,Wed,South Korea,1,1,6.33,0
+3,RoundTrip,6,Sun,Indonesia,1,0,6.33,0
+4,RoundTrip,0,Fri,South Korea,1,1,6.33,0
+2,RoundTrip,11,Thu,South Korea,1,0,6.33,0
+1,RoundTrip,11,Wed,Indonesia,1,0,6.33,0
+1,RoundTrip,6,Fri,Taiwan,1,1,5.33,1
+1,RoundTrip,2,Tue,China,1,0,5.33,0
+1,RoundTrip,3,Tue,Indonesia,1,0,5.33,1
+1,RoundTrip,0,Fri,Australia,1,0,8.58,0
+1,RoundTrip,3,Sat,Australia,1,0,8.58,1
+1,RoundTrip,16,Tue,Australia,1,0,8.58,1
+1,RoundTrip,9,Fri,Australia,1,0,8.58,0
+2,RoundTrip,7,Tue,Australia,1,1,8.58,0
+1,RoundTrip,7,Sun,Australia,1,0,8.58,0
+1,RoundTrip,4,Tue,Indonesia,1,0,8.58,0
+1,RoundTrip,10,Tue,Australia,1,0,8.58,0
+1,RoundTrip,19,Fri,Australia,1,0,8.58,0
+1,RoundTrip,7,Tue,Australia,1,0,8.58,0
+2,RoundTrip,9,Wed,Australia,1,1,8.58,0
+1,RoundTrip,3,Sun,Australia,1,0,8.58,0
+1,RoundTrip,13,Thu,Australia,1,1,8.58,0
+1,RoundTrip,5,Wed,Indonesia,1,1,8.58,0
+1,RoundTrip,1,Fri,Australia,1,1,8.58,0
+1,RoundTrip,23,Thu,Australia,1,0,8.58,0
+2,RoundTrip,14,Tue,Indonesia,0,0,8.58,0
+1,RoundTrip,16,Fri,Taiwan,1,0,4.67,1
+1,RoundTrip,1,Mon,Taiwan,1,0,4.67,0
+2,RoundTrip,4,Thu,Taiwan,1,0,4.67,0
+1,RoundTrip,3,Tue,Indonesia,1,1,5,0
+1,RoundTrip,13,Sat,China,0,0,5,0
+1,RoundTrip,6,Fri,Malaysia,1,0,4.83,0
+1,RoundTrip,14,Wed,Malaysia,1,0,4.83,0
+2,RoundTrip,13,Wed,Malaysia,1,0,4.83,0
+1,RoundTrip,14,Fri,Malaysia,1,0,8.67,1
+1,RoundTrip,15,Fri,Malaysia,1,1,8.67,1
+3,RoundTrip,1,Tue,Malaysia,1,1,8.67,0
+1,RoundTrip,14,Wed,China,1,0,4.72,0
+1,RoundTrip,13,Sun,Malaysia,1,0,4.72,1
+2,RoundTrip,13,Fri,Malaysia,1,1,4.72,0
+3,RoundTrip,6,Sun,Malaysia,1,0,4.72,0
+2,RoundTrip,4,Tue,Malaysia,1,1,4.72,1
+2,RoundTrip,14,Fri,Malaysia,0,0,4.72,0
+1,RoundTrip,15,Fri,Japan,0,0,7.57,0
+1,RoundTrip,9,Mon,Malaysia,1,0,7.57,0
+1,RoundTrip,10,Tue,Japan,1,0,7.57,0
+1,RoundTrip,9,Thu,Malaysia,1,0,7.57,1
+1,RoundTrip,9,Tue,Malaysia,1,0,7.57,0
+1,RoundTrip,17,Sat,Malaysia,1,0,7.57,0
+1,RoundTrip,12,Sat,Malaysia,1,0,7.57,0
+1,RoundTrip,12,Wed,Malaysia,1,1,7.57,0
+1,RoundTrip,16,Fri,Malaysia,0,0,7.57,0
+1,RoundTrip,13,Tue,Japan,1,0,7.57,0
+1,RoundTrip,9,Sun,Malaysia,1,1,7.57,0
+1,RoundTrip,0,Fri,Japan,1,0,7.57,0
+3,RoundTrip,13,Mon,Malaysia,1,0,7.57,0
+1,RoundTrip,19,Fri,United States,1,1,7.57,0
+2,RoundTrip,4,Fri,Japan,1,1,7.57,0
+1,RoundTrip,8,Wed,Malaysia,1,0,7.57,0
+1,RoundTrip,0,Mon,Japan,1,0,7.57,0
+3,RoundTrip,11,Sun,Malaysia,1,0,7.57,0
+2,RoundTrip,5,Mon,Malaysia,1,0,7.57,0
+1,RoundTrip,7,Wed,Japan,1,0,7.57,0
+1,RoundTrip,6,Mon,South Korea,1,0,6.62,1
+1,RoundTrip,0,Wed,South Korea,1,0,6.62,0
+2,RoundTrip,10,Sat,Malaysia,1,0,6.62,0
+1,RoundTrip,5,Sat,Australia,1,0,6.62,0
+1,RoundTrip,15,Wed,South Korea,1,0,6.62,0
+1,RoundTrip,9,Wed,South Korea,0,0,6.62,0
+1,RoundTrip,2,Sat,South Korea,1,1,6.62,0
+1,RoundTrip,17,Wed,United States,1,0,6.62,0
+1,RoundTrip,10,Tue,South Korea,0,0,6.62,0
+1,RoundTrip,13,Fri,Malaysia,0,0,7,1
+1,RoundTrip,3,Tue,Malaysia,1,1,7,0
+1,RoundTrip,15,Fri,Malaysia,0,0,7,1
+1,RoundTrip,3,Mon,Malaysia,1,0,7,1
+1,RoundTrip,3,Mon,Japan,1,0,7,0
+1,RoundTrip,1,Mon,Japan,1,0,7,1
+1,RoundTrip,5,Wed,Malaysia,1,0,7,1
+1,RoundTrip,14,Thu,Japan,1,1,7,0
+4,RoundTrip,23,Sun,Malaysia,1,0,7,1
+2,RoundTrip,14,Mon,Malaysia,0,0,7,0
+1,RoundTrip,2,Fri,Malaysia,1,1,7,0
+1,RoundTrip,10,Fri,Malaysia,1,0,4.75,1
+1,RoundTrip,14,Fri,Nepal,1,0,4.75,1
+2,RoundTrip,15,Wed,Nepal,1,0,4.75,1
+1,RoundTrip,7,Thu,Malaysia,0,1,4.75,1
+1,RoundTrip,5,Mon,Malaysia,1,1,8.83,1
+1,RoundTrip,6,Sun,Australia,1,0,8.83,0
+1,RoundTrip,14,Tue,Australia,1,1,8.83,0
+2,RoundTrip,13,Fri,Australia,1,1,8.83,0
+1,RoundTrip,13,Mon,Australia,1,0,8.83,1
+1,RoundTrip,23,Fri,Australia,1,1,8.83,0
+1,RoundTrip,6,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,7,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,1,Tue,Malaysia,1,0,8.83,1
+1,OneWay,11,Wed,Malaysia,0,1,8.83,0
+2,RoundTrip,4,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,6,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,3,Tue,Australia,1,1,8.83,0
+1,RoundTrip,8,Sun,Malaysia,1,1,8.83,0
+2,RoundTrip,13,Mon,Malaysia,1,1,8.83,1
+1,RoundTrip,1,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,11,Mon,Australia,1,0,8.83,0
+1,RoundTrip,3,Fri,Malaysia,0,0,8.83,1
+1,RoundTrip,8,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,22,Thu,Australia,1,0,8.83,0
+1,RoundTrip,3,Sun,Malaysia,0,0,8.83,0
+2,RoundTrip,9,Wed,Australia,1,0,8.83,0
+1,RoundTrip,13,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,15,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,8,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,17,Wed,Malaysia,1,1,8.83,1
+2,RoundTrip,4,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,23,Tue,Australia,1,1,8.83,0
+1,RoundTrip,6,Thu,Australia,1,0,8.83,0
+1,RoundTrip,23,Fri,Australia,1,0,8.83,1
+1,RoundTrip,1,Fri,Australia,0,0,8.83,0
+1,RoundTrip,14,Mon,Australia,1,0,8.83,0
+1,RoundTrip,6,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Fri,Australia,1,0,8.83,0
+1,RoundTrip,10,Tue,Malaysia,1,1,8.83,0
+3,RoundTrip,12,Sat,Malaysia,1,0,8.83,1
+1,RoundTrip,1,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,9,Tue,Malaysia,0,1,8.83,0
+2,RoundTrip,1,Mon,Malaysia,1,0,8.83,0
+1,RoundTrip,13,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,0,Thu,Malaysia,1,0,8.83,1
+1,RoundTrip,14,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,8,Fri,Australia,0,0,8.83,0
+1,RoundTrip,2,Sun,Australia,0,0,8.83,0
+2,RoundTrip,21,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,3,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,10,Fri,Australia,1,1,8.83,0
+1,RoundTrip,13,Sat,Australia,0,0,8.83,0
+1,RoundTrip,13,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,2,Wed,Malaysia,1,1,8.83,1
+2,RoundTrip,0,Sat,Australia,1,1,8.83,0
+1,RoundTrip,10,Tue,Malaysia,1,0,8.83,1
+1,RoundTrip,13,Tue,Malaysia,1,0,8.83,0
+2,RoundTrip,14,Tue,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,5,Fri,Australia,1,0,8.83,0
+1,RoundTrip,6,Fri,Malaysia,1,1,8.83,1
+1,RoundTrip,14,Fri,Australia,1,0,8.83,0
+1,RoundTrip,15,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,4,Wed,Malaysia,1,0,8.83,1
+1,RoundTrip,9,Wed,Australia,1,1,8.83,0
+1,RoundTrip,14,Fri,Australia,1,0,8.83,0
+1,RoundTrip,1,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Wed,India,0,0,8.83,0
+1,RoundTrip,15,Thu,Malaysia,1,1,8.83,0
+1,RoundTrip,23,Sat,Australia,1,0,8.83,0
+1,RoundTrip,14,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,5,Wed,Malaysia,1,1,8.83,1
+1,RoundTrip,0,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,11,Sun,Australia,1,1,8.83,0
+1,RoundTrip,7,Tue,Malaysia,1,0,8.83,1
+2,RoundTrip,14,Sat,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Fri,Malaysia,1,0,8.83,0
+2,RoundTrip,13,Tue,Australia,1,1,8.83,0
+1,RoundTrip,4,Fri,Malaysia,1,1,8.83,0
+4,RoundTrip,10,Tue,Mauritius,1,0,7.42,0
+1,RoundTrip,7,Mon,Malaysia,1,1,8.83,1
+1,RoundTrip,8,Wed,Malaysia,1,1,8.83,0
+6,RoundTrip,3,Mon,Australia,1,1,8.83,0
+1,RoundTrip,15,Wed,Malaysia,1,0,8.83,0
+2,RoundTrip,12,Tue,Australia,1,1,8.83,0
+1,RoundTrip,7,Tue,Australia,1,0,8.83,0
+1,RoundTrip,15,Fri,Malaysia,1,0,8.83,1
+1,RoundTrip,8,Wed,Australia,1,1,8.83,0
+1,RoundTrip,21,Sun,Australia,1,0,8.83,0
+1,RoundTrip,5,Mon,Australia,1,1,8.83,0
+1,RoundTrip,7,Wed,Australia,1,0,8.83,0
+1,RoundTrip,13,Fri,Australia,1,1,8.83,0
+1,RoundTrip,0,Sat,Australia,1,0,8.83,0
+1,RoundTrip,15,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,8,Mon,Malaysia,0,0,8.83,0
+2,RoundTrip,14,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,17,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,13,Sat,Australia,1,1,8.83,0
+1,RoundTrip,6,Fri,Australia,1,0,8.83,0
+3,RoundTrip,9,Wed,Australia,0,1,8.83,0
+1,RoundTrip,21,Tue,Malaysia,1,1,8.83,0
+1,RoundTrip,12,Tue,Australia,1,0,8.83,0
+1,RoundTrip,22,Tue,New Zealand,1,0,8.83,0
+1,RoundTrip,10,Sat,Australia,1,1,8.83,0
+2,RoundTrip,8,Fri,Malaysia,1,1,8.83,0
+1,RoundTrip,2,Fri,Australia,1,1,8.83,0
+1,RoundTrip,7,Sun,Malaysia,0,1,8.83,0
+3,RoundTrip,14,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,7,Tue,Australia,1,0,8.83,0
+2,RoundTrip,22,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,5,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,2,Sat,Australia,1,1,8.83,0
+1,RoundTrip,13,Thu,Malaysia,0,0,8.83,0
+1,RoundTrip,5,Sat,Australia,1,1,8.83,0
+2,RoundTrip,13,Wed,Malaysia,1,0,8.83,0
+1,RoundTrip,9,Fri,Thailand,1,0,8.83,0
+2,RoundTrip,13,Tue,Malaysia,1,0,8.83,0
+1,RoundTrip,5,Wed,Malaysia,1,1,8.83,0
+1,RoundTrip,13,Sun,Australia,1,1,8.83,0
+2,RoundTrip,6,Sun,Australia,1,1,8.83,0
+2,RoundTrip,10,Fri,Australia,1,1,8.83,0
+1,RoundTrip,6,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,6,Mon,Australia,1,1,8.83,0
+1,RoundTrip,6,Tue,Australia,1,0,8.83,0
+1,RoundTrip,20,Wed,Australia,0,0,8.83,0
+4,RoundTrip,6,Sat,Australia,1,0,8.83,1
+1,RoundTrip,3,Fri,Australia,0,0,8.83,0
+1,RoundTrip,2,Mon,Malaysia,0,0,8.83,0
+1,RoundTrip,13,Mon,Malaysia,1,1,8.83,0
+1,RoundTrip,3,Sun,Australia,1,1,8.83,1
+1,RoundTrip,3,Thu,Malaysia,1,0,8.83,0
+2,RoundTrip,13,Sun,Australia,1,1,8.83,0
+2,RoundTrip,3,Sun,Australia,1,1,8.83,0
+1,RoundTrip,10,Thu,Australia,1,0,8.83,0
+1,RoundTrip,23,Tue,Australia,1,1,8.83,0
+1,RoundTrip,7,Tue,Australia,1,0,8.83,0
+1,RoundTrip,9,Sat,Singapore,0,0,8.83,1
+1,RoundTrip,3,Thu,Malaysia,1,0,8.83,0
+1,RoundTrip,10,Sun,Malaysia,1,1,8.83,0
+1,RoundTrip,23,Sun,Australia,1,1,8.83,0
+1,RoundTrip,12,Sat,Malaysia,0,0,8.83,0
+1,RoundTrip,14,Fri,Australia,1,1,8.83,0
+1,RoundTrip,11,Fri,Malaysia,1,0,8.83,0
+1,RoundTrip,13,Tue,Australia,1,1,8.83,1
+1,RoundTrip,9,Wed,Malaysia,1,1,6.42,0
+2,RoundTrip,2,Tue,Russia,1,0,6.42,0
+1,RoundTrip,4,Mon,Malaysia,1,0,6.42,0
+1,RoundTrip,13,Sun,Malaysia,1,0,6.42,0
+2,RoundTrip,14,Sun,Malaysia,1,0,6.42,0
+2,RoundTrip,15,Mon,Malaysia,1,0,5.62,0
+1,RoundTrip,17,Thu,Australia,0,0,5.62,1
+2,RoundTrip,5,Sun,Malaysia,0,0,5.62,0
+2,RoundTrip,13,Mon,Australia,1,1,5.62,0
+3,RoundTrip,14,Tue,Indonesia,1,0,5.62,0
+1,RoundTrip,8,Thu,Australia,1,1,5.62,0
+1,OneWay,12,Fri,Australia,0,0,5.62,0
+1,RoundTrip,7,Tue,Australia,1,0,5.62,0
+1,RoundTrip,7,Tue,Malaysia,1,0,5.62,0
+1,OneWay,4,Tue,Malaysia,0,0,5.62,0
+1,RoundTrip,13,Fri,Australia,1,1,5.62,0
+2,RoundTrip,14,Wed,Malaysia,1,0,5.62,0
+1,RoundTrip,11,Tue,Malaysia,1,1,5.62,0
+1,RoundTrip,8,Thu,Australia,1,1,5.62,0
+2,RoundTrip,12,Wed,Australia,1,1,5.62,0
+1,RoundTrip,15,Sat,Australia,1,0,5.62,0
+3,RoundTrip,14,Sun,Malaysia,1,1,5.62,1
+2,RoundTrip,15,Thu,Malaysia,0,0,5.62,1
+1,OneWay,14,Fri,Australia,0,1,5.62,0
+1,RoundTrip,3,Wed,Australia,1,0,5.62,0
+1,RoundTrip,16,Fri,Malaysia,1,1,5.62,1
+1,RoundTrip,13,Mon,Australia,0,0,5.62,0
+1,OneWay,4,Tue,Malaysia,0,0,5.62,0
+1,RoundTrip,1,Wed,Australia,0,0,5.62,0
+1,RoundTrip,5,Wed,Malaysia,0,1,5.62,0
+5,RoundTrip,11,Thu,Australia,1,0,5.62,0
+1,RoundTrip,5,Mon,Malaysia,1,0,5.62,1
+2,OneWay,6,Mon,Malaysia,1,0,5.62,1
+2,RoundTrip,4,Tue,Australia,1,0,5.62,0
+1,RoundTrip,11,Thu,Australia,1,0,5.62,0
+2,RoundTrip,5,Tue,Malaysia,0,0,5.62,0
+1,RoundTrip,1,Fri,Malaysia,1,0,5.62,0
+2,RoundTrip,14,Mon,Malaysia,1,0,5.62,1
+1,RoundTrip,5,Thu,Malaysia,1,0,5.62,0
+1,RoundTrip,8,Mon,Malaysia,1,0,5.62,0
+1,OneWay,5,Thu,Malaysia,1,0,5.62,0
+1,RoundTrip,10,Sun,Australia,1,0,5.62,1
+1,RoundTrip,7,Thu,Australia,1,0,5.62,0
+1,RoundTrip,4,Wed,Malaysia,0,0,5.62,0
+1,RoundTrip,0,Mon,Australia,1,0,5.62,0
+1,RoundTrip,9,Sat,Australia,0,0,5.62,0
+1,RoundTrip,6,Fri,Australia,1,0,5.62,0
+1,RoundTrip,6,Tue,Australia,1,1,5.62,1
+1,RoundTrip,7,Wed,Malaysia,1,1,6.33,1
+1,RoundTrip,6,Wed,Malaysia,1,0,6.33,1
+1,RoundTrip,1,Sun,South Korea,1,0,6.33,1
+1,RoundTrip,15,Sat,South Korea,1,1,6.33,0
+1,RoundTrip,7,Sat,Malaysia,1,0,6.33,0
+1,RoundTrip,15,Tue,Malaysia,1,0,6.33,1
+1,RoundTrip,15,Tue,Malaysia,1,0,6.33,1
+2,RoundTrip,15,Wed,China,0,0,5.33,0
+1,RoundTrip,9,Wed,Australia,1,1,8.58,0
+2,RoundTrip,9,Sun,Australia,0,1,8.58,0
+1,RoundTrip,13,Tue,Australia,1,1,8.58,0
+1,RoundTrip,1,Tue,Malaysia,0,0,8.58,0
+1,RoundTrip,8,Mon,Australia,1,1,8.58,0
+1,RoundTrip,3,Tue,Malaysia,0,0,8.58,0
+1,RoundTrip,13,Sun,Australia,1,0,8.58,0
+2,RoundTrip,7,Sun,Australia,1,1,8.58,0
+1,RoundTrip,13,Fri,Australia,1,1,8.58,0
+3,RoundTrip,9,Wed,Malaysia,1,0,8.58,0
+1,RoundTrip,12,Sun,Australia,1,1,8.58,0
+1,RoundTrip,6,Fri,Australia,1,1,8.58,0
+2,RoundTrip,21,Wed,Australia,1,1,8.58,0
+1,RoundTrip,7,Thu,Malaysia,1,0,8.58,0
+1,RoundTrip,0,Wed,Australia,1,1,8.58,0
+1,RoundTrip,9,Thu,Malaysia,1,1,8.58,0
+1,RoundTrip,8,Sat,Malaysia,1,1,8.58,1
+1,RoundTrip,7,Tue,Australia,1,1,8.58,1
+2,RoundTrip,4,Fri,Malaysia,1,0,8.58,0
+1,RoundTrip,7,Thu,Malaysia,1,0,8.58,1
+1,RoundTrip,10,Sun,Malaysia,1,0,8.58,0
+1,RoundTrip,8,Thu,Malaysia,0,0,8.58,0
+1,RoundTrip,6,Mon,Malaysia,1,1,8.58,0
+1,RoundTrip,14,Mon,Malaysia,1,0,8.58,1
+1,RoundTrip,13,Mon,Australia,1,1,8.58,0
+1,RoundTrip,2,Tue,Australia,0,1,8.58,0
+1,RoundTrip,5,Mon,Australia,1,1,8.58,0
+1,RoundTrip,13,Mon,Australia,0,0,8.58,0
+1,RoundTrip,12,Wed,Australia,0,1,8.58,0
+2,RoundTrip,11,Mon,Australia,0,0,8.58,0
+1,RoundTrip,3,Sat,Malaysia,1,0,8.58,1
+1,RoundTrip,2,Thu,Malaysia,1,1,8.58,0
+5,RoundTrip,3,Sun,Malaysia,1,1,8.58,1
+3,RoundTrip,11,Tue,Australia,0,0,8.58,0
+1,RoundTrip,0,Mon,Malaysia,1,1,8.58,1
+1,RoundTrip,12,Sat,Australia,1,1,8.58,0
+1,RoundTrip,13,Mon,Australia,1,0,8.58,0
+1,RoundTrip,10,Wed,Malaysia,1,1,8.58,1
+1,RoundTrip,1,Mon,Australia,1,1,8.58,0
+1,RoundTrip,8,Tue,New Zealand,1,0,8.58,0
+1,RoundTrip,4,Wed,Malaysia,1,1,8.58,0
+2,RoundTrip,22,Wed,Australia,0,0,8.58,0
+1,RoundTrip,14,Wed,Australia,1,0,8.58,1
+2,RoundTrip,2,Tue,Australia,1,1,8.58,0
+5,RoundTrip,3,Sun,Malaysia,1,1,8.58,1
+5,RoundTrip,3,Sun,Malaysia,1,1,8.58,1
+1,RoundTrip,5,Sun,Australia,1,0,8.58,1
+1,RoundTrip,10,Fri,Australia,1,0,8.58,0
+1,RoundTrip,9,Tue,Malaysia,1,1,8.58,0
+1,RoundTrip,9,Mon,Malaysia,0,0,8.58,0
+2,RoundTrip,9,Wed,Malaysia,1,1,5,0
+2,RoundTrip,16,Sun,Malaysia,1,0,5,0
+6,RoundTrip,5,Sun,Malaysia,1,0,5,0
+1,RoundTrip,18,Tue,Belgium,0,0,6.62,0
+1,RoundTrip,9,Sat,South Korea,1,0,6.62,0
+1,RoundTrip,12,Fri,Australia,1,1,8.83,1
+3,RoundTrip,14,Mon,Australia,1,0,8.83,1
+1,RoundTrip,7,Thu,India,1,1,8.83,0
+2,RoundTrip,5,Tue,India,1,0,8.83,0
+1,RoundTrip,5,Mon,Australia,1,1,8.83,0
+1,RoundTrip,5,Tue,Australia,1,1,8.83,0
+3,RoundTrip,15,Wed,India,1,0,8.83,0
+1,RoundTrip,1,Wed,Australia,1,0,8.83,0
+2,RoundTrip,1,Thu,Australia,1,1,8.83,0
+4,RoundTrip,12,Mon,Australia,1,1,8.83,0
+1,RoundTrip,14,Wed,India,1,1,8.83,0
+4,RoundTrip,11,Thu,India,1,0,8.83,1
+2,RoundTrip,4,Mon,India,1,0,8.83,1
+1,RoundTrip,8,Thu,India,1,1,8.83,0
+1,RoundTrip,18,Fri,India,1,1,8.83,0
+1,RoundTrip,3,Tue,Australia,1,1,8.83,0
+1,RoundTrip,18,Tue,India,1,1,8.83,0
+2,RoundTrip,8,Tue,Australia,1,0,8.83,0
+4,RoundTrip,13,Tue,Australia,1,0,8.83,0
+1,RoundTrip,11,Wed,India,1,1,8.83,0
+1,RoundTrip,7,Sat,India,1,1,8.83,0
+2,RoundTrip,19,Fri,India,1,1,8.83,0
+1,RoundTrip,23,Thu,Australia,1,0,8.83,0
+1,RoundTrip,9,Wed,India,1,1,8.83,0
+1,RoundTrip,2,Wed,Australia,0,0,8.83,0
+1,RoundTrip,19,Fri,India,1,1,8.83,0
+2,RoundTrip,7,Wed,India,1,1,8.83,0
+1,RoundTrip,10,Fri,Australia,1,1,8.83,0
+1,RoundTrip,23,Sun,Australia,1,1,8.83,0
+2,RoundTrip,13,Sat,Australia,1,1,8.83,0
+4,RoundTrip,6,Sat,India,1,0,8.83,1
+1,RoundTrip,3,Tue,Australia,1,0,8.83,1
+1,RoundTrip,12,Tue,India,1,1,8.83,0
+1,RoundTrip,14,Wed,India,1,1,8.83,0
+1,RoundTrip,23,Tue,Australia,0,1,8.83,0
+1,RoundTrip,15,Tue,India,1,1,8.83,0
+2,RoundTrip,19,Tue,Kuwait,1,1,8.83,0
+1,RoundTrip,8,Mon,Australia,0,0,8.83,0
+2,RoundTrip,14,Fri,India,1,0,8.83,0
+2,RoundTrip,8,Tue,Australia,1,0,8.83,0
+2,RoundTrip,14,Sat,Australia,1,0,8.83,1
+4,RoundTrip,11,Fri,Australia,1,0,8.83,0
+2,RoundTrip,7,Fri,India,1,0,8.83,0
+1,RoundTrip,8,Thu,India,1,0,8.83,0
+1,RoundTrip,11,Wed,Australia,1,0,8.83,0
+1,RoundTrip,11,Mon,Australia,1,0,8.83,0
+1,RoundTrip,15,Sat,India,1,0,8.83,0
+1,RoundTrip,9,Fri,India,1,0,8.83,0
+1,RoundTrip,11,Mon,Australia,1,0,8.83,0
+2,RoundTrip,9,Fri,Australia,1,1,8.83,0
+1,RoundTrip,23,Tue,Australia,1,1,8.83,0
+1,RoundTrip,13,Sat,Australia,0,0,8.83,0
+1,RoundTrip,6,Thu,India,1,1,8.83,0
+1,RoundTrip,4,Mon,Australia,1,0,8.83,0
+1,RoundTrip,13,Thu,Australia,1,0,8.83,0
+2,RoundTrip,13,Thu,India,1,0,8.83,0
+2,RoundTrip,1,Thu,India,1,1,8.83,0
+1,RoundTrip,11,Thu,India,1,1,8.83,1
+1,RoundTrip,4,Sat,Saudi Arabia,1,0,8.83,1
+1,RoundTrip,8,Thu,Australia,1,0,8.83,0
+2,RoundTrip,10,Tue,Australia,1,1,8.83,0
+1,RoundTrip,4,Sun,India,1,0,8.83,0
+2,RoundTrip,14,Sat,Indonesia,1,1,8.83,1
+1,RoundTrip,19,Sat,India,1,0,8.83,0
+1,RoundTrip,13,Fri,India,1,0,8.83,0
+1,RoundTrip,9,Tue,India,1,0,8.83,0
+2,RoundTrip,14,Sun,Australia,1,1,8.83,1
+2,RoundTrip,10,Tue,Australia,1,1,8.83,0
+1,RoundTrip,10,Sun,India,1,0,8.83,1
+4,RoundTrip,9,Thu,Vietnam,1,0,8.83,0
+3,RoundTrip,6,Mon,India,1,1,8.83,0
+1,RoundTrip,9,Mon,Australia,1,1,8.83,0
+1,RoundTrip,7,Mon,Australia,1,0,8.83,0
+2,RoundTrip,5,Fri,Australia,1,0,8.83,0
+1,RoundTrip,12,Sat,India,1,1,8.83,0
+2,RoundTrip,4,Sat,Australia,1,0,8.83,0
+2,RoundTrip,12,Sat,Australia,1,0,8.83,0
+1,RoundTrip,4,Sun,Australia,0,0,5.62,0
+1,RoundTrip,5,Sun,Australia,0,0,5.62,0
+2,RoundTrip,12,Wed,Australia,1,0,5.62,0
+2,RoundTrip,14,Thu,Australia,1,0,5.62,0
+1,RoundTrip,21,Tue,Australia,0,0,5.62,0
+1,RoundTrip,10,Wed,Australia,1,1,5.62,0
+1,RoundTrip,9,Thu,Australia,0,0,5.62,0
+3,RoundTrip,16,Thu,Australia,1,0,5.62,0
+1,RoundTrip,15,Sat,India,1,1,5.62,0
+2,RoundTrip,1,Sat,Australia,1,0,5.62,0
+1,RoundTrip,11,Thu,India,1,0,5.62,0
+2,RoundTrip,5,Sun,India,0,0,5.62,0
+2,RoundTrip,8,Wed,Australia,1,1,5.62,0
+1,RoundTrip,12,Fri,Australia,1,0,5.62,0
+1,RoundTrip,8,Wed,Australia,1,1,5.62,0
+2,RoundTrip,3,Sun,Australia,1,0,5.62,0
+1,RoundTrip,14,Thu,Australia,1,0,5.62,0
+2,RoundTrip,10,Sat,Australia,0,0,5.62,1
+2,RoundTrip,11,Tue,Australia,1,0,5.62,0
+2,RoundTrip,7,Tue,India,1,1,5.62,0
+2,RoundTrip,12,Sun,Australia,1,0,5.62,0
+3,RoundTrip,14,Sat,Australia,1,1,5.62,0
+3,RoundTrip,4,Wed,Australia,1,1,5.62,0
+3,RoundTrip,13,Thu,Australia,1,0,5.62,0
+2,RoundTrip,4,Fri,Australia,1,0,5.62,0
+1,RoundTrip,12,Sun,Australia,1,0,5.62,0
+2,RoundTrip,14,Thu,Australia,1,1,5.62,1
+2,RoundTrip,9,Mon,India,0,0,5.62,0
+3,RoundTrip,8,Thu,Australia,1,1,5.62,1
+1,RoundTrip,22,Wed,Australia,0,0,5.62,0
+1,RoundTrip,15,Mon,India,1,0,5.62,0
+1,RoundTrip,16,Wed,Australia,1,0,5.62,0
+1,RoundTrip,13,Thu,Australia,1,0,5.62,0
+2,RoundTrip,10,Thu,Australia,1,0,5.62,0
+1,RoundTrip,13,Fri,India,0,0,5.62,1
+2,RoundTrip,11,Thu,Australia,1,0,5.62,0
+1,RoundTrip,3,Sat,Australia,1,1,5.62,0
+1,RoundTrip,9,Tue,Australia,0,0,5.62,0
+1,RoundTrip,9,Sun,India,1,1,5.62,0
+1,RoundTrip,15,Mon,India,1,0,5.62,0
+1,RoundTrip,6,Wed,United States,1,1,5.62,0
+1,RoundTrip,4,Thu,Australia,1,1,5.62,0
+3,RoundTrip,12,Thu,Australia,1,0,5.62,0
+2,RoundTrip,14,Sun,Australia,0,0,5.62,0
+1,RoundTrip,2,Tue,Australia,1,1,5.62,0
+1,RoundTrip,2,Wed,Australia,1,0,5.62,0
+2,RoundTrip,13,Sun,Australia,1,0,5.62,0
+1,RoundTrip,3,Sat,Australia,0,0,5.62,1
+1,RoundTrip,16,Thu,Australia,1,0,5.62,0
+1,RoundTrip,12,Fri,United States,1,0,5.62,0
+1,RoundTrip,13,Sat,Australia,1,0,5.62,0
+1,RoundTrip,3,Sun,Australia,1,0,5.62,0
+1,RoundTrip,5,Fri,Australia,1,1,5.62,0
+1,RoundTrip,14,Wed,Australia,1,0,5.62,0
+1,RoundTrip,16,Mon,Australia,1,0,5.62,0
+1,RoundTrip,12,Thu,Australia,1,1,5.62,0
+1,RoundTrip,15,Fri,India,1,1,5.62,0
+1,RoundTrip,9,Fri,Australia,1,0,5.62,0
+1,RoundTrip,12,Thu,India,1,0,5.62,0
+1,RoundTrip,11,Sat,Australia,1,0,5.62,0
+1,RoundTrip,6,Wed,Australia,1,0,8.58,0
+1,RoundTrip,4,Thu,India,1,1,8.58,0
+1,RoundTrip,10,Sat,Australia,1,1,8.58,0
+1,RoundTrip,0,Thu,Australia,1,0,8.58,0
+2,RoundTrip,9,Fri,Australia,0,1,8.58,0
+1,RoundTrip,11,Thu,India,1,0,8.58,0
+1,RoundTrip,2,Thu,Australia,1,0,8.58,0
+1,RoundTrip,0,Sat,Australia,1,0,8.58,0
+1,RoundTrip,10,Sat,Australia,1,0,8.58,0
+1,RoundTrip,7,Sun,Australia,1,1,8.58,0
+1,RoundTrip,10,Fri,Australia,1,0,8.58,0
+1,RoundTrip,5,Sun,Australia,1,0,8.58,0
+1,RoundTrip,13,Thu,Australia,1,1,8.58,0
+1,RoundTrip,6,Fri,India,1,1,8.58,0
+3,RoundTrip,14,Mon,India,1,0,8.58,0
+1,RoundTrip,4,Thu,Australia,1,0,8.58,0
+1,RoundTrip,7,Sat,India,1,0,8.58,0
+1,RoundTrip,4,Sun,India,1,1,8.58,0
+2,RoundTrip,10,Sat,Australia,1,0,8.58,0
+2,RoundTrip,10,Mon,Australia,0,0,8.58,0
+1,RoundTrip,6,Thu,Australia,0,0,8.58,0
+1,RoundTrip,4,Sun,Australia,1,1,8.58,0
+1,RoundTrip,16,Thu,Australia,1,0,8.58,0
+1,RoundTrip,14,Thu,Australia,1,0,8.58,0
+2,RoundTrip,17,Wed,India,1,1,8.58,1
+1,RoundTrip,3,Sat,Australia,0,0,8.58,0
+2,RoundTrip,15,Thu,India,1,1,8.58,1
+1,RoundTrip,5,Mon,United States,1,0,8.58,0
+2,RoundTrip,13,Sun,India,1,1,8.58,0
+2,RoundTrip,15,Tue,Australia,1,1,8.58,0
+1,RoundTrip,8,Thu,India,1,1,8.58,0
+2,RoundTrip,11,Mon,Australia,1,1,8.58,0
+1,RoundTrip,2,Sat,Australia,1,0,8.58,0
+2,RoundTrip,11,Thu,Australia,1,1,8.58,0
+3,RoundTrip,7,Thu,India,1,1,8.58,0
+1,RoundTrip,14,Sat,India,1,1,8.58,0
+1,RoundTrip,2,Thu,Australia,0,0,8.58,0
+1,RoundTrip,10,Sun,Australia,0,0,8.58,0
+1,RoundTrip,23,Sun,Australia,1,0,8.58,0
+1,RoundTrip,9,Tue,Australia,1,1,8.58,0
+2,RoundTrip,13,Wed,India,1,0,8.58,1
+1,RoundTrip,7,Sat,Australia,0,0,8.58,0
+1,RoundTrip,12,Tue,Australia,0,0,8.58,0
+1,RoundTrip,0,Wed,Australia,1,0,8.58,0
+1,RoundTrip,14,Fri,India,0,0,8.58,0
+1,RoundTrip,10,Fri,India,1,0,8.58,0
+1,RoundTrip,15,Mon,India,1,0,8.58,0
+1,RoundTrip,16,Wed,India,1,0,8.58,0
+1,RoundTrip,1,Tue,Australia,1,1,8.58,0
+2,RoundTrip,11,Sun,Thailand,0,0,8.58,0
+2,RoundTrip,7,Fri,India,1,0,8.58,0
+1,RoundTrip,8,Sat,Australia,1,0,8.58,0
+1,RoundTrip,18,Wed,India,0,0,8.58,0
+1,RoundTrip,12,Wed,Australia,1,1,8.58,0
+2,RoundTrip,8,Sun,India,1,1,8.58,0
+1,RoundTrip,12,Wed,Australia,0,0,8.58,0
+1,RoundTrip,9,Wed,India,0,0,8.58,0
+1,RoundTrip,2,Tue,Australia,1,1,8.58,0
+1,RoundTrip,8,Wed,Australia,1,0,8.58,0
+1,RoundTrip,9,Mon,Australia,1,1,8.58,0
+1,RoundTrip,8,Tue,Australia,1,0,8.58,0
+5,RoundTrip,0,Tue,Australia,0,0,8.58,0
+1,RoundTrip,6,Sat,India,0,1,8.58,0
+1,RoundTrip,17,Mon,India,1,1,8.58,0
+3,RoundTrip,13,Sun,Kuwait,1,1,8.58,1
+2,RoundTrip,16,Mon,India,1,1,8.58,0
+1,RoundTrip,12,Mon,India,1,1,8.58,0
+1,RoundTrip,23,Mon,Australia,0,0,8.58,0
+1,RoundTrip,11,Wed,Australia,1,1,8.58,0
+1,RoundTrip,4,Mon,India,1,1,8.58,0
+2,RoundTrip,6,Fri,United States,1,0,8.58,0
+3,RoundTrip,10,Mon,India,1,1,8.58,0
+3,RoundTrip,4,Sat,India,1,1,8.58,0
+2,RoundTrip,7,Fri,Australia,1,1,8.58,0
+1,RoundTrip,7,Sun,Australia,0,0,8.58,0
+1,RoundTrip,3,Wed,Australia,1,0,8.58,0
+1,RoundTrip,5,Sun,Australia,1,0,8.58,0
+1,RoundTrip,5,Mon,India,1,0,8.58,0
+2,RoundTrip,12,Mon,Australia,1,1,8.58,1
+3,RoundTrip,10,Mon,Indonesia,1,0,8.58,0
+2,RoundTrip,10,Fri,Australia,1,0,8.58,0
+1,RoundTrip,11,Mon,Australia,1,0,8.58,0
+3,RoundTrip,1,Sat,Australia,0,0,8.58,0
+1,RoundTrip,6,Sun,Australia,1,0,8.58,0
+1,RoundTrip,9,Sun,Australia,1,1,8.58,0
+1,RoundTrip,17,Sat,Australia,1,1,8.58,0
+4,RoundTrip,10,Sun,Indonesia,1,0,8.83,0
+1,RoundTrip,0,Mon,India,1,0,8.83,0
+1,RoundTrip,5,Tue,Australia,1,0,8.83,0
+1,RoundTrip,14,Tue,India,1,0,8.83,0
+1,RoundTrip,1,Fri,India,1,1,8.83,0
+2,RoundTrip,12,Tue,India,1,0,8.83,0
+1,RoundTrip,11,Sun,Australia,0,0,8.83,0
+1,RoundTrip,12,Thu,Australia,1,0,8.83,0
+2,RoundTrip,14,Mon,Australia,1,0,8.83,0
+1,RoundTrip,11,Tue,Australia,0,0,8.83,0
+1,RoundTrip,2,Fri,Australia,0,1,8.83,0
+1,RoundTrip,2,Sat,Australia,1,0,8.83,0
+1,RoundTrip,1,Wed,Australia,1,0,5.62,0
+1,RoundTrip,15,Mon,Australia,1,1,5.62,0
+3,RoundTrip,15,Wed,Australia,1,1,5.62,0
+1,RoundTrip,2,Sun,United States,1,1,5.62,0
+2,RoundTrip,7,Thu,India,1,0,5.62,0
+2,RoundTrip,15,Mon,Australia,1,0,5.62,0
+1,RoundTrip,15,Wed,India,1,1,5.62,0
+3,RoundTrip,5,Wed,Australia,1,0,5.62,0
+2,RoundTrip,11,Tue,Australia,1,1,5.62,0
+2,RoundTrip,1,Mon,India,1,0,8.58,0
+2,RoundTrip,4,Sat,Indonesia,1,0,8.58,0
+2,RoundTrip,23,Tue,Australia,0,0,8.58,0
+1,RoundTrip,5,Tue,India,1,0,8.58,0
+1,RoundTrip,12,Thu,Australia,0,0,8.58,0
+2,RoundTrip,16,Fri,Mexico,1,0,8.58,0
+1,RoundTrip,11,Sat,Australia,0,0,8.58,0
+1,RoundTrip,12,Thu,New Zealand,0,0,8.58,0
+1,RoundTrip,9,Thu,Australia,0,1,8.58,0
+2,RoundTrip,19,Tue,Australia,1,1,8.58,0
+2,RoundTrip,12,Sun,India,1,0,8.58,0
+1,RoundTrip,12,Mon,Australia,0,0,8.58,0
+1,RoundTrip,11,Wed,Australia,1,0,8.58,0
+3,RoundTrip,8,Sat,India,1,1,8.58,0
+1,RoundTrip,6,Fri,India,1,1,8.58,0
+1,RoundTrip,7,Sat,Australia,1,0,8.58,0
+3,RoundTrip,9,Mon,Australia,1,1,8.58,0
+2,RoundTrip,15,Mon,India,1,0,8.58,0
+2,RoundTrip,3,Sun,India,1,0,8.58,0
+3,RoundTrip,6,Tue,Australia,1,0,8.58,0
+1,RoundTrip,11,Wed,Australia,1,1,8.58,0
+4,RoundTrip,1,Wed,Indonesia,1,0,9.5,0
+2,RoundTrip,1,Wed,Malaysia,1,1,6.62,0
+1,RoundTrip,0,Mon,South Korea,0,0,6.62,1
+4,RoundTrip,3,Sat,Malaysia,1,0,6.62,0
+2,RoundTrip,2,Sun,Malaysia,0,0,6.62,1
+1,RoundTrip,2,Mon,Malaysia,1,0,6.62,0
+1,RoundTrip,23,Fri,Singapore,1,0,6.62,0
+1,RoundTrip,3,Tue,Malaysia,0,0,6.62,0
+1,RoundTrip,14,Mon,Malaysia,1,0,5.62,1
+1,RoundTrip,13,Tue,Malaysia,1,0,5.62,0
+1,RoundTrip,12,Wed,Malaysia,1,1,5.62,1
+1,RoundTrip,13,Sun,Malaysia,1,0,5.62,1
+1,RoundTrip,15,Thu,Malaysia,0,0,5.62,0
+2,RoundTrip,5,Wed,Malaysia,1,0,5.62,0
+1,RoundTrip,14,Wed,Australia,0,0,5.62,0
+1,RoundTrip,2,Sun,Malaysia,0,0,5.62,0
+1,RoundTrip,5,Sun,Australia,1,0,5.62,1
+1,RoundTrip,15,Sat,Malaysia,1,0,5.62,0
+1,RoundTrip,14,Wed,Malaysia,1,1,5.62,0
+2,RoundTrip,15,Fri,Malaysia,0,0,5.62,0
+2,RoundTrip,14,Sun,Malaysia,1,0,5.62,0
+1,RoundTrip,13,Mon,Malaysia,1,1,5.62,0
+1,RoundTrip,3,Sun,Malaysia,1,0,5.62,0
+1,RoundTrip,4,Tue,Malaysia,1,1,5.62,0
+1,RoundTrip,15,Thu,Australia,1,1,5.62,0
+3,RoundTrip,13,Thu,Indonesia,1,1,5.62,1
+1,RoundTrip,2,Sun,Malaysia,0,0,5.62,0
+1,RoundTrip,14,Tue,Malaysia,0,1,5.62,1
+2,RoundTrip,14,Sun,Malaysia,1,0,5.62,0
+1,RoundTrip,7,Fri,Malaysia,1,0,5.62,0
+2,RoundTrip,12,Mon,Australia,0,0,5.62,0
+2,RoundTrip,4,Fri,Australia,1,0,5.62,0
+1,RoundTrip,3,Tue,Malaysia,1,0,5.62,1
+1,RoundTrip,8,Thu,Malaysia,0,0,5.62,0
+1,RoundTrip,1,Sun,Australia,1,0,5.62,0
+1,RoundTrip,9,Mon,Malaysia,0,0,5.62,0
+1,RoundTrip,10,Sun,Malaysia,1,1,5.62,0
+1,RoundTrip,6,Sat,Malaysia,1,0,5.62,0
+2,RoundTrip,11,Sun,Malaysia,1,0,5.62,0
+2,RoundTrip,13,Sun,Australia,1,0,5.62,0
+1,RoundTrip,11,Mon,Malaysia,1,0,5.62,0
+1,RoundTrip,9,Sun,Malaysia,1,1,5.62,1
+1,RoundTrip,11,Mon,Malaysia,1,0,5.62,0
+4,RoundTrip,13,Wed,Malaysia,1,1,8.58,0
+1,RoundTrip,8,Mon,Malaysia,1,0,5.13,0
+1,RoundTrip,10,Sat,Brunei,1,0,4.83,0
+1,RoundTrip,15,Fri,Brunei,1,1,4.83,0
+2,RoundTrip,23,Fri,Brunei,0,1,4.83,0
+1,RoundTrip,10,Mon,Brunei,1,0,4.83,0
+1,RoundTrip,8,Thu,Brunei,1,0,4.83,0
+1,RoundTrip,3,Sun,Malaysia,1,0,4.83,0
+2,RoundTrip,23,Fri,Brunei,0,1,4.83,0
+1,RoundTrip,5,Fri,Brunei,1,0,4.83,0
+1,RoundTrip,7,Wed,Brunei,1,0,4.83,0
+1,RoundTrip,5,Fri,Brunei,1,0,4.83,0
+1,RoundTrip,11,Fri,Brunei,1,0,4.83,0
+1,RoundTrip,10,Fri,Brunei,1,0,4.83,0
+1,RoundTrip,1,Fri,Brunei,1,0,4.83,0
+1,RoundTrip,4,Mon,Brunei,1,0,4.83,0
+1,RoundTrip,9,Mon,Brunei,1,0,4.83,0
+1,RoundTrip,6,Fri,Brunei,1,0,4.83,0
+1,RoundTrip,3,Sun,Brunei,1,0,4.83,0
+1,RoundTrip,8,Tue,Brunei,1,0,4.83,0
+1,RoundTrip,10,Fri,Brunei,1,0,4.83,0
+1,RoundTrip,2,Sat,Brunei,1,0,4.83,0
+1,RoundTrip,2,Fri,Brunei,1,0,4.83,0
+1,RoundTrip,3,Wed,Brunei,1,0,4.83,0
+2,RoundTrip,2,Thu,Brunei,1,0,4.83,0
+1,RoundTrip,1,Fri,Brunei,1,0,4.83,0
+2,RoundTrip,2,Thu,Brunei,1,0,4.83,0
+2,RoundTrip,11,Sat,Brunei,1,0,4.83,0
+1,RoundTrip,4,Mon,Brunei,1,0,4.83,0
+1,RoundTrip,2,Tue,Brunei,1,0,5.52,0
+1,RoundTrip,10,Sat,Brunei,1,0,5.52,0
+1,RoundTrip,11,Sat,India,1,0,5.52,0
+1,RoundTrip,13,Thu,India,1,0,5.52,0
+1,RoundTrip,8,Wed,Brunei,1,0,5.52,0
+1,RoundTrip,4,Sun,Brunei,0,0,5.52,0
+3,RoundTrip,0,Tue,Brunei,1,0,5.52,1
+1,RoundTrip,5,Sat,India,1,0,5.52,0
+1,RoundTrip,8,Wed,Brunei,1,0,5.52,0
+1,RoundTrip,0,Tue,Brunei,1,0,5.52,0
+1,RoundTrip,9,Tue,Brunei,1,0,5.52,1
+1,RoundTrip,15,Wed,Brunei,1,0,5.52,0
+1,RoundTrip,9,Tue,Brunei,1,0,5.52,0
+3,RoundTrip,6,Thu,Brunei,1,0,5.52,0
+1,RoundTrip,6,Sun,China,1,0,5.07,0
+1,RoundTrip,12,Sat,China,1,0,5.07,0
+1,RoundTrip,6,Sun,China,1,0,5.07,0
+3,RoundTrip,13,Mon,Brunei,1,0,8.15,0
+1,RoundTrip,9,Wed,Nepal,1,0,4.75,0
+1,RoundTrip,15,Mon,Brunei,1,0,4.75,0
+1,RoundTrip,0,Sun,Brunei,1,0,4.75,0
+2,RoundTrip,8,Tue,Brunei,1,0,4.75,0
+1,RoundTrip,17,Wed,Kenya,1,0,4.75,1
+2,RoundTrip,0,Thu,Brunei,1,0,4.75,0
+2,RoundTrip,11,Tue,Brunei,1,1,4.75,0
+1,RoundTrip,1,Wed,Brunei,1,1,4.75,0
+3,RoundTrip,7,Tue,Brunei,1,0,4.75,0
+1,RoundTrip,14,Mon,Brunei,1,1,4.75,0
+1,RoundTrip,9,Tue,Brunei,1,0,4.75,1
+2,RoundTrip,6,Tue,Brunei,1,0,4.75,0
+1,RoundTrip,12,Tue,Brunei,1,0,4.75,0
+1,RoundTrip,7,Tue,Brunei,0,0,4.75,1
+1,RoundTrip,8,Wed,Brunei,0,1,4.75,0
+1,RoundTrip,9,Tue,Brunei,1,0,4.75,1
+1,RoundTrip,1,Fri,Brunei,1,0,4.75,0
+1,RoundTrip,8,Tue,Brunei,1,0,4.75,1
+1,RoundTrip,12,Thu,Brunei,1,0,4.75,1
+4,RoundTrip,7,Tue,Brunei,1,0,4.75,0
+1,RoundTrip,7,Fri,Brunei,1,0,4.75,1
+2,RoundTrip,3,Fri,Brunei,1,1,4.75,0
+1,RoundTrip,2,Thu,Brunei,1,0,4.75,0
+1,RoundTrip,9,Tue,Brunei,1,1,4.75,0
+2,RoundTrip,4,Thu,Brunei,1,0,8.83,0
+1,RoundTrip,0,Wed,Brunei,1,1,8.83,0
+1,RoundTrip,6,Mon,Brunei,0,0,8.83,0
+1,RoundTrip,10,Mon,Australia,0,0,8.83,0
+1,RoundTrip,9,Fri,Australia,1,0,8.83,0
+1,RoundTrip,11,Tue,Australia,0,0,8.83,0
+2,RoundTrip,23,Sun,Brunei,1,0,8.83,0
+1,RoundTrip,12,Sat,Australia,1,1,8.83,0
+1,RoundTrip,14,Sun,Australia,0,0,8.83,0
+1,RoundTrip,0,Sun,Brunei,1,0,8.83,1
+1,RoundTrip,11,Wed,Brunei,1,1,8.83,0
+1,RoundTrip,6,Fri,Australia,1,1,8.83,1
+1,RoundTrip,12,Tue,Brunei,1,1,8.83,0
+1,RoundTrip,2,Sun,Australia,1,0,8.83,0
+2,RoundTrip,15,Fri,Brunei,1,0,5.62,1
+1,RoundTrip,14,Sat,Australia,0,0,5.62,0
+1,RoundTrip,8,Sun,Australia,1,0,5.62,0
+1,RoundTrip,4,Fri,Brunei,1,0,5.62,1
+1,RoundTrip,15,Tue,Brunei,1,0,5.62,0
+1,RoundTrip,13,Wed,Brunei,1,1,5.62,1
+1,RoundTrip,14,Tue,Australia,1,0,5.62,0
+1,RoundTrip,3,Tue,Brunei,0,0,5.62,0
+1,RoundTrip,14,Wed,Brunei,1,0,5.62,0
+1,RoundTrip,5,Sat,Brunei,1,0,5.62,0
+1,RoundTrip,15,Sun,Australia,1,0,5.62,0
+2,RoundTrip,12,Thu,Australia,1,1,5.62,0
+1,RoundTrip,14,Tue,Australia,1,1,5.62,1
+1,RoundTrip,3,Sat,Brunei,1,0,5.62,0
+1,RoundTrip,1,Wed,Australia,1,1,5.62,0
+2,RoundTrip,12,Sat,Australia,1,1,5.62,0
+1,RoundTrip,12,Fri,Brunei,1,1,5.62,0
+1,RoundTrip,13,Thu,Australia,1,1,5.62,0
+1,RoundTrip,2,Sun,Brunei,0,1,5.62,0
+1,RoundTrip,20,Fri,Australia,0,0,5.62,0
+2,RoundTrip,0,Sat,Philippines,1,0,8.58,1
+1,RoundTrip,5,Mon,Brunei,1,1,8.58,0
+1,RoundTrip,2,Wed,Australia,0,0,8.58,1
+1,RoundTrip,11,Fri,Japan,1,1,4.67,0
+4,RoundTrip,14,Sat,Taiwan,1,1,4.67,0
+1,RoundTrip,8,Fri,Brunei,1,0,4.67,1
+1,RoundTrip,13,Thu,Malaysia,1,0,4.67,0
+2,RoundTrip,15,Tue,Taiwan,1,1,4.67,0
+3,RoundTrip,13,Mon,Taiwan,1,1,4.67,0
+1,RoundTrip,2,Thu,Taiwan,0,0,4.67,0
+1,RoundTrip,3,Fri,Taiwan,0,0,4.67,0
+1,RoundTrip,1,Tue,Brunei,0,0,4.67,0
+1,RoundTrip,15,Tue,Taiwan,0,0,4.67,0
+1,RoundTrip,4,Mon,Taiwan,1,0,4.67,0
+3,RoundTrip,17,Sat,India,1,1,5.52,0
+2,RoundTrip,17,Fri,China,1,0,5.52,0
+1,RoundTrip,8,Tue,Australia,0,0,5.52,0
+1,RoundTrip,11,Sat,India,0,0,5.52,0
+2,RoundTrip,10,Wed,China,1,0,5.52,1
+1,RoundTrip,11,Wed,China,1,1,8.15,0
+1,RoundTrip,7,Thu,China,1,0,8.15,0
+3,RoundTrip,13,Sat,China,1,1,8.83,0
+1,RoundTrip,10,Tue,Australia,0,0,8.83,0
+1,RoundTrip,14,Wed,Australia,1,0,8.83,0
+1,RoundTrip,11,Thu,Australia,1,0,8.83,0
+1,RoundTrip,13,Fri,Australia,1,1,8.83,0
+2,RoundTrip,12,Tue,Australia,1,1,8.83,0
+1,RoundTrip,8,Tue,Australia,1,1,8.83,0
+1,RoundTrip,10,Sat,Australia,0,0,8.83,0
+2,RoundTrip,14,Thu,China,0,0,8.83,0
+1,RoundTrip,6,Thu,Australia,1,0,8.83,0
+1,RoundTrip,8,Sat,China,0,0,8.83,0
+1,RoundTrip,0,Sat,Australia,1,0,8.83,0
+1,RoundTrip,7,Tue,Australia,1,0,8.83,0
+1,RoundTrip,12,Fri,Australia,1,0,8.83,0
+1,RoundTrip,16,Tue,Australia,0,1,8.83,0
+2,RoundTrip,15,Sun,China,1,1,8.83,0
+1,RoundTrip,13,Mon,Australia,1,0,8.83,0
+1,RoundTrip,5,Mon,Australia,1,0,8.83,0
+1,RoundTrip,5,Sat,Australia,1,0,8.83,0
+5,RoundTrip,18,Thu,China,1,0,8.83,0
+1,RoundTrip,5,Thu,China,1,0,8.83,0
+5,RoundTrip,8,Fri,China,1,1,7.42,0
+1,RoundTrip,22,Fri,Australia,1,1,8.83,0
+1,RoundTrip,9,Fri,China,1,0,8.83,1
+1,RoundTrip,15,Wed,Australia,1,0,8.83,1
+1,RoundTrip,6,Fri,Australia,1,0,8.83,0
+1,RoundTrip,1,Tue,Australia,1,0,8.83,0
+2,RoundTrip,22,Thu,Australia,0,0,8.83,0
+1,RoundTrip,9,Tue,China,1,1,8.83,1
+2,RoundTrip,9,Mon,Australia,0,0,8.83,0
+1,RoundTrip,11,Thu,Australia,0,0,5.62,0
+1,RoundTrip,1,Fri,Australia,0,0,5.62,0
+1,RoundTrip,4,Sat,Australia,1,0,5.62,0
+1,RoundTrip,12,Fri,Australia,1,1,5.62,0
+1,RoundTrip,5,Sun,China,1,0,5.62,1
+1,RoundTrip,2,Wed,Australia,1,1,5.62,0
+1,RoundTrip,10,Tue,Australia,0,0,5.62,0
+1,RoundTrip,6,Thu,Australia,1,1,5.62,0
+2,RoundTrip,3,Wed,Australia,0,0,5.62,0
+2,RoundTrip,3,Fri,China,1,1,5.62,0
+2,RoundTrip,6,Sat,China,1,1,5.62,0
+2,RoundTrip,2,Mon,China,1,0,5.62,0
+1,RoundTrip,6,Wed,Australia,1,0,5.62,0
+2,RoundTrip,4,Tue,China,1,0,5.62,1
+1,RoundTrip,20,Mon,Australia,1,0,5.62,0
+1,RoundTrip,2,Wed,Australia,1,1,5.62,0
+1,RoundTrip,11,Wed,China,1,0,5.62,0
+1,RoundTrip,11,Fri,Australia,1,0,5.62,0
+1,RoundTrip,2,Sun,Australia,1,1,5.62,0
+1,RoundTrip,10,Mon,Australia,1,0,5.62,0
+1,RoundTrip,4,Wed,Australia,1,0,5.62,0
+4,RoundTrip,14,Wed,Australia,1,0,5.62,0
+1,RoundTrip,16,Sat,Australia,1,0,5.62,0
+1,RoundTrip,9,Tue,China,1,0,5.62,0
+1,RoundTrip,9,Thu,Australia,1,1,5.62,1
+2,RoundTrip,14,Fri,Australia,1,0,5.62,0
+1,RoundTrip,2,Wed,Australia,1,1,5.62,0
+1,RoundTrip,16,Tue,Australia,1,0,5.62,0
+1,RoundTrip,11,Tue,Australia,1,0,5.62,0
+1,RoundTrip,14,Sun,Australia,0,0,5.62,0
+1,RoundTrip,16,Sat,Australia,1,1,5.62,0
+3,RoundTrip,13,Fri,Australia,1,0,5.62,0
+1,RoundTrip,7,Fri,Australia,1,0,5.62,0
+2,RoundTrip,12,Wed,Australia,1,0,5.62,0
+3,RoundTrip,17,Wed,Australia,1,1,5.62,1
+1,RoundTrip,14,Thu,Australia,0,1,5.62,0
+1,RoundTrip,16,Thu,Australia,0,0,5.62,0
+3,RoundTrip,3,Mon,Australia,1,1,5.62,1
+4,RoundTrip,6,Wed,Australia,1,0,5.62,0
+1,RoundTrip,15,Wed,Australia,1,0,5.62,0
+1,RoundTrip,6,Mon,Australia,1,1,5.62,0
+1,RoundTrip,10,Sun,Australia,0,0,5.62,0
+1,RoundTrip,4,Fri,Australia,0,1,5.62,0
+1,RoundTrip,11,Thu,China,1,1,5.62,0
+1,RoundTrip,13,Wed,Australia,0,0,5.62,0
+1,RoundTrip,1,Sun,Australia,1,0,5.62,0
+1,RoundTrip,17,Sun,China,0,1,5.62,0
+1,RoundTrip,16,Sat,Australia,1,0,5.62,0
+2,RoundTrip,11,Sun,China,1,0,8.58,1
+2,RoundTrip,11,Fri,Australia,1,1,8.58,0
+2,RoundTrip,14,Mon,Australia,1,1,8.58,0
+2,RoundTrip,12,Thu,China,1,0,8.58,0
+3,RoundTrip,16,Sat,China,1,0,8.58,0
+3,RoundTrip,1,Fri,China,1,0,8.58,1
+1,RoundTrip,2,Tue,China,0,0,8.58,0
+1,RoundTrip,2,Tue,Australia,1,1,8.58,0
+1,RoundTrip,5,Sun,Australia,1,1,8.58,0
+1,RoundTrip,2,Sun,Sri Lanka,1,1,8.58,0
+1,RoundTrip,16,Thu,Australia,1,1,8.58,0
+1,RoundTrip,16,Tue,China,1,0,8.58,1
+1,RoundTrip,7,Sun,Australia,0,1,8.58,0
+1,RoundTrip,16,Sat,Australia,1,0,8.58,0
+1,RoundTrip,11,Fri,Australia,0,0,8.58,0
+2,RoundTrip,6,Wed,China,1,0,8.58,1
+1,RoundTrip,5,Sun,Australia,1,0,8.58,0
+1,RoundTrip,8,Tue,China,1,0,8.58,0
+1,RoundTrip,0,Wed,Indonesia,1,0,8.58,0
+1,RoundTrip,4,Sun,Australia,0,0,8.58,0
+1,RoundTrip,9,Thu,Australia,1,0,8.58,0
+2,RoundTrip,12,Tue,Australia,1,0,8.58,0
+1,RoundTrip,8,Wed,Australia,0,0,8.58,0
+1,RoundTrip,2,Tue,Australia,1,0,8.58,0
+3,RoundTrip,15,Tue,China,1,1,8.58,1
+1,RoundTrip,9,Mon,China,1,0,8.58,0
+1,RoundTrip,5,Fri,Australia,1,0,8.58,1
+1,RoundTrip,15,Fri,Australia,1,0,8.58,0
+1,RoundTrip,15,Fri,China,1,1,8.58,0
+1,RoundTrip,10,Tue,Australia,1,0,8.58,0
+1,RoundTrip,16,Sat,Australia,1,1,8.58,0
+1,RoundTrip,4,Sun,Australia,1,1,8.58,0
+3,RoundTrip,5,Tue,China,1,0,8.58,1
+2,RoundTrip,4,Mon,China,1,0,8.58,0
+3,RoundTrip,4,Wed,Australia,1,0,8.58,0
+1,RoundTrip,21,Fri,Australia,1,0,8.58,0
+3,RoundTrip,6,Mon,China,1,1,8.58,0
+1,RoundTrip,12,Wed,Australia,0,0,8.83,0
+1,RoundTrip,2,Tue,Australia,1,1,8.83,0
+1,RoundTrip,12,Thu,Australia,1,0,8.83,0
+3,RoundTrip,16,Fri,India,1,0,8.83,0
+1,RoundTrip,22,Sun,United States,1,0,8.83,0
+1,RoundTrip,4,Sun,India,1,1,8.83,1
+1,RoundTrip,10,Mon,India,1,1,8.83,0
+1,RoundTrip,7,Tue,Australia,1,1,8.83,0
+1,RoundTrip,14,Tue,India,1,0,8.83,0
+1,RoundTrip,7,Mon,Australia,1,1,8.83,0
+2,RoundTrip,9,Wed,India,1,1,8.83,1
+2,RoundTrip,14,Mon,Australia,1,0,8.83,0
+2,RoundTrip,8,Wed,India,1,0,8.83,0
+1,RoundTrip,3,Thu,Australia,1,0,8.83,0
+2,RoundTrip,8,Wed,India,1,1,8.83,1
+1,RoundTrip,7,Fri,Australia,1,0,8.83,0
+5,RoundTrip,0,Sun,Australia,1,0,8.83,0
+2,RoundTrip,15,Sun,Australia,1,0,8.83,0
+1,RoundTrip,7,Tue,Australia,1,1,8.83,0
+1,RoundTrip,6,Fri,Australia,1,0,8.83,0
+1,RoundTrip,4,Sun,India,1,1,8.83,1
+1,RoundTrip,1,Tue,Australia,1,0,8.83,0
+2,RoundTrip,2,Tue,Australia,1,0,8.83,0
+2,RoundTrip,23,Thu,Australia,1,0,8.83,0
+2,RoundTrip,8,Sat,Australia,1,1,8.83,0
+2,RoundTrip,15,Thu,India,1,1,8.83,0
+1,RoundTrip,7,Sun,India,1,0,8.83,0
+1,RoundTrip,7,Fri,Australia,1,0,8.83,0
+2,RoundTrip,13,Sun,Australia,0,0,8.83,0
+3,RoundTrip,11,Tue,Australia,1,0,8.83,0
+1,RoundTrip,1,Wed,Australia,1,0,8.83,0
+1,RoundTrip,12,Sun,Australia,1,1,8.83,0
+1,RoundTrip,22,Thu,Australia,1,1,8.83,0
+1,RoundTrip,9,Wed,India,1,1,8.83,1
+2,RoundTrip,3,Mon,Australia,0,0,8.83,0
+1,RoundTrip,10,Mon,Australia,1,0,8.83,0
+1,RoundTrip,7,Mon,Australia,1,1,8.83,0
+1,RoundTrip,9,Sat,India,1,0,8.83,0
+1,RoundTrip,13,Wed,Australia,1,1,8.83,0
+2,RoundTrip,14,Tue,India,1,0,8.83,0
+1,RoundTrip,4,Thu,Australia,1,1,8.83,1
+1,RoundTrip,8,Mon,Australia,1,0,8.83,0
+2,RoundTrip,11,Sun,Australia,1,1,8.83,0
+1,RoundTrip,3,Wed,Australia,1,1,8.83,0
+1,RoundTrip,2,Sun,Australia,1,0,8.83,0
+1,RoundTrip,14,Wed,Australia,1,1,8.83,0
+1,RoundTrip,12,Thu,India,1,1,8.83,0
+1,RoundTrip,4,Tue,Australia,1,0,8.83,0
+2,RoundTrip,8,Wed,India,1,1,8.83,1
+1,RoundTrip,15,Thu,Australia,1,1,8.83,0
+1,RoundTrip,3,Sun,Australia,0,1,8.83,0
+2,RoundTrip,8,Wed,India,1,1,8.83,1
+1,RoundTrip,9,Fri,Australia,0,0,8.83,0
+1,RoundTrip,10,Thu,Australia,1,0,8.83,0
+2,RoundTrip,0,Fri,Australia,0,0,8.83,0
+1,RoundTrip,4,Sun,Australia,1,0,8.83,0
+1,RoundTrip,11,Wed,Australia,1,0,8.83,0
+2,RoundTrip,12,Sat,Australia,1,1,8.83,0
+1,RoundTrip,15,Fri,Australia,1,0,8.83,0
+1,RoundTrip,9,Sat,Australia,1,1,8.83,0
+1,RoundTrip,11,Tue,Australia,1,0,8.83,0
+1,RoundTrip,23,Sun,Australia,1,0,8.83,0
+1,RoundTrip,3,Mon,Australia,1,0,8.83,0
+2,RoundTrip,8,Wed,Australia,0,0,8.83,0
+2,RoundTrip,1,Sun,Australia,1,1,8.83,1
+1,RoundTrip,16,Fri,Australia,1,0,8.83,0
+1,RoundTrip,0,Mon,Australia,1,0,8.83,0
+3,RoundTrip,11,Sat,Australia,1,0,8.83,0
+1,RoundTrip,4,Wed,India,1,1,8.83,1
+2,RoundTrip,8,Sun,India,1,0,8.83,0
+3,RoundTrip,4,Wed,Australia,1,0,8.83,0
+1,RoundTrip,12,Sun,Australia,1,1,8.83,0
+2,RoundTrip,11,Thu,Mauritius,1,0,7.42,0
+1,RoundTrip,9,Thu,United States,1,0,8.83,0
+1,RoundTrip,3,Tue,Australia,1,0,8.83,0
+2,RoundTrip,23,Tue,Australia,1,0,8.83,0
+1,RoundTrip,0,Mon,Australia,1,1,8.83,0
+1,RoundTrip,9,Tue,Australia,1,0,8.83,0
+1,RoundTrip,22,Fri,Australia,1,0,8.83,0
+1,RoundTrip,23,Tue,Australia,1,0,8.83,0
+1,RoundTrip,6,Sun,Australia,1,1,8.83,0
+3,RoundTrip,13,Fri,India,0,0,8.83,0
+1,RoundTrip,12,Sat,Australia,1,0,8.83,0
+1,RoundTrip,23,Sun,Australia,1,0,8.83,0
+2,RoundTrip,10,Tue,Australia,0,0,8.83,0
+1,RoundTrip,6,Mon,India,1,1,8.83,1
+2,RoundTrip,16,Fri,India,1,1,8.83,0
+1,RoundTrip,23,Mon,Australia,1,0,8.83,0
+1,RoundTrip,2,Tue,Australia,1,0,8.83,0
+1,RoundTrip,11,Thu,Australia,1,1,8.83,0
+1,RoundTrip,12,Sat,Australia,0,0,8.83,0
+1,RoundTrip,11,Sat,India,1,0,8.83,0
+3,RoundTrip,12,Sat,India,1,0,8.83,0
+1,RoundTrip,10,Sun,Australia,1,0,8.83,0
+1,RoundTrip,11,Wed,Australia,1,0,8.83,0
+1,RoundTrip,7,Tue,Australia,1,0,8.83,0
+1,RoundTrip,13,Fri,Australia,1,0,8.83,0
+1,RoundTrip,9,Thu,Australia,1,1,8.83,0
+2,RoundTrip,9,Mon,Australia,1,0,8.83,0
+1,RoundTrip,18,Tue,Spain,1,1,8.83,1
+1,RoundTrip,11,Thu,Australia,1,1,8.83,0
+1,RoundTrip,17,Thu,Australia,1,0,5.62,0
+1,RoundTrip,3,Wed,Australia,1,0,5.62,0
+1,RoundTrip,6,Mon,India,1,0,5.62,0
+2,RoundTrip,6,Tue,India,1,0,5.62,0
+2,RoundTrip,14,Wed,Australia,1,0,5.62,0
+4,RoundTrip,1,Tue,Australia,1,1,5.62,0
+1,RoundTrip,6,Wed,Australia,1,1,5.62,0
+1,RoundTrip,11,Mon,Hong Kong,1,1,5.62,0
+2,RoundTrip,1,Sun,Australia,1,0,5.62,0
+1,RoundTrip,3,Tue,Australia,1,0,5.62,0
+2,RoundTrip,3,Sun,Australia,1,1,5.62,0
+1,RoundTrip,15,Sat,Australia,0,0,5.62,0
+1,RoundTrip,16,Sun,Australia,1,1,5.62,0
+4,RoundTrip,11,Thu,Australia,0,0,5.62,0
+1,RoundTrip,2,Sat,Australia,1,0,5.62,0
+1,RoundTrip,3,Fri,Australia,1,1,5.62,0
+1,RoundTrip,23,Tue,Australia,1,0,5.62,0
+1,RoundTrip,5,Thu,Australia,1,1,5.62,0
+1,RoundTrip,13,Mon,Australia,1,0,5.62,0
+1,RoundTrip,10,Sun,Australia,1,0,5.62,0
+2,RoundTrip,12,Thu,Australia,1,1,5.62,0
+3,RoundTrip,6,Fri,Australia,1,1,5.62,0
+1,RoundTrip,11,Wed,Australia,1,0,5.62,0
+1,RoundTrip,4,Mon,Australia,1,1,5.62,0
+1,RoundTrip,4,Wed,Australia,0,0,5.62,0
+1,RoundTrip,12,Wed,India,1,1,5.62,0
+1,RoundTrip,5,Mon,Australia,1,1,5.62,0
+3,RoundTrip,13,Sun,Australia,1,1,5.62,0
+3,RoundTrip,13,Thu,Australia,1,0,5.62,0
+1,RoundTrip,5,Thu,Australia,1,0,5.62,0
+1,RoundTrip,4,Mon,Australia,1,0,5.62,0
+1,RoundTrip,4,Sat,Australia,1,0,5.62,0
+3,RoundTrip,1,Tue,Australia,1,1,5.62,0
+1,RoundTrip,13,Wed,Australia,1,1,5.62,0
+2,RoundTrip,10,Sat,Australia,1,1,5.62,0
+2,RoundTrip,11,Mon,Australia,1,0,5.62,0
+1,RoundTrip,10,Tue,Australia,1,1,5.62,0
+2,RoundTrip,2,Sun,Australia,0,0,8.58,0
+1,RoundTrip,15,Tue,Australia,0,0,8.58,0
+1,RoundTrip,16,Fri,India,1,1,8.58,0
+1,RoundTrip,9,Sat,Australia,1,1,8.58,0
+3,RoundTrip,10,Fri,Australia,1,0,8.58,0
+1,RoundTrip,6,Fri,India,1,1,8.58,0
+1,RoundTrip,6,Fri,Australia,0,0,8.58,0
+1,RoundTrip,4,Mon,Australia,1,1,8.58,0
+1,RoundTrip,7,Sat,Australia,1,0,8.58,0
+2,RoundTrip,13,Mon,India,1,0,8.58,0
+1,RoundTrip,12,Wed,Australia,1,1,8.58,0
+1,RoundTrip,8,Thu,Australia,0,0,8.58,0
+1,RoundTrip,10,Wed,India,1,1,8.58,0
+1,RoundTrip,5,Mon,Australia,0,0,8.58,0
+2,RoundTrip,1,Mon,Australia,1,1,8.58,0
+1,RoundTrip,16,Sun,India,1,0,8.58,0
+1,RoundTrip,8,Thu,Australia,0,0,8.58,0
+3,RoundTrip,12,Tue,Australia,1,1,8.58,0
+2,RoundTrip,11,Mon,Australia,1,0,8.58,0
+1,RoundTrip,10,Sun,Australia,0,0,8.58,0
+1,RoundTrip,15,Thu,Australia,1,0,8.58,0
+3,RoundTrip,9,Sat,Australia,0,0,8.58,0
+1,RoundTrip,11,Wed,Australia,1,1,8.58,0
+2,RoundTrip,3,Fri,Australia,0,0,8.58,0
+1,RoundTrip,13,Tue,Australia,0,0,8.58,0
+1,RoundTrip,12,Sun,Australia,1,1,8.58,0
+1,RoundTrip,2,Thu,Australia,1,0,8.58,0
+1,RoundTrip,9,Tue,Australia,1,0,8.58,0
+2,RoundTrip,6,Sun,Australia,1,0,8.58,1
+2,RoundTrip,9,Thu,Australia,1,1,8.58,0
+1,RoundTrip,11,Mon,Australia,1,0,8.58,0
+1,RoundTrip,7,Fri,Australia,1,0,8.58,0
+1,RoundTrip,23,Sun,Australia,1,1,8.58,0
+1,RoundTrip,1,Sun,Australia,0,0,8.58,0
+1,RoundTrip,0,Fri,New Zealand,0,0,8.58,0
+2,RoundTrip,13,Mon,India,1,1,8.58,0
+2,RoundTrip,8,Sun,India,1,1,8.58,0
+1,RoundTrip,3,Wed,New Zealand,0,0,8.58,0
+1,RoundTrip,9,Wed,India,1,0,8.58,0
+4,RoundTrip,21,Wed,Australia,1,0,8.58,0
+1,RoundTrip,18,Thu,India,0,1,8.58,0
+1,RoundTrip,11,Mon,Australia,1,1,8.58,0
+1,RoundTrip,10,Wed,Australia,1,1,8.58,0
+1,RoundTrip,19,Mon,India,1,1,8.58,0
+2,RoundTrip,18,Mon,India,1,0,8.58,1
+4,RoundTrip,15,Sun,India,1,1,8.58,0
+2,RoundTrip,3,Sat,Australia,1,1,8.58,0
+1,RoundTrip,12,Thu,Australia,1,1,8.58,0
+2,RoundTrip,6,Mon,Australia,0,0,8.58,0
+1,RoundTrip,9,Mon,Australia,1,0,8.58,0
+1,RoundTrip,6,Sat,Australia,1,0,8.58,0
+1,RoundTrip,9,Mon,Australia,1,0,8.58,0
+1,RoundTrip,23,Sun,Australia,1,1,8.58,0
+2,RoundTrip,5,Sat,Australia,1,0,8.58,1
+1,RoundTrip,12,Sat,Australia,1,1,8.58,0
+1,RoundTrip,4,Mon,Australia,1,0,8.58,0
+1,RoundTrip,13,Thu,Australia,1,1,8.58,0
+2,RoundTrip,2,Fri,Australia,0,0,8.58,0
+1,RoundTrip,7,Mon,Australia,0,0,8.58,0
+2,RoundTrip,5,Thu,India,1,1,8.58,0
+2,RoundTrip,17,Thu,India,1,1,8.58,0
+1,RoundTrip,6,Thu,India,1,1,8.58,0
+2,RoundTrip,14,Mon,India,0,0,8.58,0
+1,RoundTrip,8,Mon,Australia,1,1,8.58,0
+1,RoundTrip,13,Sat,Australia,0,0,8.58,0
+1,RoundTrip,11,Tue,Australia,0,0,8.58,0
+1,RoundTrip,1,Thu,Australia,1,1,8.58,0
+2,RoundTrip,8,Sat,Australia,1,1,8.58,0
+2,RoundTrip,2,Sat,India,1,1,8.58,0
+1,RoundTrip,1,Fri,Australia,1,1,8.58,0
+3,RoundTrip,8,Sun,India,1,0,8.58,0
+1,RoundTrip,7,Mon,Australia,1,0,8.58,0
+2,RoundTrip,13,Tue,Australia,1,1,8.58,0
+2,RoundTrip,5,Sat,Australia,1,0,8.58,0
+2,RoundTrip,10,Wed,Australia,1,0,8.58,0
+2,RoundTrip,8,Mon,India,1,0,8.58,0
+2,RoundTrip,3,Mon,Australia,1,0,8.58,1
+1,RoundTrip,18,Tue,India,1,0,8.58,0
+1,RoundTrip,11,Thu,Australia,1,0,8.58,0
+1,RoundTrip,22,Thu,Australia,1,1,8.58,0
+1,RoundTrip,8,Sun,Australia,1,1,8.58,0
+1,RoundTrip,10,Wed,Australia,1,1,8.58,0
+2,RoundTrip,5,Sat,India,1,1,8.58,0
+2,RoundTrip,9,Sun,India,1,0,8.58,0
+3,RoundTrip,1,Sun,Australia,1,1,8.58,0
+2,RoundTrip,11,Tue,India,1,1,8.58,0
+2,RoundTrip,10,Fri,Australia,1,1,8.58,1
+2,RoundTrip,8,Wed,India,1,0,8.58,0
+2,RoundTrip,12,Tue,Australia,1,1,8.58,0
+4,RoundTrip,14,Sun,India,1,0,8.58,0
+1,RoundTrip,2,Fri,Australia,1,0,8.58,0
+2,RoundTrip,11,Mon,Australia,1,1,8.58,0
+1,RoundTrip,5,Wed,Taiwan,0,0,4.67,0
+1,RoundTrip,1,Thu,Taiwan,0,0,4.67,0
+2,RoundTrip,14,Wed,Taiwan,1,0,4.67,0
+1,RoundTrip,1,Thu,Taiwan,0,1,4.67,0
+1,RoundTrip,8,Mon,Taiwan,0,0,4.67,0
+1,RoundTrip,5,Tue,Taiwan,1,0,4.67,0
+1,RoundTrip,15,Wed,Taiwan,1,0,4.67,0
+1,RoundTrip,5,Sun,Taiwan,1,1,4.67,0
+1,RoundTrip,4,Wed,Taiwan,0,0,4.67,0
+1,RoundTrip,16,Thu,Taiwan,0,0,4.67,0
+2,RoundTrip,16,Sat,Taiwan,1,0,4.67,0
+1,RoundTrip,10,Sat,Taiwan,1,1,4.67,0
+1,RoundTrip,9,Wed,Taiwan,1,0,4.67,0
+1,RoundTrip,14,Sat,Taiwan,0,0,4.67,0
+1,RoundTrip,2,Wed,Taiwan,0,0,4.67,0
+1,RoundTrip,9,Tue,Taiwan,1,0,4.67,0
+2,RoundTrip,8,Tue,Taiwan,1,0,4.67,0
+1,RoundTrip,13,Fri,Taiwan,1,0,4.67,0
+2,RoundTrip,2,Wed,Taiwan,1,0,4.67,0
+1,RoundTrip,6,Wed,Taiwan,1,0,4.67,0
+1,RoundTrip,16,Sat,Taiwan,1,0,4.67,0
+1,RoundTrip,9,Mon,Taiwan,1,0,4.67,0
+1,RoundTrip,12,Thu,Philippines,1,0,8.83,0
+1,RoundTrip,20,Tue,Australia,1,1,8.83,1
+1,RoundTrip,3,Thu,Australia,1,0,8.83,0
+1,RoundTrip,10,Thu,Australia,1,1,8.83,0
+1,RoundTrip,12,Thu,Australia,1,0,8.83,0
+4,RoundTrip,1,Tue,Philippines,1,0,8.83,1
+1,RoundTrip,5,Wed,Australia,1,1,8.83,0
+1,RoundTrip,4,Tue,Philippines,1,0,8.83,0
+1,RoundTrip,10,Mon,Australia,0,0,8.83,0
+2,RoundTrip,7,Tue,Australia,0,0,8.83,0
+2,RoundTrip,9,Thu,Australia,1,0,8.83,0
+2,RoundTrip,1,Wed,Australia,1,1,8.83,0
+1,RoundTrip,4,Wed,Philippines,1,0,8.83,1
+1,RoundTrip,7,Mon,Australia,1,1,8.83,0
+1,RoundTrip,8,Thu,Australia,1,0,8.83,0
+1,RoundTrip,1,Thu,Australia,1,0,8.83,0
+1,RoundTrip,23,Tue,Australia,1,1,8.83,0
+1,RoundTrip,6,Tue,Australia,0,1,8.83,0
+1,RoundTrip,10,Tue,Australia,1,1,8.83,0
+1,RoundTrip,5,Fri,Australia,1,0,8.83,1
+1,RoundTrip,2,Sat,Australia,1,1,8.83,0
+2,RoundTrip,17,Mon,Australia,1,0,8.83,1
+2,RoundTrip,8,Sun,Australia,1,0,8.83,0
+1,RoundTrip,8,Mon,Philippines,1,0,8.83,0
+1,RoundTrip,11,Tue,Australia,1,0,8.83,0
+1,RoundTrip,9,Sun,Australia,0,0,8.83,0
+1,RoundTrip,17,Thu,Australia,1,0,8.83,0
+1,RoundTrip,18,Mon,United States,1,1,8.83,1
+1,RoundTrip,9,Sun,Philippines,1,0,8.83,0
+1,RoundTrip,4,Tue,Australia,1,0,8.83,0
+1,RoundTrip,10,Thu,Australia,0,0,8.83,0
+4,RoundTrip,5,Sun,Australia,1,1,8.83,0
+1,RoundTrip,23,Wed,Australia,1,0,8.83,0
+1,RoundTrip,0,Fri,Australia,1,0,8.83,0
+1,RoundTrip,22,Sun,Australia,1,1,8.83,0
+1,RoundTrip,6,Fri,Australia,0,0,8.83,0
+1,RoundTrip,13,Mon,Australia,1,1,8.83,0
+1,RoundTrip,1,Fri,Philippines,1,0,8.83,0
+1,RoundTrip,9,Mon,Australia,1,0,8.83,0
+2,RoundTrip,11,Thu,Australia,1,0,8.83,0
+2,RoundTrip,13,Mon,Australia,1,1,8.83,0
+1,RoundTrip,8,Wed,Australia,0,0,8.83,0
+1,RoundTrip,11,Thu,Australia,1,0,8.83,0
+1,RoundTrip,0,Sun,Australia,0,0,8.83,0
+2,RoundTrip,5,Thu,Philippines,1,1,8.83,0
+2,RoundTrip,11,Thu,Australia,1,0,8.83,0
+1,RoundTrip,9,Sun,Australia,1,0,8.83,0
+2,RoundTrip,8,Mon,Australia,0,0,8.83,0
+3,RoundTrip,23,Sun,Australia,1,1,8.83,0
+1,RoundTrip,6,Sun,Australia,1,0,8.83,0
+1,RoundTrip,17,Tue,Australia,1,1,8.83,0
+2,RoundTrip,9,Tue,Australia,0,0,8.83,0
+3,RoundTrip,3,Wed,Australia,1,0,8.83,0
+1,RoundTrip,4,Mon,Australia,1,1,8.83,0
+1,RoundTrip,6,Thu,Australia,1,0,8.83,0
+1,RoundTrip,2,Fri,Australia,0,0,8.83,0
+2,RoundTrip,7,Mon,Australia,1,0,8.83,0
+2,RoundTrip,5,Thu,United Arab Emirates,1,0,8.83,0
+1,RoundTrip,15,Fri,Australia,0,0,8.83,0
+1,RoundTrip,16,Tue,Sweden,1,0,8.83,1
+1,RoundTrip,1,Fri,Australia,0,0,8.83,1
+1,RoundTrip,7,Tue,Australia,1,0,8.83,0
+3,RoundTrip,5,Fri,Australia,0,0,8.83,0
+1,RoundTrip,7,Sun,Brunei,1,0,8.83,0
+2,RoundTrip,12,Wed,Australia,1,1,8.83,0
+1,RoundTrip,4,Wed,Australia,1,1,8.83,0
+2,RoundTrip,11,Sun,Australia,1,0,8.83,0
+3,RoundTrip,7,Sun,Australia,1,1,8.83,0
+2,RoundTrip,7,Thu,Australia,1,1,8.83,0
+1,RoundTrip,16,Sat,Australia,1,1,8.83,0
+1,RoundTrip,3,Mon,Philippines,1,0,8.83,0
+1,RoundTrip,6,Sat,Australia,1,0,8.83,0
+1,RoundTrip,16,Sun,Australia,0,0,8.83,0
+1,RoundTrip,6,Mon,Australia,1,0,8.83,0
+1,RoundTrip,1,Wed,Australia,0,0,8.83,0
+1,RoundTrip,11,Mon,Australia,1,0,8.83,0
+1,RoundTrip,21,Mon,United Kingdom,1,1,8.83,1
+2,RoundTrip,22,Fri,Australia,1,1,8.83,0
+1,RoundTrip,10,Wed,Philippines,1,1,8.83,0
+1,RoundTrip,4,Thu,Australia,0,0,8.83,0
+2,RoundTrip,6,Mon,Australia,1,1,8.83,1
+2,RoundTrip,4,Sun,Australia,1,0,8.83,0
+1,RoundTrip,0,Sat,Australia,1,1,8.83,0
+2,RoundTrip,4,Mon,Australia,1,0,8.83,0
+1,RoundTrip,6,Mon,Australia,1,1,8.83,0
+2,RoundTrip,9,Wed,Australia,1,1,8.83,0
+1,RoundTrip,10,Sun,Australia,1,1,8.83,1
+1,RoundTrip,21,Wed,Sweden,1,0,8.83,1
+1,RoundTrip,22,Sun,Australia,0,1,8.83,0
+1,RoundTrip,16,Tue,Sweden,1,0,8.83,1
+1,RoundTrip,5,Fri,Australia,1,0,8.83,0
+1,RoundTrip,2,Fri,Australia,1,1,8.83,0
+1,RoundTrip,1,Sun,Australia,0,0,8.83,0
+1,RoundTrip,2,Wed,Australia,1,1,8.83,0
+3,RoundTrip,0,Thu,Australia,1,0,8.83,0
+2,RoundTrip,0,Mon,Australia,1,1,8.83,0
+2,RoundTrip,6,Sun,Australia,0,0,8.83,0
+1,RoundTrip,0,Tue,Australia,1,1,8.83,0
+1,RoundTrip,1,Fri,Australia,0,1,8.83,0
+1,RoundTrip,8,Wed,Philippines,0,0,8.83,0
+1,RoundTrip,5,Thu,Australia,0,0,8.83,0
+1,RoundTrip,5,Sat,Philippines,0,0,8.83,0
+3,RoundTrip,4,Fri,Australia,1,0,8.83,0
+1,RoundTrip,0,Tue,Australia,0,0,8.83,0
+1,RoundTrip,3,Wed,Philippines,1,1,8.83,0
+1,RoundTrip,9,Sun,Australia,1,1,8.83,1
+1,RoundTrip,8,Sun,Australia,1,0,8.83,0
+1,RoundTrip,6,Fri,Philippines,1,1,8.83,1
+1,RoundTrip,3,Sat,Australia,1,0,8.83,0
+1,RoundTrip,6,Thu,Australia,0,0,8.83,0
+2,RoundTrip,7,Thu,Australia,1,0,8.83,0
+1,RoundTrip,1,Wed,Australia,1,0,8.83,0
+2,RoundTrip,11,Mon,Australia,0,0,8.83,1
+1,RoundTrip,2,Fri,Australia,1,0,8.83,0
+2,RoundTrip,21,Sat,Australia,1,0,8.83,0
+1,RoundTrip,13,Wed,Australia,1,1,8.83,0
+2,RoundTrip,8,Fri,Australia,1,0,8.83,0
+1,RoundTrip,4,Mon,Australia,1,0,8.83,0
+1,RoundTrip,5,Mon,Australia,0,0,8.83,0
+1,RoundTrip,3,Wed,Australia,1,0,8.83,0
+1,RoundTrip,12,Wed,Australia,1,0,8.83,0
+1,RoundTrip,2,Thu,Australia,1,0,8.83,1
+1,RoundTrip,12,Wed,Australia,1,0,8.83,0
+1,RoundTrip,4,Tue,Australia,1,0,8.83,0
+1,RoundTrip,10,Fri,Australia,1,0,8.83,1
+1,RoundTrip,5,Sat,Australia,1,0,8.83,0
+1,RoundTrip,11,Thu,Australia,0,0,8.83,0
+1,RoundTrip,5,Sat,Australia,1,1,8.83,0
+1,RoundTrip,9,Sun,Australia,1,0,8.83,0
+2,RoundTrip,19,Wed,Australia,1,0,8.83,0
+2,RoundTrip,8,Thu,Australia,1,0,8.83,0
+1,RoundTrip,6,Tue,Australia,1,0,8.83,0
+2,RoundTrip,12,Thu,Australia,1,0,8.83,0
+1,RoundTrip,12,Thu,Australia,1,0,8.83,0
+2,RoundTrip,11,Thu,Philippines,1,0,8.83,0
+1,RoundTrip,8,Fri,Philippines,1,1,8.83,0
+1,RoundTrip,10,Sun,Australia,1,0,8.83,0
+1,RoundTrip,10,Mon,Australia,1,1,8.83,0
+1,RoundTrip,0,Fri,Australia,0,0,8.83,0
+1,RoundTrip,5,Tue,Australia,1,0,8.83,0
+1,RoundTrip,12,Sun,Australia,1,0,8.83,0
+1,RoundTrip,1,Tue,Australia,1,0,8.83,0
+1,RoundTrip,2,Sat,Australia,0,0,8.83,0
+1,RoundTrip,2,Wed,Australia,1,0,8.83,0
+1,RoundTrip,4,Wed,Australia,0,0,8.83,0
+1,RoundTrip,11,Wed,Australia,1,0,8.83,1
+1,RoundTrip,14,Sat,Australia,1,0,8.83,0
+1,RoundTrip,22,Tue,Australia,1,0,8.83,0
+1,RoundTrip,4,Sat,Australia,1,0,8.83,0
+1,RoundTrip,4,Mon,Australia,1,0,8.83,0
+1,RoundTrip,2,Sun,Australia,1,1,8.83,0
+1,RoundTrip,4,Sat,Australia,1,0,8.83,0
+1,RoundTrip,1,Sun,Australia,0,0,8.83,0
+2,RoundTrip,10,Wed,Australia,1,1,8.83,1
+1,RoundTrip,21,Fri,Australia,0,0,8.83,0
+2,RoundTrip,10,Sun,Australia,1,0,8.83,0
+1,RoundTrip,10,Fri,South Korea,1,0,8.83,0
+1,RoundTrip,3,Fri,Australia,0,0,8.83,0
+1,RoundTrip,6,Tue,Australia,1,0,8.83,1
+1,RoundTrip,1,Fri,Philippines,0,0,8.83,0
+1,RoundTrip,1,Thu,Australia,1,1,8.83,0
+1,RoundTrip,20,Wed,Australia,1,0,8.83,0
+1,RoundTrip,21,Fri,Australia,1,0,8.83,0
+1,RoundTrip,4,Mon,Australia,0,0,8.83,0
+1,RoundTrip,7,Sun,Australia,0,0,8.83,0
+2,RoundTrip,0,Fri,Australia,0,0,8.83,0
+1,RoundTrip,11,Sun,Australia,1,0,8.83,0
+1,RoundTrip,6,Wed,Australia,0,0,8.83,0
+1,RoundTrip,4,Mon,Australia,1,0,8.83,0
+1,RoundTrip,5,Wed,Australia,1,1,8.83,0
+1,RoundTrip,3,Fri,Australia,1,0,8.83,0
+1,RoundTrip,9,Mon,Australia,0,0,5.62,0
+2,RoundTrip,13,Fri,Australia,1,1,5.62,0
+1,RoundTrip,10,Fri,Australia,1,0,5.62,0
+2,RoundTrip,5,Mon,Australia,1,1,8.58,0
+1,RoundTrip,7,Sat,Philippines,1,0,8.58,1
+1,RoundTrip,23,Mon,Australia,1,0,8.58,0
+2,RoundTrip,9,Sat,Australia,1,1,8.58,0
+1,RoundTrip,6,Tue,Australia,1,1,8.58,0
+1,RoundTrip,5,Mon,New Zealand,0,0,8.58,0
+1,RoundTrip,13,Wed,Philippines,1,0,8.58,0
+2,RoundTrip,23,Sun,Australia,1,1,8.58,0
+3,RoundTrip,7,Wed,New Zealand,1,1,8.58,0
+1,RoundTrip,5,Sat,Indonesia,0,0,4.83,0
+1,RoundTrip,4,Tue,Indonesia,0,0,4.83,1
+1,RoundTrip,3,Tue,China,1,1,4.83,1
+1,RoundTrip,13,Wed,Indonesia,0,0,4.83,0
+1,RoundTrip,6,Tue,Indonesia,1,0,4.83,0
+2,RoundTrip,4,Wed,Indonesia,1,0,8.67,0
+1,RoundTrip,8,Mon,Japan,1,0,8.67,1
+1,RoundTrip,4,Thu,Japan,1,0,8.67,0
+2,RoundTrip,3,Thu,Indonesia,1,0,4.72,0
+1,RoundTrip,12,Thu,Indonesia,1,1,4.72,1
+1,RoundTrip,12,Wed,Indonesia,0,1,4.72,0
+1,RoundTrip,11,Wed,Indonesia,1,1,4.72,0
+1,RoundTrip,12,Tue,China,0,0,4.72,0
+1,RoundTrip,16,Thu,Indonesia,1,1,4.72,1
+1,RoundTrip,11,Mon,Indonesia,1,0,4.72,0
+1,RoundTrip,3,Fri,Indonesia,1,0,4.72,0
+1,RoundTrip,14,Mon,China,1,0,4.72,0
+2,RoundTrip,11,Sun,South Korea,1,0,4.72,0
+1,RoundTrip,10,Sat,Indonesia,0,0,4.72,1
+1,RoundTrip,13,Mon,China,1,0,4.72,0
+1,RoundTrip,1,Wed,Indonesia,1,0,4.72,0
+1,RoundTrip,5,Sat,China,1,0,4.72,0
+1,RoundTrip,5,Fri,United States,1,0,4.72,0
+2,RoundTrip,3,Fri,Malaysia,1,0,4.72,1
+1,RoundTrip,22,Wed,India,1,1,5.52,0
+1,RoundTrip,17,Sat,Indonesia,1,0,5.52,0
+1,RoundTrip,3,Thu,Indonesia,0,0,5.52,0
+1,RoundTrip,13,Sun,Indonesia,1,0,5.52,0
+1,RoundTrip,6,Tue,Indonesia,1,1,5.52,0
+1,RoundTrip,10,Fri,Indonesia,0,0,5.52,0
+2,RoundTrip,7,Mon,Indonesia,1,0,5.52,0
+3,RoundTrip,3,Thu,Indonesia,1,1,5.52,0
+2,RoundTrip,11,Tue,India,1,0,5.52,0
+2,RoundTrip,14,Thu,Indonesia,0,0,5.52,0
+1,RoundTrip,6,Sat,Indonesia,1,0,5.52,0
+2,RoundTrip,7,Sat,Indonesia,1,0,5.52,0
+1,RoundTrip,12,Sat,Indonesia,0,0,5.52,0
+1,RoundTrip,5,Sun,Malaysia,1,0,5.52,0
+1,RoundTrip,5,Sun,Indonesia,1,1,5.52,1
+2,RoundTrip,13,Wed,Indonesia,1,0,5.52,0
+1,RoundTrip,0,Fri,Indonesia,0,0,5.52,0
+2,RoundTrip,15,Fri,India,0,0,5.52,0
+3,RoundTrip,14,Fri,Indonesia,1,1,5.52,1
+1,RoundTrip,13,Sun,Indonesia,0,0,5.52,0
+2,RoundTrip,8,Tue,Indonesia,1,0,5.52,0
+3,RoundTrip,4,Sun,Singapore,1,0,5.52,1
+3,RoundTrip,3,Fri,Indonesia,0,0,5.52,0
+1,RoundTrip,20,Mon,Indonesia,0,0,5.52,0
+1,RoundTrip,8,Fri,Indonesia,0,0,5.52,0
+1,RoundTrip,4,Sat,Indonesia,0,0,5.52,0
+2,RoundTrip,9,Sat,Oman,0,0,5.52,0
+2,RoundTrip,9,Mon,Indonesia,0,0,5.52,0
+1,RoundTrip,6,Sat,Malaysia,1,0,5.52,0
+1,RoundTrip,7,Thu,Indonesia,1,0,5.52,0
+1,RoundTrip,7,Fri,Indonesia,1,0,5.52,0
+1,RoundTrip,9,Wed,Germany,1,0,5.52,0
+1,RoundTrip,15,Fri,Indonesia,0,0,5.52,0
+1,RoundTrip,14,Sun,Indonesia,0,0,5.52,0
+1,RoundTrip,9,Mon,France,0,0,5.52,1
+1,RoundTrip,14,Thu,Indonesia,0,0,5.52,0
+1,RoundTrip,17,Sun,India,1,0,5.52,0
+2,RoundTrip,7,Wed,Indonesia,1,1,5.52,0
+1,RoundTrip,5,Thu,Indonesia,0,0,5.52,0
+3,RoundTrip,15,Sat,Indonesia,1,1,5.52,0
+1,RoundTrip,7,Tue,India,1,1,5.52,0
+1,RoundTrip,9,Wed,Indonesia,0,0,5.52,0
+4,RoundTrip,9,Tue,Indonesia,0,0,5.52,0
+1,RoundTrip,8,Sat,India,1,1,5.52,0
+1,RoundTrip,5,Thu,Indonesia,0,0,5.52,0
+1,RoundTrip,5,Tue,Indonesia,1,0,5.07,0
+1,RoundTrip,5,Tue,China,1,0,5.07,0
+1,RoundTrip,3,Thu,China,0,0,5.07,0
+1,RoundTrip,19,Thu,China,1,0,5.07,0
+1,RoundTrip,6,Tue,Indonesia,1,0,5.07,0
+1,RoundTrip,4,Fri,Indonesia,1,0,5.07,0
+1,RoundTrip,11,Wed,Indonesia,1,0,5.07,1
+2,RoundTrip,6,Sat,China,1,0,5.07,0
+1,RoundTrip,16,Thu,China,0,0,5.07,0
+1,RoundTrip,14,Wed,Indonesia,0,0,5.07,0
+1,RoundTrip,7,Sat,Indonesia,0,0,5.07,0
+1,RoundTrip,11,Wed,China,0,0,5.07,0
+1,RoundTrip,15,Wed,China,1,0,5.07,0
+1,RoundTrip,15,Fri,China,1,0,5.07,0
+1,RoundTrip,15,Thu,Indonesia,0,0,5.07,0
+1,RoundTrip,4,Sun,China,0,0,5.07,0
+2,RoundTrip,9,Thu,United States,1,0,5.07,0
+2,RoundTrip,9,Sat,China,0,0,5.07,0
+1,RoundTrip,6,Sat,Indonesia,0,0,5.07,0
+1,RoundTrip,8,Sat,Indonesia,1,0,7.57,0
+1,RoundTrip,7,Thu,Japan,1,1,7.57,0
+1,RoundTrip,5,Sat,Japan,0,0,7.57,0
+1,RoundTrip,3,Tue,Japan,1,0,7.57,0
+1,RoundTrip,4,Fri,Japan,0,0,7.57,0
+1,RoundTrip,16,Sat,Japan,1,1,7.57,0
+1,RoundTrip,10,Sun,Japan,1,1,7.57,0
+1,RoundTrip,7,Wed,Thailand,1,0,7.57,0
+1,RoundTrip,17,Tue,Japan,1,1,7.57,0
+1,RoundTrip,3,Thu,Japan,1,0,7.57,0
+1,RoundTrip,6,Sun,Indonesia,1,0,7.57,0
+4,RoundTrip,17,Sat,Indonesia,1,1,7.57,0
+1,RoundTrip,23,Tue,Japan,1,1,7.57,0
+1,RoundTrip,15,Wed,Indonesia,1,0,7.57,0
+1,RoundTrip,12,Mon,Indonesia,1,0,7.57,0
+1,RoundTrip,12,Wed,Indonesia,1,1,7.57,1
+1,RoundTrip,11,Mon,Singapore,1,0,7.57,0
+1,RoundTrip,6,Fri,Japan,1,1,7.57,0
+1,RoundTrip,5,Wed,Indonesia,1,1,7.57,1
+1,RoundTrip,16,Sat,Japan,1,1,7.57,0
+1,RoundTrip,13,Wed,Indonesia,0,1,7.57,0
+1,RoundTrip,4,Thu,Japan,1,0,7.57,0
+2,RoundTrip,12,Sun,Singapore,1,1,7.57,1
+1,RoundTrip,6,Mon,Indonesia,0,1,7.57,0
+1,RoundTrip,4,Sat,Indonesia,1,1,7.57,1
+1,RoundTrip,3,Sat,Japan,1,1,7.57,0
+1,RoundTrip,6,Mon,Indonesia,0,1,7.57,0
+1,RoundTrip,16,Tue,Japan,1,0,7.57,0
+1,RoundTrip,7,Thu,Indonesia,1,0,7.57,1
+1,RoundTrip,8,Fri,Indonesia,1,0,7.57,1
+1,RoundTrip,7,Tue,Japan,1,1,7.57,1
+1,RoundTrip,15,Tue,Japan,0,0,7.57,0
+1,RoundTrip,14,Wed,Japan,0,0,7.57,0
+1,RoundTrip,5,Tue,Japan,0,0,7.57,0
+1,RoundTrip,9,Sat,Indonesia,1,1,7.57,0
+1,RoundTrip,12,Mon,Indonesia,1,0,7.57,0
+1,RoundTrip,17,Tue,Japan,1,1,7.57,0
+1,RoundTrip,4,Sat,Japan,1,0,7.57,1
+1,RoundTrip,9,Thu,Indonesia,1,0,7.57,0
+1,RoundTrip,9,Tue,Japan,1,0,7.57,0
+1,RoundTrip,15,Thu,Japan,0,0,7.57,0
+1,RoundTrip,11,Sat,Indonesia,1,0,7.57,1
+1,RoundTrip,8,Fri,Japan,0,0,7.57,0
+1,RoundTrip,12,Mon,Indonesia,1,0,7.57,0
+1,RoundTrip,1,Thu,Indonesia,1,0,7.57,0
+1,RoundTrip,15,Tue,Indonesia,0,0,7.57,0
+1,RoundTrip,12,Fri,Japan,1,0,7.57,1
+1,RoundTrip,7,Thu,Indonesia,1,1,7.57,1
+1,RoundTrip,6,Thu,Japan,1,1,7.57,0
+1,RoundTrip,15,Tue,Japan,1,0,7.57,0
+1,RoundTrip,10,Sat,Japan,1,0,7.57,0
+1,RoundTrip,1,Wed,Japan,1,0,7.57,1
+1,RoundTrip,8,Thu,Japan,1,1,7.57,0
+1,RoundTrip,4,Thu,Japan,1,0,7.57,0
+1,RoundTrip,13,Fri,Japan,0,0,7.57,0
+1,RoundTrip,12,Wed,United States,1,1,7.57,0
+1,RoundTrip,3,Tue,Japan,1,1,7.57,0
+1,RoundTrip,6,Tue,Japan,1,0,7.57,0
+3,RoundTrip,14,Sat,Japan,1,1,7.57,0
+1,RoundTrip,22,Mon,Japan,1,0,7.57,0
+1,RoundTrip,15,Tue,Indonesia,0,0,7.57,0
+1,RoundTrip,7,Mon,Indonesia,1,1,7.57,0
+1,RoundTrip,8,Fri,Philippines,1,0,7.57,0
+1,RoundTrip,3,Mon,Japan,1,0,7.57,0
+1,RoundTrip,14,Sun,Japan,0,0,7.57,0
+1,RoundTrip,8,Sat,Japan,1,0,7.57,0
+1,RoundTrip,5,Mon,Japan,0,0,7.57,0
+1,RoundTrip,7,Tue,Japan,1,0,7.57,0
+1,RoundTrip,2,Thu,Japan,1,0,7.57,0
+1,RoundTrip,13,Sat,Japan,1,0,7.57,0
+4,RoundTrip,2,Wed,South Korea,1,0,6.62,0
+1,RoundTrip,3,Thu,Indonesia,0,0,6.62,1
+1,RoundTrip,1,Fri,South Korea,1,0,6.62,0
+1,RoundTrip,7,Fri,Indonesia,1,1,6.62,0
+1,RoundTrip,2,Thu,South Korea,0,0,6.62,0
+1,RoundTrip,6,Fri,South Korea,1,0,6.62,0
+1,RoundTrip,15,Mon,South Korea,1,1,6.62,0
+1,RoundTrip,3,Fri,South Korea,1,1,6.62,0
+1,RoundTrip,13,Mon,South Korea,1,0,6.62,0
+1,RoundTrip,18,Sat,South Korea,0,1,6.62,0
+1,RoundTrip,11,Fri,South Korea,1,0,6.62,0
+1,RoundTrip,12,Mon,South Korea,1,0,6.62,0
+2,RoundTrip,11,Tue,Indonesia,1,0,6.62,1
+1,RoundTrip,2,Mon,South Korea,0,0,6.62,0
+2,RoundTrip,6,Wed,South Korea,0,0,6.62,0
+1,RoundTrip,14,Wed,South Korea,0,0,6.62,0
+1,RoundTrip,11,Fri,South Korea,0,0,6.62,0
+5,RoundTrip,14,Wed,Indonesia,1,1,6.62,0
+1,RoundTrip,7,Tue,South Korea,1,0,6.62,0
+1,RoundTrip,22,Sat,Netherlands,1,1,6.62,0
+1,RoundTrip,7,Fri,South Korea,1,0,6.62,0
+1,RoundTrip,8,Sat,South Korea,1,0,6.62,0
+1,RoundTrip,7,Fri,Indonesia,1,1,6.62,0
+1,RoundTrip,14,Sun,South Korea,1,1,6.62,0
+1,RoundTrip,4,Sat,South Korea,1,0,6.62,0
+1,RoundTrip,6,Thu,Indonesia,1,0,6.62,1
+1,RoundTrip,10,Thu,South Korea,0,0,6.62,0
+3,RoundTrip,6,Sat,Indonesia,1,0,6.62,1
+1,RoundTrip,4,Fri,Indonesia,1,0,6.62,1
+1,RoundTrip,11,Mon,Indonesia,1,0,6.62,1
+1,RoundTrip,15,Sun,Indonesia,1,1,6.62,1
+3,RoundTrip,1,Sat,South Korea,0,0,6.62,0
+1,RoundTrip,1,Thu,South Korea,0,0,6.62,0
+1,RoundTrip,2,Wed,United States,1,1,6.62,0
+1,RoundTrip,12,Fri,South Korea,0,0,6.62,0
+1,RoundTrip,10,Sun,Indonesia,1,0,6.62,0
+1,RoundTrip,1,Mon,South Korea,1,1,6.62,0
+4,OneWay,4,Wed,Indonesia,1,1,6.62,1
+1,RoundTrip,2,Sat,South Korea,1,0,6.62,0
+1,RoundTrip,14,Sat,South Korea,0,0,6.62,0
+1,RoundTrip,1,Tue,South Korea,0,0,6.62,0
+1,RoundTrip,9,Wed,South Korea,1,1,6.62,0
+1,RoundTrip,8,Tue,South Korea,1,1,6.62,0
+1,RoundTrip,9,Fri,Indonesia,1,0,6.62,0
+1,RoundTrip,14,Sun,South Korea,1,0,6.62,0
+1,RoundTrip,13,Mon,South Korea,1,0,6.62,0
+1,RoundTrip,0,Fri,South Korea,0,0,6.62,0
+1,RoundTrip,7,Mon,Indonesia,1,0,6.62,0
+1,RoundTrip,14,Mon,South Korea,0,0,6.62,0
+2,RoundTrip,2,Wed,Indonesia,1,1,6.62,1
+1,RoundTrip,8,Fri,South Korea,0,1,6.62,0
+1,RoundTrip,7,Thu,Indonesia,1,0,6.62,0
+2,OneWay,0,Mon,Indonesia,1,0,6.62,0
+2,RoundTrip,18,Sun,Indonesia,1,0,6.62,0
+1,RoundTrip,10,Sun,South Korea,1,0,6.62,0
+1,RoundTrip,11,Wed,Indonesia,1,0,6.62,0
+1,RoundTrip,11,Sun,South Korea,1,1,6.62,0
+1,RoundTrip,2,Wed,South Korea,1,0,6.62,0
+1,RoundTrip,16,Thu,Indonesia,0,0,6.62,0
+1,RoundTrip,5,Sun,Indonesia,1,1,6.62,1
+1,RoundTrip,14,Mon,South Korea,1,0,6.62,0
+1,RoundTrip,12,Sat,South Korea,1,0,6.62,0
+1,RoundTrip,17,Thu,South Korea,1,0,6.62,0
+1,RoundTrip,10,Wed,Indonesia,1,0,6.62,1
+1,RoundTrip,9,Tue,Indonesia,1,0,6.62,0
+1,RoundTrip,5,Thu,South Korea,1,0,6.62,0
+1,RoundTrip,13,Wed,South Korea,0,0,6.62,0
+1,RoundTrip,11,Wed,Indonesia,1,1,6.62,1
+2,RoundTrip,3,Tue,Indonesia,1,0,6.62,1
+2,RoundTrip,2,Wed,South Korea,1,0,6.62,0
+1,RoundTrip,4,Wed,South Korea,1,0,6.62,0
+3,RoundTrip,2,Wed,South Korea,1,0,6.62,0
+2,RoundTrip,7,Mon,South Korea,1,1,6.62,0
+5,RoundTrip,15,Tue,Indonesia,1,0,6.62,1
+1,RoundTrip,6,Tue,Indonesia,1,1,6.62,1
+1,RoundTrip,5,Tue,South Korea,0,0,6.62,0
+1,RoundTrip,5,Tue,Indonesia,1,0,8.15,0
+1,RoundTrip,13,Tue,Indonesia,0,0,8.15,0
+1,RoundTrip,11,Wed,Iran,1,0,8.15,0
+3,OneWay,7,Sun,Iran,1,0,8.15,0
+1,RoundTrip,4,Wed,Indonesia,1,0,8.15,0
+1,RoundTrip,13,Sun,Indonesia,1,1,8.15,0
+3,RoundTrip,5,Fri,Indonesia,0,0,8.15,0
+1,RoundTrip,9,Sat,Indonesia,1,0,8.15,0
+1,RoundTrip,7,Fri,Indonesia,0,0,8.15,0
+1,RoundTrip,6,Sat,Indonesia,1,0,8.15,0
+1,RoundTrip,6,Sun,Indonesia,0,0,8.15,0
+1,RoundTrip,4,Mon,Indonesia,1,0,8.15,0
+1,RoundTrip,5,Fri,United Arab Emirates,0,0,8.15,0
+1,RoundTrip,12,Thu,Indonesia,0,0,8.15,0
+2,RoundTrip,13,Tue,Indonesia,1,0,8.15,0
+1,RoundTrip,21,Wed,Indonesia,0,0,8.15,0
+1,RoundTrip,8,Sat,Indonesia,1,0,8.15,0
+3,RoundTrip,11,Sun,United Arab Emirates,1,0,8.15,0
+1,RoundTrip,15,Tue,Indonesia,0,0,8.15,0
+1,RoundTrip,5,Sun,Indonesia,0,0,8.15,0
+1,RoundTrip,9,Tue,Indonesia,1,0,8.15,0
+1,RoundTrip,8,Mon,Indonesia,0,0,8.15,0
+1,RoundTrip,13,Thu,United States,1,1,8.15,0
+3,RoundTrip,3,Wed,Indonesia,1,0,8.15,0
+1,RoundTrip,12,Thu,Australia,1,1,8.15,0
+1,RoundTrip,10,Mon,Indonesia,1,0,8.15,0
+1,RoundTrip,9,Thu,Indonesia,1,0,8.15,0
+3,RoundTrip,11,Thu,Indonesia,0,0,8.15,0
+4,RoundTrip,10,Fri,Indonesia,1,0,9.5,0
+1,RoundTrip,16,Tue,Indonesia,1,0,9.5,0
+3,RoundTrip,9,Tue,Indonesia,1,0,9.5,0
+1,RoundTrip,6,Thu,Indonesia,0,0,9.5,0
+3,RoundTrip,3,Tue,Indonesia,0,0,9.5,0
+1,RoundTrip,10,Fri,Saudi Arabia,1,0,9.5,1
+2,RoundTrip,10,Tue,Indonesia,1,0,9.5,1
+1,RoundTrip,12,Mon,Indonesia,1,0,7,0
+1,RoundTrip,13,Tue,Japan,1,0,7,0
+3,RoundTrip,14,Tue,Indonesia,1,0,7,0
+1,RoundTrip,2,Sun,Japan,1,0,7,0
+1,RoundTrip,17,Thu,Indonesia,1,1,7,0
+1,RoundTrip,8,Sat,Japan,1,0,7,0
+1,RoundTrip,7,Mon,Indonesia,1,0,7,0
+1,RoundTrip,5,Tue,Japan,1,1,7,0
+1,RoundTrip,13,Sun,Japan,1,0,7,0
+1,RoundTrip,15,Mon,Indonesia,1,1,7,1
+1,RoundTrip,7,Tue,Indonesia,1,0,7,0
+1,RoundTrip,14,Wed,Japan,1,1,7,0
+1,RoundTrip,4,Mon,Indonesia,1,0,7,0
+1,RoundTrip,7,Thu,Indonesia,1,0,7,0
+1,RoundTrip,0,Wed,Japan,1,0,7,0
+1,RoundTrip,14,Sun,Indonesia,0,0,7,0
+1,RoundTrip,7,Wed,Indonesia,1,0,7,0
+1,RoundTrip,10,Wed,Japan,1,1,7,0
+1,RoundTrip,5,Wed,Japan,0,0,7,0
+2,RoundTrip,7,Mon,Indonesia,1,0,7,1
+1,RoundTrip,13,Sat,Japan,1,1,7,0
+2,RoundTrip,2,Sun,Japan,1,1,7,1
+1,RoundTrip,10,Wed,Indonesia,1,1,7,1
+1,RoundTrip,10,Wed,Indonesia,1,1,7,1
+1,RoundTrip,10,Sat,Japan,1,0,7,0
+1,RoundTrip,2,Tue,Japan,1,1,7,0
+1,RoundTrip,7,Sat,Indonesia,0,0,7,0
+2,RoundTrip,13,Mon,Japan,1,0,7,1
+1,RoundTrip,12,Sun,Japan,1,1,7,0
+1,RoundTrip,10,Sat,Indonesia,1,0,7,1
+2,RoundTrip,11,Tue,Indonesia,1,0,7,1
+1,RoundTrip,7,Tue,Japan,1,1,7,0
+2,RoundTrip,8,Wed,Indonesia,1,0,7,1
+1,RoundTrip,2,Tue,Japan,0,0,7,0
+1,RoundTrip,5,Fri,Indonesia,1,1,7,1
+1,RoundTrip,12,Mon,Japan,1,0,7,0
+1,RoundTrip,9,Sun,Japan,1,0,7,0
+1,RoundTrip,9,Thu,Indonesia,1,0,7,0
+1,RoundTrip,5,Fri,Japan,1,1,7,0
+2,RoundTrip,15,Mon,Japan,1,1,7,1
+2,RoundTrip,10,Sun,Indonesia,1,1,7,0
+1,RoundTrip,5,Sun,Japan,1,0,7,0
+1,OneWay,10,Sat,Indonesia,0,1,7,0
+1,RoundTrip,1,Fri,Indonesia,1,1,7,1
+1,RoundTrip,15,Wed,Japan,1,1,7,0
+1,RoundTrip,22,Fri,Japan,1,0,7,0
+3,RoundTrip,10,Fri,Indonesia,1,1,7,1
+2,RoundTrip,15,Wed,Japan,1,1,7,0
+1,RoundTrip,16,Sat,Japan,0,1,7,0
+1,RoundTrip,9,Mon,Japan,1,0,7,0
+1,RoundTrip,14,Wed,Japan,1,0,7,0
+1,RoundTrip,6,Mon,Indonesia,0,0,7,0
+1,RoundTrip,9,Tue,Japan,0,1,7,0
+1,RoundTrip,4,Thu,Indonesia,1,1,7,1
+1,RoundTrip,11,Mon,Japan,1,1,7,1
+1,RoundTrip,12,Tue,Japan,0,0,7,0
+3,RoundTrip,10,Wed,Indonesia,1,1,7,1
+4,RoundTrip,0,Sat,Japan,1,0,7,0
+1,RoundTrip,6,Wed,Japan,1,0,7,0
+1,RoundTrip,5,Wed,Japan,1,0,7,0
+1,RoundTrip,9,Sun,Japan,1,1,7,0
+2,RoundTrip,11,Thu,Japan,1,1,7,1
+1,RoundTrip,22,Mon,Japan,0,0,7,0
+1,RoundTrip,5,Fri,Japan,1,1,7,1
+1,RoundTrip,9,Sat,Japan,1,0,7,0
+1,RoundTrip,5,Mon,Indonesia,1,1,7,1
+1,RoundTrip,8,Mon,Indonesia,1,0,7,1
+3,RoundTrip,3,Mon,Indonesia,1,0,7,0
+1,OneWay,5,Wed,Indonesia,1,0,7,0
+1,RoundTrip,12,Thu,Indonesia,1,0,7,0
+1,RoundTrip,9,Wed,Japan,1,0,7,0
+1,RoundTrip,6,Fri,Japan,0,0,7,0
+2,RoundTrip,9,Fri,Indonesia,1,0,7,1
+2,RoundTrip,9,Sat,Indonesia,1,1,7,1
+1,RoundTrip,4,Thu,Japan,1,1,7,0
+1,RoundTrip,6,Mon,Indonesia,0,0,7,0
+5,RoundTrip,15,Sun,Indonesia,1,0,7,0
+1,RoundTrip,10,Fri,Japan,1,0,7,0
+4,RoundTrip,0,Sat,Japan,1,0,7,0
+1,RoundTrip,6,Thu,Japan,1,0,7,0
+1,RoundTrip,6,Fri,Japan,1,0,7,0
+2,RoundTrip,7,Tue,Indonesia,1,0,7,0
+1,RoundTrip,12,Mon,Japan,1,1,7,1
+2,RoundTrip,11,Mon,Indonesia,1,0,7,1
+1,RoundTrip,10,Thu,Japan,1,0,7,0
+1,RoundTrip,10,Mon,Indonesia,1,0,7,0
+1,RoundTrip,2,Tue,Japan,1,0,7,0
+1,RoundTrip,10,Tue,Indonesia,1,1,7,0
+1,RoundTrip,9,Fri,Indonesia,1,0,7,1
+2,RoundTrip,7,Sun,Japan,0,0,7,0

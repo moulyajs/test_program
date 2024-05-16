@@ -1,0 +1,629 @@
+num_passengers,trip_type,flight_hour,booking_origin
+1,RoundTrip,12,India
+1,RoundTrip,6,India
+1,RoundTrip,8,New Zealand
+1,RoundTrip,3,China
+1,RoundTrip,2,New Zealand
+1,RoundTrip,9,South Korea
+1,RoundTrip,14,South Korea
+2,RoundTrip,10,New Zealand
+1,RoundTrip,23,New Zealand
+2,RoundTrip,5,New Zealand
+1,RoundTrip,10,Japan
+1,RoundTrip,1,Malaysia
+1,RoundTrip,23,New Zealand
+1,RoundTrip,4,Malaysia
+2,RoundTrip,7,China
+4,RoundTrip,16,Malaysia
+1,RoundTrip,4,New Zealand
+1,RoundTrip,9,Malaysia
+1,RoundTrip,10,Vietnam
+1,RoundTrip,13,Singapore
+1,RoundTrip,20,Germany
+2,RoundTrip,11,New Zealand
+2,RoundTrip,20,Spain
+5,RoundTrip,13,Malaysia
+1,RoundTrip,8,New Zealand
+1,RoundTrip,13,Malaysia
+5,RoundTrip,13,Malaysia
+4,RoundTrip,6,Malaysia
+1,RoundTrip,16,Malaysia
+1,RoundTrip,11,Germany
+1,RoundTrip,3,New Zealand
+1,RoundTrip,7,New Zealand
+2,RoundTrip,4,New Zealand
+2,RoundTrip,8,New Zealand
+1,RoundTrip,1,New Zealand
+4,RoundTrip,16,Malaysia
+1,RoundTrip,15,Malaysia
+1,RoundTrip,21,New Zealand
+1,RoundTrip,3,New Zealand
+2,RoundTrip,7,New Zealand
+1,OneWay,23,New Zealand
+1,RoundTrip,8,Malaysia
+4,RoundTrip,6,Malaysia
+1,RoundTrip,9,Malaysia
+1,RoundTrip,7,Saudi Arabia
+4,RoundTrip,4,Malaysia
+1,RoundTrip,8,New Zealand
+3,RoundTrip,3,Malaysia
+1,RoundTrip,7,Malaysia
+1,RoundTrip,3,New Zealand
+1,RoundTrip,16,Malaysia
+1,RoundTrip,9,New Zealand
+2,RoundTrip,8,New Zealand
+1,RoundTrip,14,Malaysia
+1,RoundTrip,7,New Zealand
+5,RoundTrip,13,Malaysia
+2,RoundTrip,2,Malaysia
+1,RoundTrip,9,New Zealand
+2,RoundTrip,9,New Zealand
+1,RoundTrip,15,Malaysia
+6,RoundTrip,5,Malaysia
+2,RoundTrip,17,Malaysia
+4,RoundTrip,6,Malaysia
+4,RoundTrip,4,Malaysia
+2,RoundTrip,12,Malaysia
+1,RoundTrip,8,Indonesia
+1,RoundTrip,1,New Zealand
+1,RoundTrip,9,Malaysia
+5,RoundTrip,13,Malaysia
+2,RoundTrip,21,New Zealand
+1,RoundTrip,9,New Zealand
+1,RoundTrip,15,Malaysia
+1,RoundTrip,7,Malaysia
+1,RoundTrip,15,Malaysia
+1,RoundTrip,6,New Zealand
+1,RoundTrip,11,Malaysia
+1,RoundTrip,16,Malaysia
+1,RoundTrip,16,Malaysia
+1,RoundTrip,1,Malaysia
+2,RoundTrip,15,Germany
+1,RoundTrip,22,Malaysia
+1,RoundTrip,2,Malaysia
+5,RoundTrip,10,New Zealand
+1,RoundTrip,6,Malaysia
+2,RoundTrip,15,Malaysia
+1,RoundTrip,15,Malaysia
+2,RoundTrip,0,Malaysia
+2,RoundTrip,11,Malaysia
+1,RoundTrip,9,Malaysia
+1,RoundTrip,1,New Zealand
+1,RoundTrip,6,New Zealand
+1,RoundTrip,17,United Kingdom
+2,RoundTrip,17,Malaysia
+1,RoundTrip,6,Malaysia
+1,RoundTrip,8,Malaysia
+2,RoundTrip,9,Laos
+2,RoundTrip,0,New Zealand
+1,RoundTrip,8,New Zealand
+1,RoundTrip,7,Malaysia
+1,RoundTrip,2,Malaysia
+1,RoundTrip,5,New Zealand
+1,RoundTrip,14,Malaysia
+2,RoundTrip,2,Netherlands
+1,RoundTrip,9,Malaysia
+1,RoundTrip,6,New Zealand
+1,RoundTrip,6,Malaysia
+1,RoundTrip,12,Malaysia
+2,RoundTrip,11,Malaysia
+1,OneWay,2,New Zealand
+2,RoundTrip,4,New Zealand
+1,RoundTrip,9,New Zealand
+1,RoundTrip,8,Malaysia
+2,RoundTrip,14,Malaysia
+1,RoundTrip,0,New Zealand
+3,RoundTrip,16,Malaysia
+1,RoundTrip,7,New Zealand
+1,RoundTrip,9,New Zealand
+2,RoundTrip,9,Laos
+1,RoundTrip,10,Malaysia
+1,RoundTrip,10,Malaysia
+1,RoundTrip,0,New Zealand
+1,RoundTrip,4,New Zealand
+1,RoundTrip,4,Malaysia
+1,RoundTrip,15,Malaysia
+1,RoundTrip,8,New Zealand
+1,RoundTrip,5,Malaysia
+2,RoundTrip,7,New Zealand
+1,RoundTrip,8,New Zealand
+2,RoundTrip,4,Malaysia
+2,RoundTrip,5,New Zealand
+1,RoundTrip,7,Malaysia
+3,RoundTrip,10,New Zealand
+2,RoundTrip,5,Malaysia
+2,RoundTrip,15,Malaysia
+5,RoundTrip,1,Malaysia
+1,RoundTrip,12,Australia
+1,RoundTrip,11,New Zealand
+3,RoundTrip,3,Malaysia
+2,RoundTrip,4,Malaysia
+2,RoundTrip,6,New Zealand
+1,RoundTrip,6,Malaysia
+1,RoundTrip,8,New Zealand
+2,RoundTrip,3,Malaysia
+2,RoundTrip,2,New Zealand
+2,RoundTrip,14,Malaysia
+1,RoundTrip,2,Malaysia
+2,RoundTrip,5,Malaysia
+3,RoundTrip,6,Malaysia
+1,RoundTrip,8,New Zealand
+4,RoundTrip,13,Malaysia
+2,RoundTrip,10,New Zealand
+8,RoundTrip,3,Malaysia
+1,RoundTrip,21,New Zealand
+1,RoundTrip,0,New Zealand
+1,RoundTrip,16,Malaysia
+1,RoundTrip,4,Malaysia
+3,RoundTrip,11,New Zealand
+1,RoundTrip,12,Malaysia
+2,RoundTrip,8,New Zealand
+1,RoundTrip,15,Malaysia
+4,RoundTrip,9,New Zealand
+3,RoundTrip,2,New Zealand
+1,RoundTrip,9,New Zealand
+1,RoundTrip,13,Malaysia
+1,RoundTrip,14,Cambodia
+1,RoundTrip,20,New Zealand
+1,RoundTrip,0,New Zealand
+1,RoundTrip,7,Malaysia
+1,RoundTrip,12,New Zealand
+2,RoundTrip,23,Netherlands
+1,RoundTrip,13,Malaysia
+1,RoundTrip,7,Malaysia
+1,RoundTrip,10,New Zealand
+1,RoundTrip,7,New Zealand
+2,RoundTrip,8,New Zealand
+1,RoundTrip,13,Malaysia
+1,RoundTrip,10,New Zealand
+2,RoundTrip,11,New Zealand
+1,RoundTrip,17,Malaysia
+2,RoundTrip,17,Malaysia
+1,RoundTrip,6,New Zealand
+1,RoundTrip,14,Malaysia
+1,RoundTrip,7,New Zealand
+1,RoundTrip,16,Malaysia
+2,RoundTrip,3,Malaysia
+1,RoundTrip,14,United Kingdom
+1,RoundTrip,5,New Zealand
+1,RoundTrip,6,Malaysia
+2,RoundTrip,12,Germany
+1,RoundTrip,17,Malaysia
+1,RoundTrip,2,New Zealand
+1,RoundTrip,17,Oman
+2,RoundTrip,6,Malaysia
+1,RoundTrip,9,Malaysia
+1,RoundTrip,8,New Zealand
+1,RoundTrip,3,Philippines
+2,RoundTrip,4,Malaysia
+1,RoundTrip,9,New Zealand
+2,RoundTrip,21,Spain
+3,RoundTrip,12,Germany
+2,RoundTrip,5,Malaysia
+1,RoundTrip,8,Malaysia
+1,RoundTrip,2,Malaysia
+2,RoundTrip,12,Malaysia
+3,RoundTrip,11,Malaysia
+1,RoundTrip,4,Malaysia
+1,RoundTrip,8,Malaysia
+1,RoundTrip,12,New Zealand
+2,RoundTrip,10,Netherlands
+1,RoundTrip,0,New Zealand
+1,RoundTrip,10,New Zealand
+2,RoundTrip,22,New Zealand
+1,RoundTrip,11,Malaysia
+1,RoundTrip,18,New Zealand
+2,RoundTrip,13,Kazakhstan
+2,RoundTrip,6,Romania
+5,RoundTrip,10,New Zealand
+2,RoundTrip,6,New Zealand
+2,RoundTrip,13,R‚union
+1,RoundTrip,14,Malaysia
+1,RoundTrip,2,Malaysia
+2,RoundTrip,1,Thailand
+1,RoundTrip,17,Malaysia
+1,RoundTrip,0,New Zealand
+3,RoundTrip,6,New Zealand
+3,RoundTrip,11,Malaysia
+2,RoundTrip,12,Thailand
+2,RoundTrip,5,Malaysia
+3,RoundTrip,16,Malaysia
+1,RoundTrip,14,Malaysia
+1,RoundTrip,9,New Zealand
+1,RoundTrip,4,Malaysia
+3,RoundTrip,20,New Zealand
+1,RoundTrip,15,Malaysia
+2,RoundTrip,12,New Zealand
+1,RoundTrip,13,Malaysia
+2,RoundTrip,1,New Zealand
+1,RoundTrip,20,Malaysia
+3,RoundTrip,16,Malaysia
+1,RoundTrip,4,New Zealand
+1,RoundTrip,12,Malaysia
+1,RoundTrip,14,Malaysia
+1,RoundTrip,11,Malaysia
+1,RoundTrip,0,New Zealand
+1,RoundTrip,13,Malaysia
+1,RoundTrip,4,Indonesia
+1,RoundTrip,23,Malaysia
+3,RoundTrip,10,Malaysia
+1,RoundTrip,23,New Zealand
+1,RoundTrip,11,Malaysia
+3,RoundTrip,10,Malaysia
+2,RoundTrip,10,United Arab Emirates
+2,RoundTrip,23,New Zealand
+2,RoundTrip,0,Malaysia
+1,RoundTrip,16,United Kingdom
+1,RoundTrip,12,Malaysia
+1,RoundTrip,8,Malaysia
+1,RoundTrip,2,New Zealand
+2,RoundTrip,3,Brunei
+4,RoundTrip,3,Malaysia
+2,OneWay,6,New Zealand
+1,RoundTrip,13,Malaysia
+1,RoundTrip,6,Malaysia
+1,RoundTrip,3,Malaysia
+1,RoundTrip,18,Malaysia
+1,RoundTrip,10,New Zealand
+4,RoundTrip,5,New Zealand
+2,RoundTrip,12,Malaysia
+1,RoundTrip,1,New Zealand
+1,RoundTrip,10,New Zealand
+2,RoundTrip,11,New Zealand
+2,RoundTrip,0,New Zealand
+1,RoundTrip,8,Malaysia
+1,RoundTrip,3,Malaysia
+3,RoundTrip,10,Malaysia
+1,RoundTrip,16,Malaysia
+2,RoundTrip,6,Malaysia
+2,RoundTrip,17,Italy
+2,RoundTrip,2,Malaysia
+1,RoundTrip,1,Hong Kong
+2,OneWay,5,New Zealand
+2,RoundTrip,6,New Zealand
+2,RoundTrip,8,Malaysia
+4,RoundTrip,7,New Zealand
+1,RoundTrip,3,New Zealand
+1,RoundTrip,13,Malaysia
+1,RoundTrip,14,Malaysia
+1,RoundTrip,16,Malaysia
+1,RoundTrip,8,Malaysia
+2,RoundTrip,5,New Zealand
+1,RoundTrip,8,New Zealand
+3,RoundTrip,18,New Zealand
+2,RoundTrip,7,Malaysia
+1,RoundTrip,23,New Zealand
+1,RoundTrip,14,Malaysia
+1,RoundTrip,11,New Zealand
+1,RoundTrip,5,Malaysia
+4,RoundTrip,7,Saudi Arabia
+4,RoundTrip,16,Malaysia
+1,RoundTrip,15,Malaysia
+1,RoundTrip,8,New Zealand
+1,RoundTrip,7,Malaysia
+1,RoundTrip,14,Malaysia
+1,RoundTrip,10,Malaysia
+3,RoundTrip,23,New Zealand
+1,RoundTrip,8,Malaysia
+4,RoundTrip,19,New Zealand
+4,RoundTrip,4,Malaysia
+5,RoundTrip,18,Malaysia
+2,RoundTrip,22,New Zealand
+1,RoundTrip,10,New Zealand
+1,RoundTrip,0,New Zealand
+3,RoundTrip,7,Malaysia
+3,RoundTrip,6,New Zealand
+1,RoundTrip,21,Malaysia
+1,RoundTrip,14,Malaysia
+1,RoundTrip,11,New Zealand
+1,RoundTrip,2,Malaysia
+1,RoundTrip,3,New Zealand
+1,RoundTrip,14,Malaysia
+1,RoundTrip,17,Malaysia
+1,RoundTrip,5,New Zealand
+1,RoundTrip,6,Malaysia
+5,RoundTrip,0,New Zealand
+1,RoundTrip,7,New Zealand
+1,RoundTrip,19,New Zealand
+1,RoundTrip,10,New Zealand
+1,RoundTrip,10,New Zealand
+1,RoundTrip,13,Malaysia
+2,RoundTrip,5,Malaysia
+1,RoundTrip,9,New Zealand
+1,RoundTrip,10,New Zealand
+1,RoundTrip,8,New Zealand
+1,RoundTrip,6,New Zealand
+1,RoundTrip,16,Malaysia
+1,RoundTrip,22,New Zealand
+2,RoundTrip,13,Malaysia
+2,RoundTrip,6,Malaysia
+2,RoundTrip,0,New Zealand
+1,RoundTrip,11,New Zealand
+2,RoundTrip,8,New Zealand
+1,RoundTrip,9,Malaysia
+1,RoundTrip,11,Malaysia
+3,RoundTrip,2,New Zealand
+1,RoundTrip,2,France
+2,RoundTrip,0,New Zealand
+1,RoundTrip,7,Malaysia
+1,RoundTrip,14,Malaysia
+2,RoundTrip,9,New Zealand
+1,RoundTrip,12,Malaysia
+1,RoundTrip,6,New Zealand
+2,RoundTrip,9,Malaysia
+1,RoundTrip,21,New Zealand
+2,RoundTrip,15,Malaysia
+1,RoundTrip,3,New Zealand
+1,RoundTrip,11,Saudi Arabia
+1,RoundTrip,7,Malaysia
+1,RoundTrip,13,Malaysia
+2,RoundTrip,6,Malaysia
+2,RoundTrip,1,Malaysia
+1,RoundTrip,13,Malaysia
+1,RoundTrip,5,New Zealand
+2,RoundTrip,9,New Zealand
+1,RoundTrip,10,Australia
+1,RoundTrip,16,Malaysia
+1,RoundTrip,7,Malaysia
+1,RoundTrip,17,Malaysia
+1,RoundTrip,13,New Zealand
+4,RoundTrip,15,Malaysia
+1,RoundTrip,22,New Zealand
+4,RoundTrip,6,New Zealand
+1,RoundTrip,16,United States
+2,RoundTrip,5,Malaysia
+2,RoundTrip,15,Malaysia
+2,RoundTrip,17,Malaysia
+1,RoundTrip,3,New Zealand
+1,RoundTrip,17,Sri Lanka
+1,RoundTrip,7,Malaysia
+4,RoundTrip,9,New Zealand
+1,RoundTrip,9,New Zealand
+1,RoundTrip,4,Malaysia
+2,RoundTrip,5,Malaysia
+1,RoundTrip,4,Malaysia
+2,RoundTrip,3,United States
+1,RoundTrip,4,Malaysia
+1,RoundTrip,21,New Zealand
+1,RoundTrip,8,New Zealand
+2,RoundTrip,2,New Zealand
+2,RoundTrip,11,Malaysia
+1,RoundTrip,6,Malaysia
+3,RoundTrip,9,New Zealand
+2,RoundTrip,14,Malaysia
+1,RoundTrip,12,Malaysia
+2,RoundTrip,17,New Zealand
+1,RoundTrip,4,New Zealand
+2,RoundTrip,7,United States
+1,RoundTrip,7,New Zealand
+1,RoundTrip,17,Taiwan
+1,RoundTrip,13,South Korea
+1,RoundTrip,9,Australia
+1,RoundTrip,12,Japan
+1,RoundTrip,3,South Korea
+1,RoundTrip,23,Australia
+2,RoundTrip,7,Australia
+1,RoundTrip,17,Indonesia
+1,RoundTrip,6,Australia
+1,RoundTrip,0,Australia
+1,RoundTrip,11,Australia
+3,RoundTrip,6,Indonesia
+1,RoundTrip,7,Australia
+1,RoundTrip,3,Australia
+1,RoundTrip,13,Malaysia
+3,RoundTrip,6,Malaysia
+1,RoundTrip,9,Malaysia
+3,RoundTrip,11,Malaysia
+4,RoundTrip,23,Malaysia
+1,RoundTrip,6,Australia
+1,RoundTrip,8,Malaysia
+1,RoundTrip,3,Malaysia
+1,RoundTrip,15,Malaysia
+1,RoundTrip,2,Australia
+1,RoundTrip,11,Australia
+1,RoundTrip,21,Australia
+1,RoundTrip,7,Malaysia
+2,RoundTrip,22,Malaysia
+1,RoundTrip,13,Australia
+2,RoundTrip,6,Australia
+1,RoundTrip,3,Australia
+2,RoundTrip,13,Australia
+2,RoundTrip,3,Australia
+1,RoundTrip,10,Malaysia
+1,RoundTrip,23,Australia
+1,RoundTrip,13,Malaysia
+2,RoundTrip,14,Malaysia
+2,RoundTrip,5,Malaysia
+3,RoundTrip,14,Malaysia
+1,RoundTrip,10,Australia
+1,RoundTrip,1,South Korea
+2,RoundTrip,9,Australia
+1,RoundTrip,13,Australia
+2,RoundTrip,7,Australia
+1,RoundTrip,12,Australia
+1,RoundTrip,10,Malaysia
+5,RoundTrip,3,Malaysia
+5,RoundTrip,3,Malaysia
+5,RoundTrip,3,Malaysia
+1,RoundTrip,5,Australia
+2,RoundTrip,16,Malaysia
+6,RoundTrip,5,Malaysia
+1,RoundTrip,23,Australia
+1,RoundTrip,4,India
+2,RoundTrip,14,Australia
+1,RoundTrip,10,India
+1,RoundTrip,4,Australia
+1,RoundTrip,5,Australia
+2,RoundTrip,5,India
+2,RoundTrip,3,Australia
+2,RoundTrip,12,Australia
+1,RoundTrip,12,Australia
+1,RoundTrip,9,India
+2,RoundTrip,14,Australia
+2,RoundTrip,13,Australia
+1,RoundTrip,3,Australia
+1,RoundTrip,7,Australia
+1,RoundTrip,5,Australia
+1,RoundTrip,4,India
+1,RoundTrip,4,Australia
+2,RoundTrip,13,India
+1,RoundTrip,10,Australia
+1,RoundTrip,23,Australia
+2,RoundTrip,11,Thailand
+2,RoundTrip,8,India
+3,RoundTrip,13,Kuwait
+1,RoundTrip,7,Australia
+1,RoundTrip,5,Australia
+1,RoundTrip,6,Australia
+1,RoundTrip,9,Australia
+4,RoundTrip,10,Indonesia
+1,RoundTrip,11,Australia
+1,RoundTrip,2,United States
+2,RoundTrip,12,India
+2,RoundTrip,3,India
+2,RoundTrip,2,Malaysia
+1,RoundTrip,13,Malaysia
+1,RoundTrip,2,Malaysia
+1,RoundTrip,5,Australia
+2,RoundTrip,14,Malaysia
+1,RoundTrip,3,Malaysia
+1,RoundTrip,2,Malaysia
+2,RoundTrip,14,Malaysia
+1,RoundTrip,1,Australia
+1,RoundTrip,10,Malaysia
+2,RoundTrip,11,Malaysia
+2,RoundTrip,13,Australia
+1,RoundTrip,9,Malaysia
+1,RoundTrip,3,Malaysia
+1,RoundTrip,3,Brunei
+1,RoundTrip,4,Brunei
+1,RoundTrip,6,China
+1,RoundTrip,6,China
+1,RoundTrip,0,Brunei
+2,RoundTrip,23,Brunei
+1,RoundTrip,14,Australia
+1,RoundTrip,0,Brunei
+1,RoundTrip,2,Australia
+1,RoundTrip,8,Australia
+1,RoundTrip,15,Australia
+1,RoundTrip,2,Brunei
+2,RoundTrip,15,China
+1,RoundTrip,5,China
+1,RoundTrip,2,Australia
+1,RoundTrip,14,Australia
+1,RoundTrip,10,Australia
+1,RoundTrip,1,Australia
+1,RoundTrip,17,China
+2,RoundTrip,11,China
+1,RoundTrip,5,Australia
+1,RoundTrip,2,Sri Lanka
+1,RoundTrip,7,Australia
+1,RoundTrip,5,Australia
+1,RoundTrip,4,Australia
+1,RoundTrip,4,Australia
+1,RoundTrip,22,United States
+1,RoundTrip,4,India
+5,RoundTrip,0,Australia
+2,RoundTrip,15,Australia
+1,RoundTrip,4,India
+1,RoundTrip,7,India
+2,RoundTrip,13,Australia
+1,RoundTrip,12,Australia
+2,RoundTrip,11,Australia
+1,RoundTrip,2,Australia
+1,RoundTrip,3,Australia
+1,RoundTrip,4,Australia
+1,RoundTrip,23,Australia
+2,RoundTrip,1,Australia
+2,RoundTrip,8,India
+1,RoundTrip,12,Australia
+1,RoundTrip,6,Australia
+1,RoundTrip,23,Australia
+1,RoundTrip,10,Australia
+2,RoundTrip,1,Australia
+2,RoundTrip,3,Australia
+1,RoundTrip,16,Australia
+1,RoundTrip,10,Australia
+3,RoundTrip,13,Australia
+2,RoundTrip,2,Australia
+1,RoundTrip,16,India
+1,RoundTrip,10,Australia
+1,RoundTrip,12,Australia
+2,RoundTrip,6,Australia
+1,RoundTrip,23,Australia
+1,RoundTrip,1,Australia
+2,RoundTrip,8,India
+4,RoundTrip,15,India
+1,RoundTrip,23,Australia
+3,RoundTrip,8,India
+1,RoundTrip,8,Australia
+2,RoundTrip,9,India
+3,RoundTrip,1,Australia
+4,RoundTrip,14,India
+1,RoundTrip,5,Taiwan
+2,RoundTrip,8,Australia
+1,RoundTrip,9,Australia
+1,RoundTrip,9,Philippines
+4,RoundTrip,5,Australia
+1,RoundTrip,22,Australia
+1,RoundTrip,0,Australia
+1,RoundTrip,9,Australia
+3,RoundTrip,23,Australia
+1,RoundTrip,6,Australia
+1,RoundTrip,7,Brunei
+2,RoundTrip,11,Australia
+3,RoundTrip,7,Australia
+1,RoundTrip,16,Australia
+2,RoundTrip,4,Australia
+1,RoundTrip,10,Australia
+1,RoundTrip,22,Australia
+1,RoundTrip,1,Australia
+2,RoundTrip,6,Australia
+1,RoundTrip,9,Australia
+1,RoundTrip,8,Australia
+1,RoundTrip,9,Australia
+1,RoundTrip,10,Australia
+1,RoundTrip,12,Australia
+1,RoundTrip,2,Australia
+1,RoundTrip,1,Australia
+2,RoundTrip,10,Australia
+1,RoundTrip,7,Australia
+1,RoundTrip,11,Australia
+2,RoundTrip,23,Australia
+2,RoundTrip,11,South Korea
+1,RoundTrip,13,Indonesia
+1,RoundTrip,5,Malaysia
+1,RoundTrip,5,Indonesia
+1,RoundTrip,13,Indonesia
+3,RoundTrip,4,Singapore
+1,RoundTrip,14,Indonesia
+1,RoundTrip,17,India
+1,RoundTrip,4,China
+1,RoundTrip,10,Japan
+1,RoundTrip,6,Indonesia
+2,RoundTrip,12,Singapore
+1,RoundTrip,14,Japan
+1,RoundTrip,14,South Korea
+1,RoundTrip,15,Indonesia
+1,RoundTrip,10,Indonesia
+1,RoundTrip,14,South Korea
+2,RoundTrip,18,Indonesia
+1,RoundTrip,10,South Korea
+1,RoundTrip,11,South Korea
+1,RoundTrip,5,Indonesia
+3,OneWay,7,Iran
+1,RoundTrip,13,Indonesia
+1,RoundTrip,6,Indonesia
+3,RoundTrip,11,United Arab Emirates
+1,RoundTrip,5,Indonesia
+1,RoundTrip,2,Japan
+1,RoundTrip,13,Japan
+1,RoundTrip,14,Indonesia
+2,RoundTrip,2,Japan
+1,RoundTrip,12,Japan
+1,RoundTrip,9,Japan
+2,RoundTrip,10,Indonesia
+1,RoundTrip,5,Japan
+1,RoundTrip,9,Japan
+5,RoundTrip,15,Indonesia
+2,RoundTrip,7,Japan
