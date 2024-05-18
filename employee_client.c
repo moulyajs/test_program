@@ -17,12 +17,12 @@ int main()
     }
     else
     {
-        printf("total salary is %d", tot_salary);
+        printf("total salary is %d\n", tot_salary);
     }
 
     printf("the employee details entered is as below\n");
     display_details(e, n);
     employee_t e_max = max(e, n);
-    printf("employee with maximum salary is %s", e_max.name);
+    printf("employee with maximum salary is %s\n", e_max.name);
     return 0;
 }
